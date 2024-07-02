@@ -1,0 +1,461 @@
+id,impairment_category,impairment,feature_type,feature,icd_code,report_date,clinician_specialty,value,person_id
+105823,Cancer,BCC,Type,Type of cancer,C44.91,2034-05-07,General,Skin cancer,3613
+105825,Cancer,BCC,Type,Type of cancer,C44.91,2032-01-25,General,Skin Cancer,3613
+105823,Cancer,BCC,Type,Type of cancer,C44.91,2034-05-07,General,Skin cancer,3613
+105820,Cancer,BCC,Treatment,Treatment for cancer,C44.91,2034-05-07,General,radiation,3613
+105823,Cancer,BCC,Type,Type of cancer,C44.91,2034-05-07,General,Skin cancer,3613
+105824,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2032-01-25,General,BCC,3613
+105829,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,1926-07-01,Unspecified,GERD,3613
+105825,Cancer,BCC,Type,Type of cancer,C44.91,2032-01-25,General,Skin Cancer,3613
+105823,Cancer,BCC,Type,Type of cancer,C44.91,2034-05-07,General,Skin cancer,3613
+105826,Pulmonary,Pneumonia,Impairment,Pneumonia,J18.9,2030-07-05,General,Single episode,3613
+120024,Cancer,Bladder cancer,Treatment,Treatment for cancer,C67.9,2029-02-14,general,surgery,3582
+120034,Orthopedic,spinal disease,Impairment,Other orthopedic disorders,G95.9,2021-08-20,Unspecified,spinal disease,3582
+120024,Cancer,Bladder cancer,Treatment,Treatment for cancer,C67.9,2029-02-14,general,surgery,3582
+120028,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2025-06-16,General,BCC,3582
+120024,Cancer,Bladder cancer,Treatment,Treatment for cancer,C67.9,2029-02-14,general,surgery,3582
+120034,Orthopedic,spinal disease,Impairment,Other orthopedic disorders,G95.9,2021-08-20,Unspecified,spinal disease,3582
+120024,Cancer,Bladder cancer,Treatment,Treatment for cancer,C67.9,2029-02-14,general,surgery,3582
+120033,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57.92,2022-05-18,Unspecified,diverticulitis,3582
+120028,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2025-06-16,General,BCC,3582
+120024,Cancer,Bladder cancer,Treatment,Treatment for cancer,C67.9,2029-02-14,general,surgery,3582
+23849,No Match,,Impairment,In medical history only,,2030-10-29,General,> 1 mention,3586
+23865,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2028-04-02,General,systolic,3586
+23887,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48,2027-04-19,General,Atrial Fibrillation,3586
+23844,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2031-04-19,General,II,3586
+23875,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2027-08-13,General,systolic,3586
+23857,Cerebrovascular,,Type,Other cerebrovascular type,R09.89,2029-04-08,General,carotid bruit,3586
+23857,Cerebrovascular,,Type,Other cerebrovascular type,R09.89,2029-04-08,General,carotid bruit,3586
+23856,Cancer,skin cancer,Treatment,Treatment for cancer,C44.90,2029-04-08,General,surgery,3586
+23887,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48,2027-04-19,General,Atrial Fibrillation,3586
+23875,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2027-08-13,General,systolic,3586
+160079,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2029-09-04,Unspecified,BCC,3610
+160074,Cancer,skin cancer,Type,Specific subtype of cancer,C44.90,2031-10-26,General,SCC,3610
+160079,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2029-09-04,Unspecified,BCC,3610
+160079,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2029-09-04,Unspecified,BCC,3610
+160081,Cancer,SCC,Type,Specific subtype of cancer,C44.92,2023-08-06,General,SCC,3610
+160079,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2029-09-04,Unspecified,BCC,3610
+160079,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2029-09-04,Unspecified,BCC,3610
+160081,Cancer,SCC,Type,Specific subtype of cancer,C44.92,2023-08-06,General,SCC,3610
+160079,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2029-09-04,Unspecified,BCC,3610
+160077,Cancer,skin cancer,Type,Specific subtype of cancer,C44.90,2029-09-25,Unsepcified,SCC,3610
+128612,Gastrointestinal,colon polyps,Impairment,Gastrointestinal disorders,K63.5,2017-12-20,General,colon polyps,3620
+128613,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2017-12-20,General,GERD,3620
+128613,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2017-12-20,General,GERD,3620
+128607,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2029-09-24,General,Diverticulosis,3620
+128607,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2029-09-24,General,Diverticulosis,3620
+128607,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2029-09-24,General,Diverticulosis,3620
+128613,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2017-12-20,General,GERD,3620
+128607,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2029-09-24,General,Diverticulosis,3620
+128610,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2027-11-16,General,GERD,3620
+128613,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2017-12-20,General,GERD,3620
+176294,CAD/Cardiovascular,CABG,Factor,# of vessels CABG,Z95.1,2031-10-14,General,,3583
+176294,CAD/Cardiovascular,CABG,Factor,# of vessels CABG,Z95.1,2031-10-14,General,,3583
+176302,Cancer,prostate cancer,Type,Type of cancer,C61,2031-10-14,General,Prostate cancer,3583
+176309,Cancer,prostate cancer,Type,Type of prostate cancer,C61,2031-04-07,General,Adenocarcinoma,3583
+176304,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I49. 9,2031-09-08,General,PVCs,3583
+176309,Cancer,prostate cancer,Type,Type of prostate cancer,C61,2031-04-07,General,Adenocarcinoma,3583
+176305,CAD/Cardiovascular,CABG,Factor,# of vessels CABG,Z95.1,2031-04-07,General,4,3583
+176294,CAD/Cardiovascular,CABG,Factor,# of vessels CABG,Z95.1,2031-10-14,General,,3583
+176305,CAD/Cardiovascular,CABG,Factor,# of vessels CABG,Z95.1,2031-04-07,General,4,3583
+176308,Cancer,prostate cancer,Factor,Prognosis per doctor,C61,2031-04-07,General,"Start Lupron therapy shortly, after 3-4 months proceed with seed implantation",3583
+116387,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2031-12-21,General,Yes,3591
+116386,No Match,CAD,Impairment,In medical history only,I25.10,2031-12-21,General,> 1 mention,3591
+116386,No Match,CAD,Impairment,In medical history only,I25.10,2031-12-21,General,> 1 mention,3591
+116387,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2031-12-21,General,Yes,3591
+116389,CAD/Cardiovascular,MI,Impairment,Type of heart attack,I21.9,2024-06-23,General,,3591
+116388,CAD/Cardiovascular,CABG,Factor,# of vessels CABG,Z95.1,2031-12-20,General,4,3591
+116388,CAD/Cardiovascular,CABG,Factor,# of vessels CABG,Z95.1,2031-12-20,General,4,3591
+116386,No Match,CAD,Impairment,In medical history only,I25.10,2031-12-21,General,> 1 mention,3591
+116386,No Match,CAD,Impairment,In medical history only,I25.10,2031-12-21,General,> 1 mention,3591
+116389,CAD/Cardiovascular,MI,Impairment,Type of heart attack,I21.9,2024-06-23,General,,3591
+116116,Cancer,melanoma,Type,Type of cancer,C43.9,2029-08-13,General,Skin cancer,3623
+116113,CAD/Cardiovascular,bradycardia,Treatment,Pacemaker insertion,R00.1,2032-02-22,General,Yes,3623
+116116,Cancer,melanoma,Type,Type of cancer,C43.9,2029-08-13,General,Skin cancer,3623
+116113,CAD/Cardiovascular,bradycardia,Treatment,Pacemaker insertion,R00.1,2032-02-22,General,Yes,3623
+116111,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2032-02-22,General,Yes,3623
+116113,CAD/Cardiovascular,bradycardia,Treatment,Pacemaker insertion,R00.1,2032-02-22,General,Yes,3623
+116117,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2029-06-22,General,Heart,3623
+116116,Cancer,melanoma,Type,Type of cancer,C43.9,2029-08-13,General,Skin cancer,3623
+116111,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2032-02-22,General,Yes,3623
+116111,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2032-02-22,General,Yes,3623
+153228,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2028-05-29,General,CHF,3580
+153228,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2028-05-29,General,CHF,3580
+153228,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2028-05-29,General,CHF,3580
+153219,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2028-08-07,General,systolic,3580
+153219,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2028-08-07,General,systolic,3580
+153220,Pulmonary,Asthma,Impairment,Asthma,J45.909,2028-08-07,General,Yes,3580
+153226,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2028-08-07,General,CHF,3580
+153221,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2028-08-07,General,Heart,3580
+153226,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2028-08-07,General,CHF,3580
+153223,Valvular heart disease,Valve replacement / valve repair,Treatment,Valve Replacement / Valve Repair,Z95.4,2028-08-07,General,mitral valve,3580
+158198,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2028-11-22,Unspecified,Diverticulosis,3593
+158198,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2028-11-22,Unspecified,Diverticulosis,3593
+158197,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57. 92,2028-12-27,Medicine,Diverticulosis,3593
+158197,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57. 92,2028-12-27,Medicine,Diverticulosis,3593
+158197,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57. 92,2028-12-27,Medicine,Diverticulosis,3593
+158197,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57. 92,2028-12-27,Medicine,Diverticulosis,3593
+158197,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57. 92,2028-12-27,Medicine,Diverticulosis,3593
+158197,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57. 92,2028-12-27,Medicine,Diverticulosis,3593
+158197,Gastrointestinal,diverticulitis,Impairment,Gastrointestinal disorders,K57. 92,2028-12-27,Medicine,Diverticulosis,3593
+158198,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2028-11-22,Unspecified,Diverticulosis,3593
+144292,Pulmonary,chronic bronchitis,Type,Type of pulmonary disease,J42,2033-09-22,General,Bronchitis,3614
+144303,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I49.9,2029-02-26,General,SVT,3614
+144305,Valvular heart disease,mitral valve disease,Type,Type of valve disease,I34.9,2029-02-07,General,mitral valve regurgitation,3614
+144303,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I49.9,2029-02-26,General,SVT,3614
+144292,Pulmonary,chronic bronchitis,Type,Type of pulmonary disease,J42,2033-09-22,General,Bronchitis,3614
+144299,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2030-02-25,General,Yes,3614
+144305,Valvular heart disease,mitral valve disease,Type,Type of valve disease,I34.9,2029-02-07,General,mitral valve regurgitation,3614
+144301,Cerebrovascular,TIA,Type,Stroke type,G45.9,2029-11-12,General,TIA,3614
+144293,Valvular heart disease,mitral valve disease,Type,Type of valve disease,I34.9,2033-08-19,General,mitral valve regurgitation,3614
+144292,Pulmonary,chronic bronchitis,Type,Type of pulmonary disease,J42,2033-09-22,General,Bronchitis,3614
+112081,Cancer,prostate cancer,Type,Type of prostate cancer,C61,2033-09-07,General,Adenocarcinoma,3612
+112081,Cancer,prostate cancer,Type,Type of prostate cancer,C61,2033-09-07,General,Adenocarcinoma,3612
+112081,Cancer,prostate cancer,Type,Type of prostate cancer,C61,2033-09-07,General,Adenocarcinoma,3612
+112085,Cancer,prostate cancer,Stage,Stage,C61,2029-03-12,General,4,3612
+112081,Cancer,prostate cancer,Type,Type of prostate cancer,C61,2033-09-07,General,Adenocarcinoma,3612
+112081,Cancer,prostate cancer,Type,Type of prostate cancer,C61,2033-09-07,General,Adenocarcinoma,3612
+112086,Cancer,prostate cancer,Stage,TNM Staging,C61,2029-03-12,General,T2b NX M0,3612
+112083,CAD/Cardiovascular,MI,Impairment,Type of heart attack,I21.9,2029-03-12,General,,3612
+112083,CAD/Cardiovascular,MI,Impairment,Type of heart attack,I21.9,2029-03-12,General,,3612
+112087,CAD/Cardiovascular,CAD,Factor,# Stents Placed,I25.10,2028-03-27,Oncologist,1,3612
+56699,Cancer,melanoma,Type,Type of cancer,C43. 9,2025-10-27,Unspecified,Malignant melanoma,3609
+56696,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2029-09-04,General,aortic valve stenosis,3609
+56694,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,R00. 1,2029-09-04,General,bradycardia,3609
+56694,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,R00. 1,2029-09-04,General,bradycardia,3609
+56697,Cancer,melanoma,Factor,Histology,C43. 9,2025-10-27,Unspecified,"Pathology: Lt shoulder: Superficially spreading malignant melanoma, level II-III, 0.45 MM invasion. Pathology extends to one of the lateral margins of the specimen",3609
+56692,CAD/Cardiovascular,atrial fibrillation,Treatment,Medication for arrhythmia,I48. 91,2030-06-05,General,rhythm control,3609
+56699,Cancer,melanoma,Type,Type of cancer,C43. 9,2025-10-27,Unspecified,Malignant melanoma,3609
+56694,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,R00. 1,2029-09-04,General,bradycardia,3609
+56692,CAD/Cardiovascular,atrial fibrillation,Treatment,Medication for arrhythmia,I48. 91,2030-06-05,General,rhythm control,3609
+56696,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2029-09-04,General,aortic valve stenosis,3609
+114816,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2035-06-10,General,aortic valve stenosis,3621
+114826,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2030-03-04,General,1+,3621
+114821,Pulmonary,Sleep apnea,Impairment,Obstructive sleep apnea,G47.30,2033-03-27,General,Yes,3621
+114826,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2030-03-04,General,1+,3621
+114826,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2030-03-04,General,1+,3621
+114820,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2035-02-20,General,bilateral,3621
+114826,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2030-03-04,General,1+,3621
+114820,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2035-02-20,General,bilateral,3621
+114816,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2035-06-10,General,aortic valve stenosis,3621
+114816,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2035-06-10,General,aortic valve stenosis,3621
+52320,Cancer,skin cancer,Type,Type of cancer,C44.90,1976-07-01,General,SCC,3622
+52320,Cancer,skin cancer,Type,Type of cancer,C44.90,1976-07-01,General,SCC,3622
+52318,Cancer,skin cancer,Type,Type of cancer,C44.9,2033-11-30,General,SCC,3622
+52320,Cancer,skin cancer,Type,Type of cancer,C44.90,1976-07-01,General,SCC,3622
+52320,Cancer,skin cancer,Type,Type of cancer,C44.90,1976-07-01,General,SCC,3622
+52316,Blood Disorders,essential thrombocytopenia,Factor,Myeloproliferative Disorder,D47.3,2034-03-21,General,Yes,3622
+52320,Cancer,skin cancer,Type,Type of cancer,C44.90,1976-07-01,General,SCC,3622
+52317,Cancer,skin cancer,Treatment,Treatment for cancer,C44.9,2033-11-30,General,surgery,3622
+52320,Cancer,skin cancer,Type,Type of cancer,C44.90,1976-07-01,General,SCC,3622
+52318,Cancer,skin cancer,Type,Type of cancer,C44.9,2033-11-30,General,SCC,3622
+192320,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2034-10-08,General,CHF,3603
+192330,CAD/Cardiovascular,bradycardia,Type,Arrhythmias Type,R00.1,2034-04-21,General,bradycardia,3603
+192324,Cancer,BCC,Treatment,Treatment for cancer,C44.91,2034-10-07,General,surgery,3603
+192334,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2032-05-18,General,BCC,3603
+192315,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2034-10-11,General,Atrial Fibrillation,3603
+192334,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2032-05-18,General,BCC,3603
+192334,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2032-05-18,General,BCC,3603
+192334,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2032-05-18,General,BCC,3603
+192320,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2034-10-08,General,CHF,3603
+192334,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2032-05-18,General,BCC,3603
+5399,All,,Impairment,In medical history only,,2037-09-01,Urologist,> 1 mention,3588
+5415,,Angina,Symptoms,Angina,,2027-09-05,Unknown,Yes,3588
+5410,,heart murmur,Grade,Grade,R01. 1,2035-04-06,General,II,3588
+5402,,heart murmur,Grade,Grade,R01.1,2037-08-03,General,I,3588
+5401,,Left Ventricular Hypertrophy,Factor,Description,I42.2,2037-08-03,General,not defined,3588
+5402,,heart murmur,Grade,Grade,R01.1,2037-08-03,General,I,3588
+5404,,Left Ventricular Hypertrophy,Treatment,Treatment for LVH,I42.2,2037-08-03,General,angiotensin receptor blockers (ARBs),3588
+5399,All,,Impairment,In medical history only,,2037-09-01,Urologist,> 1 mention,3588
+5405,Endocrine,hypothyroidism,Impairment,Endocrine disorders,E03.9,2037-07-26,General,Hypothyroidism,3588
+5404,,Left Ventricular Hypertrophy,Treatment,Treatment for LVH,I42.2,2037-08-03,General,angiotensin receptor blockers (ARBs),3588
+41516,Orthopedic,Joint replacement,Impairment,Other orthopedic disorders,Z96.651,2034-02-14,Unspecified,Joint replacement,3627
+41511,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I47.9,2034-02-28,Unspecified,tachycardia,3627
+41506,No Match,PVD,Impairment,In medical history only,I73.9,2034-02-28,Unspecified,> 1 mention,3627
+41506,No Match,PVD,Impairment,In medical history only,I73.9,2034-02-28,Unspecified,> 1 mention,3627
+41527,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I47.9,2031-07-28,Unspecified,PAF,3627
+41521,Orthopedic,spinal disease,Impairment,Other orthopedic disorders,,2031-07-28,Unspecified,spinal disease,3627
+41511,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I47.9,2034-02-28,Unspecified,tachycardia,3627
+41516,Orthopedic,Joint replacement,Impairment,Other orthopedic disorders,Z96.651,2034-02-14,Unspecified,Joint replacement,3627
+41516,Orthopedic,Joint replacement,Impairment,Other orthopedic disorders,Z96.651,2034-02-14,Unspecified,Joint replacement,3627
+41521,Orthopedic,spinal disease,Impairment,Other orthopedic disorders,,2031-07-28,Unspecified,spinal disease,3627
+56936,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2034-02-03,Cardiology,2/6,3596
+56936,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2034-02-03,Cardiology,2/6,3596
+56939,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2033-07-31,Cardiology,2/6,3596
+56938,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2034-01-25,Cardiology,1+,3596
+56932,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I25.10,2034-04-26,Cardiology,Heart,3596
+56942,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I25.10,2031-05-09,Cardiology,Heart,3596
+56936,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2034-02-03,Cardiology,2/6,3596
+56936,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2034-02-03,Cardiology,2/6,3596
+56942,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I25.10,2031-05-09,Cardiology,Heart,3596
+56939,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2033-07-31,Cardiology,2/6,3596
+87316,Cancer,ureteral cancer,Factor,Recurrence,C66.9,2034-10-08,General,Yes,3597
+87312,Cancer,Bladder cancer,Treatment,Treatment for bladder cancer,C67.9,2034-11-13,General,TURBT,3597
+87312,Cancer,Bladder cancer,Treatment,Treatment for bladder cancer,C67.9,2034-11-13,General,TURBT,3597
+87314,Cancer,renal cancer,Scale,Grade,C64.9,2034-10-17,General,high,3597
+87310,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2034-11-13,General,renal insufficency,3597
+87304,Cancer,Bladder cancer,Type,Type of bladder cancer,C67.9,2036-12-23,General,TCC,3597
+87302,Cancer,Bladder cancer,Type,Type of cancer,C67.9,2037-02-23,General,Bladder cancer,3597
+87315,Cancer,renal cancer,Type,Type of cancer,C64.9,2034-10-17,General,TCC,3597
+87312,Cancer,Bladder cancer,Treatment,Treatment for bladder cancer,C67.9,2034-11-13,General,TURBT,3597
+87304,Cancer,Bladder cancer,Type,Type of bladder cancer,C67.9,2036-12-23,General,TCC,3597
+55390,Cancer,skin cancer,Type,Type of cancer,C44.90,2030-04-27,General Medicine,BCC,3617
+55390,Cancer,skin cancer,Type,Type of cancer,C44.90,2030-04-27,General Medicine,BCC,3617
+55390,Cancer,skin cancer,Type,Type of cancer,C44.90,2030-04-27,General Medicine,BCC,3617
+55392,Cancer,skin cancer,Type,Type of cancer,C44.90,2030-04-17,General Medicine,BCC,3617
+55393,Pulmonary,chronic bronchitis,Type,Type of pulmonary disease,J20.9,2028-04-29,Unspecified,Bronchitis,3617
+55383,Cancer,skin cancer,Treatment,Treatment for cancer,C44.9,2034-07-04,General Medicine,surgery,3617
+55387,Cancer,skin cancer,Treatment,Treatment for cancer,C44.9,2031-04-28,Dermatology,surgery,3617
+55392,Cancer,skin cancer,Type,Type of cancer,C44.90,2030-04-17,General Medicine,BCC,3617
+55393,Pulmonary,chronic bronchitis,Type,Type of pulmonary disease,J20.9,2028-04-29,Unspecified,Bronchitis,3617
+55392,Cancer,skin cancer,Type,Type of cancer,C44.90,2030-04-17,General Medicine,BCC,3617
+90754,Underwriter Observations,Comingled records,Factor,Medical records evaluation,,1976-07-01,General,Comingled records,3579
+90733,Cancer,BCC,Type,Type of cancer,C44.91,2035-09-09,General,Skin cancer,3579
+90754,Underwriter Observations,Comingled records,Factor,Medical records evaluation,,1976-07-01,General,Comingled records,3579
+90722,No Match,Rheumatoid arthritis,Impairment,In medical history only,M06.9,2037-11-17,Rheumatology,> 1 mention,3579
+90722,No Match,Rheumatoid arthritis,Impairment,In medical history only,M06.9,2037-11-17,Rheumatology,> 1 mention,3579
+90728,No Match,Chronic kidney disease,Impairment,In medical history only,N18.9,2036-07-12,General,> 1 mention,3579
+90722,No Match,Rheumatoid arthritis,Impairment,In medical history only,M06.9,2037-11-17,Rheumatology,> 1 mention,3579
+90756,Underwriter Observations,Comingled records,Factor,Medical records evaluation,,1976-07-01,General,Comingled records,3579
+90727,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2036-12-16,General,BCC,3579
+90727,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2036-12-16,General,BCC,3579
+71614,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2045-06-13,General,Atrial Fibrillation,3602
+71614,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2045-06-13,General,Atrial Fibrillation,3602
+71679,Cancer,skin cancer,Type,Type of cancer,C44.90,2031-04-29,Unspecified,SCC,3602
+71612,Pulmonary,Sleep apnea,Impairment,Obstructive sleep apnea,G47.30,2045-06-13,General,Yes,3602
+71612,Pulmonary,Sleep apnea,Impairment,Obstructive sleep apnea,G47.30,2045-06-13,General,Yes,3602
+71662,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2034-11-20,Cardiovascular,,3602
+71685,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,1976-07-01,General,Aortic valve insufficiency,3602
+71614,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2045-06-13,General,Atrial Fibrillation,3602
+71614,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2045-06-13,General,Atrial Fibrillation,3602
+71685,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,1976-07-01,General,Aortic valve insufficiency,3602
+42941,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2034-08-21,General,2/6,3608
+42940,Pulmonary,Sleep apnea,Treatment,Treatment for sleep apnea,G47.30,2034-12-19,General,CPAP compliance,3608
+42935,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2035-05-12,"Richard L. Lindsey, MD",2/6,3608
+42918,No Match,aneurysm,Impairment,In medical history only,,2035-12-17,General,> 1 mention,3608
+42941,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2034-08-21,General,2/6,3608
+42918,No Match,aneurysm,Impairment,In medical history only,,2035-12-17,General,> 1 mention,3608
+42936,Pulmonary,Sleep apnea,Impairment,Obstructive sleep apnea,G47.30,2035-03-23,Neurology,Yes,3608
+42941,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2034-08-21,General,2/6,3608
+42935,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2035-05-12,"Richard L. Lindsey, MD",2/6,3608
+42922,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.20,2035-12-17,General,Atrial Fibrillation,3608
+184862,CAD/Cardiovascular,atrial fibrillation,Symptoms,Symptoms,I48.91,2038-06-16,General,asymptomatic,3592
+184861,Cerebrovascular,TIA,Type,Stroke type,G45.9,2038-11-22,General,TIA,3592
+184860,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2038-11-22,General,Atrial Fibrillation,3592
+184862,CAD/Cardiovascular,atrial fibrillation,Symptoms,Symptoms,I48.91,2038-06-16,General,asymptomatic,3592
+184866,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2037-12-20,General,Yes,3592
+184860,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2038-11-22,General,Atrial Fibrillation,3592
+184866,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2037-12-20,General,Yes,3592
+184866,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2037-12-20,General,Yes,3592
+184862,CAD/Cardiovascular,atrial fibrillation,Symptoms,Symptoms,I48.91,2038-06-16,General,asymptomatic,3592
+184867,Blood Disorders,Anemia,Type,Anemia Type,D64.9,2037-12-20,General,Unspecified,3592
+147774,Underwriter Observations,APS illegible or difficult,Factor,Medical records evaluation,,2037-05-22,General,APS illegible or difficult,3606
+147787,Cancer,prostate cancer,Treatment,Treatment for cancer,C61,2034-06-11,General,radiation,3606
+147781,Underwriter Observations,APS illegible or difficult,Factor,Medical records evaluation,,2036-08-01,Unspecified,APS generally hard to read,3606
+147786,Neurological,memory loss,Symptoms,Memory loss,R41.3,2034-06-11,General,no details,3606
+147787,Cancer,prostate cancer,Treatment,Treatment for cancer,C61,2034-06-11,General,radiation,3606
+147781,Underwriter Observations,APS illegible or difficult,Factor,Medical records evaluation,,2036-08-01,Unspecified,APS generally hard to read,3606
+147783,Cancer,Bladder cancer,Treatment,Treatment for cancer,C67.9,2034-08-04,General,radiation,3606
+147789,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2034-06-11,General,Atrial Fibrillation,3606
+147787,Cancer,prostate cancer,Treatment,Treatment for cancer,C61,2034-06-11,General,radiation,3606
+147775,Orthopedic,spinal disease,Impairment,Other orthopedic disorders,G95.9,2036-08-11,General,spinal disease,3606
+115806,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2037-06-17,General,CHF,3616
+115807,Valvular heart disease,mitral valve disease,Type,Type of valve disease,I34.9,2037-06-17,General,mitral valve insufficiency,3616
+115811,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I49.9,1926-07-01,General,tachycardia,3616
+115807,Valvular heart disease,mitral valve disease,Type,Type of valve disease,I34.9,2037-06-17,General,mitral valve insufficiency,3616
+115804,No Match,CAD,Impairment,In medical history only,I25.10,2037-06-17,General,> 1 mention,3616
+115806,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2037-06-17,General,CHF,3616
+115805,No Match,Diabetes,Impairment,In medical history only,E11.8,2037-06-17,General,> 1 mention,3616
+115804,No Match,CAD,Impairment,In medical history only,I25.10,2037-06-17,General,> 1 mention,3616
+115806,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2037-06-17,General,CHF,3616
+115807,Valvular heart disease,mitral valve disease,Type,Type of valve disease,I34.9,2037-06-17,General,mitral valve insufficiency,3616
+200844,Gastrointestinal,peptic ulcer,Impairment,Gastrointestinal disorders,K27,2029-09-03,General,peptic ulcer,3624
+200845,No Match,Stroke,Impairment,In medical history only,I63.9,2029-09-03,General,Single mention,3624
+200846,Cerebrovascular,TIA,Type,Stroke type,G45.9,2029-09-03,General,TIA,3624
+200844,Gastrointestinal,peptic ulcer,Impairment,Gastrointestinal disorders,K27,2029-09-03,General,peptic ulcer,3624
+200846,Cerebrovascular,TIA,Type,Stroke type,G45.9,2029-09-03,General,TIA,3624
+200843,Gastrointestinal,diverticulosis,Impairment,Gastrointestinal disorders,K57.90,2031-02-17,General,Diverticulosis,3624
+200846,Cerebrovascular,TIA,Type,Stroke type,G45.9,2029-09-03,General,TIA,3624
+200844,Gastrointestinal,peptic ulcer,Impairment,Gastrointestinal disorders,K27,2029-09-03,General,peptic ulcer,3624
+200845,No Match,Stroke,Impairment,In medical history only,I63.9,2029-09-03,General,Single mention,3624
+200846,Cerebrovascular,TIA,Type,Stroke type,G45.9,2029-09-03,General,TIA,3624
+117770,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2035-11-22,General,Yes,3604
+117766,Neurological,Alzheimer's,Symptoms,Cognitive impairment manifestations,G30.9,2037-09-22,General,repetition,3604
+117771,Neurological,memory loss,Symptoms,Memory loss,R41.3,2034-07-08,General,age-related,3604
+117764,Neurological,Alzheimer's,Type,Dementia Type,G30.9,2037-12-28,General,Alzheimer's,3604
+117771,Neurological,memory loss,Symptoms,Memory loss,R41.3,2034-07-08,General,age-related,3604
+117770,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2035-11-22,General,Yes,3604
+117768,Neurological,Alzheimer's,Symptoms,Cognitive impairment manifestations,G30.9,2037-03-14,General,forgetfulness,3604
+117767,Neurological,MCI,Symptoms,Memory loss,G31.84,2037-04-11,General,short-term,3604
+117771,Neurological,memory loss,Symptoms,Memory loss,R41.3,2034-07-08,General,age-related,3604
+117771,Neurological,memory loss,Symptoms,Memory loss,R41.3,2034-07-08,General,age-related,3604
+150856,No Match,Essential thrombocythemia,Impairment,In medical history only,D47.3,2038-03-02,General,> 1 mention,3594
+150858,Cancer,pancreatic cancer,Treatment,Treatment for cancer,C25.9,2038-03-02,General,surgery,3594
+150864,Cancer,pancreatic cancer,Type,Type of cancer,C25.9,2036-08-21,General,Pancreatic cancer,3594
+150858,Cancer,pancreatic cancer,Treatment,Treatment for cancer,C25.9,2038-03-02,General,surgery,3594
+150864,Cancer,pancreatic cancer,Type,Type of cancer,C25.9,2036-08-21,General,Pancreatic cancer,3594
+150860,Cancer,pancreatic cancer,Type,Type of cancer,C25.9,2038-03-02,General,Pancreatic cancer,3594
+150868,Cancer,pancreatic cancer,Factor,Post treatment surveillance,C25.9,2035-03-16,General,Yes,3594
+150870,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2035-03-16,General,GERD,3594
+150857,Blood Disorders,Anemia,Treatment,Treatment for Anemia,D64.9,2038-03-02,General,OTC iron,3594
+150881,Cancer,pancreatic cancer,Treatment,Treatment for cancer,C25.9,2024-07-01,Unspecified,surgery,3594
+101665,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2035-09-05,General,2+,3600
+101656,No Match,Stroke,Impairment,In medical history only,I63.9,2037-01-08,General,> 1 mention,3600
+101652,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2037-09-25,General,,3600
+101666,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I49.9,2035-01-14,General,PVCs,3600
+101652,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2037-09-25,General,,3600
+101663,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2037-01-08,General,CHF,3600
+101671,Cancer,prostate cancer,Scale,Gleason Group,C61,2023-07-13,General,4+3 (7),3600
+101656,No Match,Stroke,Impairment,In medical history only,I63.9,2037-01-08,General,> 1 mention,3600
+101664,CAD/Cardiovascular,heart failure,Type,Heart failure type,I50.9,2037-01-08,General,heart failure,3600
+101660,Valvular heart disease,Valve replacement / valve repair,Treatment,Valve Replacement / Valve Repair,Z95.4,2037-01-08,General,,3600
+117781,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2038-06-05,General,Unspecified,3626
+117784,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2036-02-05,General,palpitations,3626
+117783,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2037-08-07,General,renal insufficency,3626
+117779,Endocrine,hypothyroidism,Impairment,Endocrine disorders,E03.9,2038-06-05,General,Hypothyroidism,3626
+117779,Endocrine,hypothyroidism,Impairment,Endocrine disorders,E03.9,2038-06-05,General,Hypothyroidism,3626
+117780,Gastrointestinal,gout,Impairment,Gastrointestinal disorders,M10.9,2038-06-05,General,gout,3626
+117779,Endocrine,hypothyroidism,Impairment,Endocrine disorders,E03.9,2038-06-05,General,Hypothyroidism,3626
+117779,Endocrine,hypothyroidism,Impairment,Endocrine disorders,E03.9,2038-06-05,General,Hypothyroidism,3626
+117784,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2036-02-05,General,palpitations,3626
+117783,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2037-08-07,General,renal insufficency,3626
+152190,CAD/Cardiovascular,Arrhythmias,Symptoms,Symptoms,I49.9,2036-04-13,General,asymptomatic,3587
+152190,CAD/Cardiovascular,Arrhythmias,Symptoms,Symptoms,I49.9,2036-04-13,General,asymptomatic,3587
+152187,Cancer,BCC,Type,Type of cancer,C44.91,2037-09-09,General,Skin cancer,3587
+152187,Cancer,BCC,Type,Type of cancer,C44.91,2037-09-09,General,Skin cancer,3587
+152184,Cancer,BCC,Type,Type of cancer,C44.91,2037-10-05,Dermatology,Skin cancer,3587
+152184,Cancer,BCC,Type,Type of cancer,C44.91,2037-10-05,Dermatology,Skin cancer,3587
+152186,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2037-09-09,General,BCC,3587
+152190,CAD/Cardiovascular,Arrhythmias,Symptoms,Symptoms,I49.9,2036-04-13,General,asymptomatic,3587
+152190,CAD/Cardiovascular,Arrhythmias,Symptoms,Symptoms,I49.9,2036-04-13,General,asymptomatic,3587
+152183,Cancer,BCC,Type,Specific subtype of cancer,C44.91,2037-10-05,Dermatology,BCC,3587
+118325,Autoimmune Disorders,Lifestyle,Factor,Functional status,Z72.9,2040-12-10,General,ambulatory (short distances only),3589
+118341,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2029-06-20,General,Atrial Fibrillation,3589
+118318,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2042-06-14,General,2/6,3589
+118310,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2042-07-04,General,Yes,3589
+118336,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2034-12-16,Cardiology,aortic valve stenosis,3589
+118336,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2034-12-16,Cardiology,aortic valve stenosis,3589
+118336,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2034-12-16,Cardiology,aortic valve stenosis,3589
+118310,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2042-07-04,General,Yes,3589
+118310,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2042-07-04,General,Yes,3589
+118310,Neurological,Neuropathy,Impairment,Peripheral neuropathy,G90.09,2042-07-04,General,Yes,3589
+126641,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2040-11-24,Unspecified,GERD,3628
+126641,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2040-11-24,Unspecified,GERD,3628
+126645,Cancer,prostate cancer,Treatment,Prostatetomy,C61,2039-12-21,Unspecified,Yes,3628
+126645,Cancer,prostate cancer,Treatment,Prostatetomy,C61,2039-12-21,Unspecified,Yes,3628
+126641,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2040-11-24,Unspecified,GERD,3628
+126641,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2040-11-24,Unspecified,GERD,3628
+126642,Cancer,prostate cancer,Factor,Post treatment surveillance,C61,2040-10-21,General,Yes,3628
+126645,Cancer,prostate cancer,Treatment,Prostatetomy,C61,2039-12-21,Unspecified,Yes,3628
+126641,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2040-11-24,Unspecified,GERD,3628
+126646,No Match,arrhythmias,Impairment,In medical history only,I49.9,2034-10-11,General,> 1 mention,3628
+115213,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-07-30,General,palpitations,3598
+115216,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,2/6,3598
+115216,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,2/6,3598
+115214,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,systolic,3598
+115217,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,2/6,3598
+115217,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,2/6,3598
+115213,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-07-30,General,palpitations,3598
+115216,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,2/6,3598
+115214,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,systolic,3598
+115217,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2040-06-10,General,2/6,3598
+140232,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I49.9,2040-11-27,general,tachycardia,3605
+140228,CAD/Cardiovascular,atrial fibrillation,Treatment,Medication for arrhythmia,I48.91,2040-12-13,general,anticoagulation,3605
+140230,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2040-11-27,general,4,3605
+140224,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2041-04-13,general,1+,3605
+140224,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2041-04-13,general,1+,3605
+140228,CAD/Cardiovascular,atrial fibrillation,Treatment,Medication for arrhythmia,I48.91,2040-12-13,general,anticoagulation,3605
+140225,Endocrine,Diabetes,Factor,Complications,E11.8,2041-04-03,general,nephropathy,3605
+140230,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2040-11-27,general,4,3605
+140232,CAD/Cardiovascular,Arrhythmias,Type,Arrhythmias Type,I49.9,2040-11-27,general,tachycardia,3605
+140221,Gastrointestinal,gout,Impairment,Gastrointestinal disorders,M10.9,2041-04-23,general,gout,3605
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+139932,CAD/Cardiovascular,palpitations,Type,Arrhythmias Type,R00.2,2040-05-18,General,palpitations,3618
+92720,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2038-10-05,General,GERD,3581
+92720,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2038-10-05,General,GERD,3581
+92720,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2038-10-05,General,GERD,3581
+92720,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2038-10-05,General,GERD,3581
+92691,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2042-03-02,General,,3581
+92720,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2038-10-05,General,GERD,3581
+92691,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2042-03-02,General,,3581
+92693,Aneurysms,Abdominal aortic aneurysm,Treatment,Aneurysm repair,I71.4,2042-03-02,General,Yes,3581
+92691,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2042-03-02,General,,3581
+92720,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2038-10-05,General,GERD,3581
+104897,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2043-11-22,General,Heart,3601
+104877,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2044-02-28,General,PAF,3601
+104877,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2044-02-28,General,PAF,3601
+104898,Gastrointestinal,GERD,Impairment,Gastrointestinal disorders,K21.9,2043-11-22,General,GERD,3601
+104901,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2042-01-02,General,irregular rhythm/heartbeat,3601
+104897,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2043-11-22,General,Heart,3601
+104901,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2042-01-02,General,irregular rhythm/heartbeat,3601
+104875,PVD,Venous insufficiency,Symptoms,Venous insufficiency,I87.2,2044-02-28,General,with edema,3601
+104901,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2042-01-02,General,irregular rhythm/heartbeat,3601
+104897,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2043-11-22,General,Heart,3601
+128804,CAD/Cardiovascular,Myocardial infarction,Impairment,Type of heart attack,I21.9,2041-11-01,General,,3595
+128803,Valvular heart disease,Heart murmur,Grade,Grade,R01.1,2041-11-01,General,3/6,3595
+128812,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2041-11-01,General,aortic valve stenosis,3595
+128805,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2041-11-01,General,Yes,3595
+128769,Endocrine,Diabetes,Factor,Complications,E11.8,2043-08-23,General,,3595
+128804,CAD/Cardiovascular,Myocardial infarction,Impairment,Type of heart attack,I21.9,2041-11-01,General,,3595
+128812,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2041-11-01,General,aortic valve stenosis,3595
+128812,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2041-11-01,General,aortic valve stenosis,3595
+128801,Cerebrovascular,CVA,Factor,Residual effects of event,I63.9,2041-11-01,General,visual effects,3595
+128815,Endocrine,Diabetes,Factor,Complications,E11.8,2040-12-30,General,,3595
+203479,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2043-12-21,General,Unspecified,3611
+203482,CAD/Cardiovascular,Edema,Symptoms,Edema,R60.9,2043-12-21,General,peripheral,3611
+203488,Cancer,breast cancer,Treatment,Treatment for cancer,C50.919,2043-12-21,General,surgery,3611
+203478,Pulmonary,Sleep apnea,Impairment,Obstructive sleep apnea,G47.30,2043-12-21,General,Yes,3611
+203481,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2043-12-21,General,Yes,3611
+203478,Pulmonary,Sleep apnea,Impairment,Obstructive sleep apnea,G47.30,2043-12-21,General,Yes,3611
+203481,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2043-12-21,General,Yes,3611
+203488,Cancer,breast cancer,Treatment,Treatment for cancer,C50.919,2043-12-21,General,surgery,3611
+203481,CAD/Cardiovascular,Angina,Symptoms,Angina,I20.9,2043-12-21,General,Yes,3611
+203479,Renal,Chronic kidney disease,Stage,CKD Stage,N18.9,2043-12-21,General,Unspecified,3611
+139090,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2041-12-16,General,PAF,3615
+139090,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2041-12-16,General,PAF,3615
+139086,Blood Disorders,Anemia,Type,Anemia Type,D64.9,2043-08-06,General,Iron deficiency anemia,3615
+139083,CAD/Cardiovascular,atrial fibrillation,Treatment,Medication for arrhythmia,I48.91,2044-11-29,General,anticoagulation,3615
+139086,Blood Disorders,Anemia,Type,Anemia Type,D64.9,2043-08-06,General,Iron deficiency anemia,3615
+139086,Blood Disorders,Anemia,Type,Anemia Type,D64.9,2043-08-06,General,Iron deficiency anemia,3615
+139090,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2041-12-16,General,PAF,3615
+139086,Blood Disorders,Anemia,Type,Anemia Type,D64.9,2043-08-06,General,Iron deficiency anemia,3615
+139084,CAD/Cardiovascular,atrial fibrillation,Type,Arrhythmias Type,I48.91,2044-11-29,General,PAF,3615
+139086,Blood Disorders,Anemia,Type,Anemia Type,D64.9,2043-08-06,General,Iron deficiency anemia,3615
+57458,Underwriter Observations,APS illegible or difficult,Factor,Medical records evaluation,,1976-07-01,General,APS illegible or difficult,3607
+57443,Neurological,Dementia,Symptoms,Cognitive impairment manifestations,F03.90,2045-09-28,General,with behavioral disturbance,3607
+57455,Neurological,Alzheimer's,Symptoms,Cognitive impairment manifestations,G30.9,2041-11-22,General,,3607
+57458,Underwriter Observations,APS illegible or difficult,Factor,Medical records evaluation,,1976-07-01,General,APS illegible or difficult,3607
+57458,Underwriter Observations,APS illegible or difficult,Factor,Medical records evaluation,,1976-07-01,General,APS illegible or difficult,3607
+57453,Neurological,Alzheimer's,Type,Dementia Type,G30.9,2042-04-01,General,Alzheimer's,3607
+57457,Underwriter Observations,APS illegible or difficult,Factor,Medical records evaluation,,1976-07-01,General,APS illegible or difficult,3607
+57453,Neurological,Alzheimer's,Type,Dementia Type,G30.9,2042-04-01,General,Alzheimer's,3607
+57453,Neurological,Alzheimer's,Type,Dementia Type,G30.9,2042-04-01,General,Alzheimer's,3607
+57448,Orthopedic,hip fracture,Impairment,Other orthopedic disorders,S72.90XA,2045-07-09,General,hip fracture,3607
+139178,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2045-07-17,General,aorta,3619
+139178,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2045-07-17,General,aorta,3619
+139179,Endocrine,prediabetes,Impairment,Endocrine disorders,R73.03,2045-07-17,General,pre-diabetes,3619
+139178,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2045-07-17,General,aorta,3619
+139185,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2040-03-20,General,,3619
+139178,CAD/Cardiovascular,Atheroclerosis,Impairment,Disease present,I70.90,2045-07-17,General,aorta,3619
+139185,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2040-03-20,General,,3619
+139185,Valvular heart disease,aortic valve disease,Type,Type of valve disease,I35.9,2040-03-20,General,,3619
+139179,Endocrine,prediabetes,Impairment,Endocrine disorders,R73.03,2045-07-17,General,pre-diabetes,3619
+139182,Neurological,memory issues,Symptoms,Cognitive impairment manifestations,R41.3,2045-02-28,General,forgetfulness,3619
+106582,PVD,Venous insufficiency,Symptoms,Venous insufficiency,I87.2,2036-08-08,General,with edema,3590
+106585,Cancer,breast cancer,Type,Specific subtype of cancer,C50.919,2030-04-01,General,Invasive lobular carcinoma,3590
+106559,Pulmonary,Pulmonary embolism,Impairment,Pulmonary embolism,I26.99,2040-08-04,General,Yes,3590
+106548,Blood Disorders,Anemia,Type,Anemia Type,D64.9,2041-10-28,General,Unspecified,3590
+106559,Pulmonary,Pulmonary embolism,Impairment,Pulmonary embolism,I26.99,2040-08-04,General,Yes,3590
+106585,Cancer,breast cancer,Type,Specific subtype of cancer,C50.919,2030-04-01,General,Invasive lobular carcinoma,3590
+106572,No Match,Neuropathy,Impairment,In medical history only,G90.09,2039-06-03,General,Single mention,3590
+106585,Cancer,breast cancer,Type,Specific subtype of cancer,C50.919,2030-04-01,General,Invasive lobular carcinoma,3590
+106559,Pulmonary,Pulmonary embolism,Impairment,Pulmonary embolism,I26.99,2040-08-04,General,Yes,3590
+106574,Cancer,breast cancer,Treatment,Treatment for cancer,C50.919,2038-07-10,General,radiation,3590

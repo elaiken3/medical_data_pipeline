@@ -1,0 +1,481 @@
+impairment_category,impairment,din,rx_name,rx_type,start_date,end_date,rx_date,rx_norm,person_id
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,BPH,,FLOMAX,Alpha Blockers,2033-08-22,,2033-08-22,190283.0,3585
+,,,FLUOXETINE,SSRI,2034-02-28,,2034-02-28,1190110.0,3613
+,,,VESICARE,Antimuscarinic,2034-02-28,,2034-02-28,539815.0,3613
+,,,FLONASE,Adrenals,2034-02-28,,2034-02-28,1797933.0,3613
+,,,MEXITIL,Class Ib Antiarrhythmics,2031-06-15,,2031-06-15,,3613
+,,,VICODIN,Opioid analgesics,2032-11-09,,2032-11-09,128793.0,3613
+,,,FLUOROURACIL,Pyrimidine Antagonist; Antimetabolite,2032-01-25,,2032-01-25,284191.0,3613
+Gastrointestinal,GERD,,PREVACID,PPI,2034-05-07,,2034-05-07,83156.0,3613
+,,,FLONASE,Adrenals,2034-02-28,,2034-02-28,1797933.0,3613
+,,,WELLBUTRIN SR,Aminoketone Derivative,2031-02-23,,2031-02-23,993537.0,3613
+,,,PAXIL,SSRI,2029-07-21,,2029-07-21,114228.0,3613
+,,,KENALOG,Glucocorticoids,2029-06-02,,2030-10-19,202877.0,3582
+,,,KENALOG,Glucocorticoids,2029-06-02,,2030-10-19,202877.0,3582
+Lifestyle,Pain,,IBUPROFEN,NSAIDS,2020-12-30,,2027-04-06,5640.0,3582
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2018-12-02,,2027-03-19,966218.0,3582
+,,,FAMVIR,Purine Nucleosides,2030-10-12,,2030-10-12,206853.0,3582
+,,,ELAVIL,Tricyclics And Other Norepinephrine-Reuptake Inhibitors,2029-02-14,,2030-10-19,42940.0,3582
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2018-12-02,,2027-03-19,966218.0,3582
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2018-12-02,,2027-03-19,966218.0,3582
+,,,KENALOG,Glucocorticoids,2029-06-02,,2030-10-19,202877.0,3582
+Lifestyle,Sleep hygiene,,RESTORIL,Benzodiazepines,2028-04-15,,2030-10-12,208464.0,3582
+,,2017377.0,Tyenol,Analgesic,2029-08-07,,2029-08-07,,3586
+CAD/Cardiovascular,atrial fibrillation,2245248.0,Amiodarone,Antiarrhythmics,2025-07-01,,2031-11-20,,3586
+CAD/Cardiovascular,atrial fibrillation,2240206.0,Coumadin,Anticoagulants,2025-07-01,,2032-06-12,,3586
+CAD/Cardiovascular,atrial fibrillation,2240206.0,Coumadin,Anticoagulants,2025-07-01,,2032-06-12,,3586
+Orthopedic,,,Glucosamine,Analgesics,2032-06-12,,2032-06-12,,3586
+,,2248307.0,Flonase,Corticosteroids,2029-08-07,,2029-08-07,,3586
+Orthopedic,,,Glucosamine,Analgesics,2032-06-12,,2032-06-12,,3586
+Lifestyle,,2433079.0,Amoxicillin,Penicillin-like antibiotics,2029-04-08,,2029-08-11,,3586
+,,2434725.0,Humibid,Expectorants,2029-11-15,,2031-04-12,,3586
+Lifestyle,,2433079.0,Amoxicillin,Penicillin-like antibiotics,2029-04-08,,2029-08-11,,3586
+,,,MIDAZOLAM,Benzodiazepines,2032-02-29,,2032-02-29,6960.0,3610
+,,,METROCREAM,nitroimidazole,2027-12-26,,2027-12-26,,3610
+,,,MEPERIDINE HYDROCHLORIDE,Synthetic Phenylpiperidine Derivative,2032-02-29,,2032-02-29,861467.0,3610
+,,,TETRACYCLINE HYDROCHLORIDE,Antimicrobial Combinations,2027-05-07,,2027-05-07,198252.0,3610
+,,,CLODERM,corticosteroid,2028-06-18,,2028-06-18,,3610
+,,,MIDAZOLAM,Benzodiazepines,2032-02-29,,2032-02-29,6960.0,3610
+,,,MIDAZOLAM,Benzodiazepines,2032-02-29,,2032-02-29,6960.0,3610
+,,,METROCREAM,nitroimidazole,2027-12-26,,2027-12-26,,3610
+,,,WESTCORT,corticosteroid,2021-02-19,,2021-02-19,,3610
+,,,MEPERIDINE HYDROCHLORIDE,Synthetic Phenylpiperidine Derivative,2032-02-29,,2032-02-29,861467.0,3610
+Lifestyle,,,IMODIUM,Antidiarrheals,2027-11-14,,2027-11-14,151889.0,3620
+Lifestyle,,,VESICARE,Antimuscarinic,2032-07-13,,2032-07-13,539812.0,3620
+Lifestyle,,,XANAX,Benzodiazepines,2028-07-02,,2028-07-02,202363.0,3620
+Orthopedic,Osteoporosis,,FOSAMAX,Synthetic Bisphosphonate,2029-09-26,,2029-09-26,904433.0,3620
+Lifestyle,,,IMODIUM,Antidiarrheals,2027-11-14,,2027-11-14,151889.0,3620
+,,,TUSSIONEX,Upper Respiratory Combinations,2029-06-09,,2029-06-09,544165.0,3620
+Lifestyle,,,AMBIEN,Benzodiazepines,2028-04-30,,2031-01-07,131725.0,3620
+Lifestyle,,,XANAX,Benzodiazepines,2028-07-02,,2028-07-02,202363.0,3620
+,,,CLARITIN,Antihistamines,2028-10-30,,2028-10-30,206805.0,3620
+,,,LEVAQUIN,Fluoroquinolone Antibiotics,2029-06-19,,2029-06-19,217992.0,3620
+,,,PROSCAR,5-Alpha-Reductase Inhibitor,2032-05-15,,2032-05-15,196476.0,3583
+Orthopedic,,,MULTIVITAMIN WITH MINERALS,Vitamins,2031-04-14,,2031-04-14,218488.0,3583
+CAD/Cardiovascular,Hyperlipidemia,,ZETIA,Cholesterol absorption Inhibitors,2031-10-14,,2031-10-14,352304.0,3583
+Lifestyle,Pain,,ASA,NSAIDS,2031-09-08,,2031-09-08,243670.0,3583
+,,,PROSCAR,5-Alpha-Reductase Inhibitor,2032-05-15,,2032-05-15,196476.0,3583
+,,,PROSCAR,5-Alpha-Reductase Inhibitor,2032-05-15,,2032-05-15,196476.0,3583
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2031-10-14,,2031-10-14,966218.0,3583
+,,,LEVAQUIN,Fluoroquinolone Antibiotics,2031-07-11,,2031-07-11,217992.0,3583
+Gastrointestinal,,,FOLTX,Cyanocobalamin,2031-10-14,,2031-10-14,261527.0,3583
+Lifestyle,Pain,,ASA,NSAIDS,2031-09-08,,2031-09-08,243670.0,3583
+CAD/Cardiovascular,Hypertension,,ALTACE,Angiotensin-Converting Enzyme (Ace) Inhibitors,2031-12-27,,2033-06-18,262418.0,3591
+Lifestyle,Pain,,ECOTRIN,NSAID,2031-12-21,,2031-12-21,1189781.0,3591
+CAD/Cardiovascular,Hypertension,,ACCUPRIL,Angiotensin-Converting Enzyme (Ace) Inhibitors,2028-01-03,,2028-01-03,72210.0,3591
+,,,PLAVIX,Anti-Platelet,2031-12-27,,2033-06-18,174742.0,3591
+CAD/Cardiovascular,Hypertension,,ACCUPRIL,Angiotensin-Converting Enzyme (Ace) Inhibitors,2028-01-03,,2028-01-03,72210.0,3591
+CAD/Cardiovascular,Hypertension,,HYTRIN,Quinazoline Derivative,2026-06-27,,2032-06-15,235224.0,3591
+Lifestyle,Bladder function,,FLOMAX,Alpha Blockers,2031-12-27,,2033-06-18,190283.0,3591
+CAD/Cardiovascular,Hypertension,,ALTACE,Angiotensin-Converting Enzyme (Ace) Inhibitors,2031-12-27,,2033-06-18,262418.0,3591
+Lifestyle,Pain,,DARVOCET-N,Opioid,2031-12-21,,2031-12-21,849692.0,3591
+,,,PROTONIX,PPI,2031-12-20,,2031-12-20,352125.0,3591
+CAD/Cardiovascular,Hyperlipidemia,,ZOCOR,HMG CoA-Reductase Inhibitors (Statins),2031-07-21,,2031-07-21,152923.0,3623
+CAD/Cardiovascular,Hypertension,,PROPRANOLOL HYDROCHLORIDE,Beta Blocker,2032-02-22,,2032-02-22,856556.0,3623
+CAD/Cardiovascular,Hypertension,,ENALAPRIL MALEATE,Angiotensin-Converting Enzyme (Ace) Inhibitors,2029-02-09,,2032-02-22,858810.0,3623
+CAD/Cardiovascular,Hypertension,,VASOTEC,Angiotensin-Converting Enzyme (Ace) Inhibitors,2029-02-09,,2029-06-22,224921.0,3623
+CAD/Cardiovascular,Hypertension,,ENALAPRIL MALEATE,Angiotensin-Converting Enzyme (Ace) Inhibitors,2029-02-09,,2032-02-22,858810.0,3623
+CAD/Cardiovascular,Hypertension,,VASOTEC,Angiotensin-Converting Enzyme (Ace) Inhibitors,2029-02-09,,2029-06-22,224921.0,3623
+CAD/Cardiovascular,Hyperlipidemia,,VYTORIN,Cholesterol Absorption Inhibitors,2029-02-09,,2032-10-05,1245441.0,3623
+CAD/Cardiovascular,Hyperlipidemia,,VYTORIN,Cholesterol Absorption Inhibitors,2029-02-09,,2032-10-05,1245441.0,3623
+CAD/Cardiovascular,Hyperlipidemia,,VYTORIN,Cholesterol Absorption Inhibitors,2029-02-09,,2032-10-05,1245441.0,3623
+CAD/Cardiovascular,Hypertension,,VASOTEC,Angiotensin-Converting Enzyme (Ace) Inhibitors,2029-02-09,,2029-06-22,224921.0,3623
+Endocrine,Diabetes,,PRANDIN,Meglitinides (Glinides),2028-06-13,,2028-06-13,219335.0,3580
+CAD/Cardiovascular,Hypertension,,MAVIK,Angiotensin-Converting Enzyme (Ace) Inhibitors,2028-08-07,,2028-08-07,210673.0,3580
+CAD/Cardiovascular,Hypertension,,MAVIK,Angiotensin-Converting Enzyme (Ace) Inhibitors,2028-08-07,,2028-08-07,210673.0,3580
+Endocrine,Diabetes,,PRANDIN,Meglitinides (Glinides),2028-06-13,,2028-06-13,219335.0,3580
+,,,GLUCOSAMINE,Nutraceutical products,2028-08-07,,2028-08-07,4845.0,3580
+,,,GLUCOSAMINE,Nutraceutical products,2028-08-07,,2028-08-07,4845.0,3580
+CAD/Cardiovascular,Hypertension,,MAVIK,Angiotensin-Converting Enzyme (Ace) Inhibitors,2028-08-07,,2028-08-07,210673.0,3580
+,,,ZANTAC,H2 blockers,2028-08-07,,2028-08-07,827180.0,3580
+Orthopedic,Osteopenia,,FOSAMAX,Synthetic Bisphosphonate,2028-08-07,,2028-08-07,904433.0,3580
+Endocrine,Diabetes,,ACTOS,Thiazolidinediones,2028-06-13,,2028-06-13,261267.0,3580
+,,,OXYBUTYNIN,Antispasmodic,2030-05-03,,2030-12-24,32675.0,3593
+,,,VITAMIN E,"Vitamins, Fat soluble",2030-12-24,,2030-12-24,11256.0,3593
+,,,KEFLEX,First generation cephalosporins,2030-11-03,,2030-10-02,203167.0,3593
+,,,CETAPHIL LOTION,,2030-12-24,,2030-12-24,,3593
+Gastrointestinal,,,FAMOTIDINE,Histamine H2-Antagonists,2030-05-03,,2030-05-03,4278.0,3593
+,,,PROMETHAZINE,Opioid,2031-11-23,,2031-11-23,8745.0,3593
+Gastrointestinal,,,FAMOTIDINE,Histamine H2-Antagonists,2030-05-03,,2030-05-03,4278.0,3593
+,,,CALCIUM,Calcium Supplement,2028-09-13,,2028-09-13,1895.0,3593
+,,,TYLENOL,Analgesics,2030-09-02,,2030-09-02,209387.0,3593
+,,,CODEINE SULFATE,Opioid Analgesics,2031-09-14,,2031-09-14,91104.0,3593
+CAD/Cardiovascular,Hypertension,,NORVASC,Calcium-Channel Blocking Agent,2028-06-21,,2029-02-26,58927.0,3614
+,,,NEXIUM,Proton-Pump Inhibitors,2029-02-07,,2029-02-07,284799.0,3614
+,,,CALCIUM,Calcium Supplement,2028-06-21,,2030-05-21,1895.0,3614
+Gastrointestinal,,,FIBERCON,bulk-forming laxative,2031-10-25,,2031-10-25,210665.0,3614
+CAD/Cardiovascular,Hypertension,,TENORMIN,Selective Beta-1 Blockers,2029-03-07,,2031-10-25,152413.0,3614
+,,,NEXIUM,Proton-Pump Inhibitors,2029-02-07,,2029-02-07,284799.0,3614
+Gastrointestinal,,,PRILOSEC,PPI,2030-05-21,,2030-05-21,203345.0,3614
+,,,MICRO-K,Mineral Supplement,2031-01-08,,2033-09-22,,3614
+CAD/Cardiovascular,Hypertension,,ATENOLOL,Antihypertensive Combinations,2029-11-12,,2033-09-22,1202.0,3614
+,,,CALCIUM,Calcium Supplement,2028-06-21,,2030-05-21,1895.0,3614
+CAD/Cardiovascular,,,ASA,NSAIDS,2033-12-07,,2033-12-07,243670.0,3612
+Lifestyle,,,VITAMIN D,Vitamins,2033-12-07,,2033-12-07,11253.0,3612
+CAD/Cardiovascular,Hyperlipidemia,,LIPITOR,Fibric Acid Derivatives,2028-03-27,,2029-03-12,153165.0,3612
+Gastrointestinal,,,ALLOPURINOL,Xanthine Oxidase Inhibitor;  Urate Transporter Inhibitor,2033-12-07,,2033-12-07,519.0,3612
+Gastrointestinal,,,ALLOPURINOL,Xanthine Oxidase Inhibitor;  Urate Transporter Inhibitor,2033-12-07,,2033-12-07,519.0,3612
+Lifestyle,,,VITAMIN D,Vitamins,2033-12-07,,2033-12-07,11253.0,3612
+CAD/Cardiovascular,,,ASA,NSAIDS,2033-12-07,,2033-12-07,243670.0,3612
+Gastrointestinal,,,ALLOPURINOL,Xanthine Oxidase Inhibitor;  Urate Transporter Inhibitor,2033-12-07,,2033-12-07,519.0,3612
+Cancer,prostate cancer,,NILANDRON,Nonsteroidal Antiandrogen,2033-09-07,,2033-09-07,218741.0,3612
+CAD/Cardiovascular,Hypertension,,DIOVAN,Angiotensin-II Receptor Blockers (ARBS),2033-12-07,,2033-12-07,216652.0,3612
+,,2396335.0,Allopurinol,Antigout Agents,2025-10-19,,2031-10-04,,3609
+CAD/Cardiovascular,atrial fibrillation,2147610.0,Acebutolol,Beta blockers,2022-10-22,,2031-10-04,,3609
+CAD/Cardiovascular,Hypertension,565040.0,Lasix,Diuretics,2024-10-13,,2031-10-04,,3609
+CAD/Cardiovascular,atrial fibrillation,2237726.0,ASA,Antiplatelet,2025-10-19,,2031-10-04,,3609
+CAD/Cardiovascular,atrial fibrillation,2147610.0,Acebutolol,Beta blockers,2022-10-22,,2031-10-04,,3609
+CAD/Cardiovascular,atrial fibrillation,2237726.0,ASA,Antiplatelet,2025-10-19,,2031-10-04,,3609
+CAD/Cardiovascular,Hypertension,2310538.0,Ramipril,ACE inhibitor,2025-10-19,,2031-10-04,,3609
+CAD/Cardiovascular,Hypertension,565040.0,Lasix,Diuretics,2024-10-13,,2031-10-04,,3609
+,,2402181.0,Colchicine,Anti-gout agents,2025-10-19,,2031-10-04,,3609
+CAD/Cardiovascular,Hypertension,2310538.0,Ramipril,ACE inhibitor,2025-10-19,,2031-10-04,,3609
+,,,VYTORIN,Cholesterol Absorption Inhibitors,2032-08-15,,2032-08-15,1245430.0,3625
+,,,DERMASMOOTHE,"Corticosteroids, Topical",2032-08-15,,2032-08-15,,3625
+,,,CLOBETASOL PROPIONATE,Corticosteroids,2033-01-11,,2033-01-11,21245.0,3625
+,,,DETROL LA,Antimuscarinic,2032-08-15,,2032-08-15,855191.0,3625
+,,,ACTONEL,Bone Resorption Inhibitors,2032-08-15,,2032-08-15,905034.0,3625
+,,,TRIAMCINOLONE,Corticosteroids,2032-08-15,,2032-08-15,,3625
+,,,TRIAMCINOLONE,Corticosteroids,2032-08-15,,2032-08-15,,3625
+,,,DETROL LA,Antimuscarinic,2032-08-15,,2032-08-15,855191.0,3625
+,,,TOPICORT,Topical Steroids,2032-08-15,,2032-08-15,220345.0,3625
+,,,ASA,NSAIDS,2032-08-15,,2032-08-15,243670.0,3625
+,,,LASIX,Loop Diuretics,2030-03-22,,2035-06-10,200809.0,3621
+,,,CEPHALEXIN,Antibiotics,2032-03-23,,2032-03-23,197454.0,3621
+,,,VIAGRA,PDE Inhibitors,2025-03-23,,2035-06-10,213270.0,3621
+CAD/Cardiovascular,Hypertension,,ATENOLOL,Antihypertensive Combinations,2030-12-03,,2035-06-10,315438.0,3621
+,,,VIAGRA,PDE Inhibitors,2025-03-23,,2035-06-10,213270.0,3621
+CAD/Cardiovascular,Hypertension,,HYDROCHLOROTHIAZIDE (HCTZ),Direct Vasodilators,2024-01-29,,2024-01-29,310798.0,3621
+CAD/Cardiovascular,Hyperlipidemia,,NORVASC,Calcium-Channel Blocking Agent,2024-01-15,,2035-06-10,212575.0,3621
+CAD/Cardiovascular,Hypertension,,ATENOLOL,Antihypertensive Combinations,2030-12-03,,2035-06-10,315438.0,3621
+,,,CEPHALEXIN,Antibiotics,2032-03-23,,2032-03-23,197454.0,3621
+,,,PROPRANOLOL HYDROCHLORIDE,Beta Blocker,2024-01-29,,2024-01-29,856519.0,3621
+,,2247340.0,Cipro,fluoroquinolones,2033-09-27,,2033-09-27,,3622
+CAD/Cardiovascular,Hypertension,,Dyazide,Diuretics,2029-10-21,,2034-03-19,,3622
+,,2247340.0,Cipro,fluoroquinolones,2033-09-27,,2033-09-27,,3622
+,,2247340.0,Cipro,fluoroquinolones,2033-09-27,,2033-09-27,,3622
+CAD/Cardiovascular,Hypertension,,Dyazide,Diuretics,2029-10-21,,2034-03-19,,3622
+CAD/Cardiovascular,Hypertension,,Dyazide,Diuretics,2029-10-21,,2034-03-19,,3622
+CAD/Cardiovascular,Hypertension,,Lisinopril,ACE inhibitors,2028-07-01,,2032-09-09,,3622
+,,2244613.0,Detrol LA,Anticholinergics,2031-10-04,,2031-10-04,,3622
+,,2244613.0,Detrol LA,Anticholinergics,2031-10-04,,2031-10-04,,3622
+,,2244613.0,Detrol LA,Anticholinergics,2031-10-04,,2031-10-04,,3622
+,,,SODIUM CHLORIDE,Crystalloid Fluid,2034-10-07,05/07/2008,2034-10-07,707251.0,3603
+,,,KAYEXALATE,Potassium Binders,2034-10-08,,2034-10-08,,3603
+CAD/Cardiovascular,atrial fibrillation,,BETAPACE,Non-Selective Beta-Blocker,2034-10-07,05/07/2008,2034-10-11,1923427.0,3603
+CAD/Cardiovascular,Hypertension,,DIOVAN,Angiotensin-II Receptor Blockers (ARBS),2034-10-07,05/07/2008,2034-10-11,351762.0,3603
+,,,PROTONIX,PPI,2034-10-07,05/07/2008,2034-10-11,261624.0,3603
+,,,PREDNISONE,Corticosteroids,2034-10-10,,2034-10-10,8640.0,3603
+,,,PROTONIX,PPI,2034-10-07,05/07/2008,2034-10-11,261624.0,3603
+,,,FLAGYL,Nitroimidazoles,2034-10-07,,2034-10-11,207290.0,3603
+,,,PROTONIX,PPI,2034-10-07,05/07/2008,2034-10-11,261624.0,3603
+,,,KAYEXALATE,Potassium Binders,2034-10-08,,2034-10-08,,3603
+,,,FLEXERIL,Muscle relaxants,2032-04-24,,2032-04-24,224954.0,3584
+,,,VICODIN,Opioid analgesics,2032-04-24,,2032-04-24,1310202.0,3584
+,,,NAPROSYN,Nsaids,2032-04-24,,2032-04-24,203012.0,3584
+,,,VICODIN,Opioid analgesics,2032-04-24,,2032-04-24,1310202.0,3584
+,,,VICODIN,Opioid analgesics,2032-04-24,,2032-04-24,1310202.0,3584
+,,,VICODIN,Opioid analgesics,2032-04-24,,2032-04-24,1310202.0,3584
+,,,VICODIN,Opioid analgesics,2032-04-24,,2032-04-24,1310202.0,3584
+,,,FOSAMAX,Synthetic Bisphosphonate,2033-03-25,,2033-03-25,114265.0,3584
+,,,ZOCOR,HMG CoA-Reductase Inhibitors (Statins),2033-03-25,,2033-03-25,196503.0,3584
+,,,VICODIN,Opioid analgesics,2032-04-24,,2032-04-24,1310202.0,3584
+CAD,atrial fibrillation,2048264.0,Digoxin,cardiac glycosides,2030-01-07,01/01/1900,2037-08-03,,3588
+Lifestyle,Osteoarthritis,,Darvocet-N 100,Narcotic analgesic combinations,2035-04-06,01/01/1900,2037-05-02,,3588
+,,2336790.0,Tramadol,Opioid,2032-02-22,01/01/1900,2034-11-09,,3588
+,,2239941.0,Celebrex,NSAIDs,2036-04-12,01/01/1900,2036-04-12,,3588
+CAD,atrial fibrillation,2048264.0,Digoxin,cardiac glycosides,2030-01-07,01/01/1900,2037-08-03,,3588
+,,2336790.0,Tramadol,Opioid,2032-02-22,01/01/1900,2034-11-09,,3588
+Lifestyle,Osteoarthritis,,Darvocet-N 100,Narcotic analgesic combinations,2035-04-06,01/01/1900,2037-05-02,,3588
+,,2239941.0,Celebrex,NSAIDs,2036-04-12,01/01/1900,2036-04-12,,3588
+CAD,atrial fibrillation,2048264.0,Digoxin,cardiac glycosides,2030-01-07,01/01/1900,2037-08-03,,3588
+,,2336790.0,Tramadol,Opioid,2032-02-22,01/01/1900,2034-11-09,,3588
+,,,Calcium,Supplement,2029-11-24,,2034-02-28,,3627
+CAD/Cardiovascular,Hypertension,2244781.0,Diovan,Beta blockrs,2029-11-24,,2034-02-28,,3627
+,,,Calcium,Supplement,2029-11-24,,2034-02-28,,3627
+,,,Calcium,Supplement,2029-11-24,,2034-02-28,,3627
+,,,Magnesium Oxide,Supplement,2029-11-24,,2034-02-28,,3627
+,,,Magnesium Oxide,Supplement,2029-11-24,,2034-02-28,,3627
+,,,Magnesium Oxide,Supplement,2029-11-24,,2034-02-28,,3627
+,,,Ceron,Supplement,2029-11-24,,2031-07-28,,3627
+,,,Ceron,Supplement,2029-11-24,,2031-07-28,,3627
+,,,Vitamin D,Vitamin,2029-11-24,,2034-02-28,,3627
+Neurological,Alzheimer's,2244300.0,Reminyl,Acetylcholinesterase Inhibitors,2032-08-09,,2032-11-10,,3596
+,,2270102.0,Flomax,Alpha 1 Blockers,2032-08-09,,2032-11-10,,3596
+,,2270102.0,Flomax,Alpha 1 Blockers,2032-08-09,,2032-11-10,,3596
+CAD/Cardiovascular,Hypertension,,Lasix,Diuretics,2034-01-25,,2034-03-14,,3596
+,,,Zoloft,SSRIs,2031-10-19,01/31/2007,2033-07-31,,3596
+,,,Potassium,Electrolytes,2034-01-25,,2034-03-14,,3596
+CAD/Cardiovascular,Hyperlipidemia,,Vytorin,HMG-CoA reductase inhibitors,2033-07-31,,2033-07-31,,3596
+Lifestyle,Pain,2289970.0,Aspirin,salicylates,2032-08-09,,2032-11-10,,3596
+CAD/Cardiovascular,Hyperlipidemia,2250527.0,Lescol,statins,2032-08-09,01/31/2007,2033-07-31,,3596
+,,,Zoloft,SSRIs,2031-10-19,01/31/2007,2033-07-31,,3596
+,BPH,,PROSCAR,5-Alpha-Reductase Inhibitor,2027-02-28,09/25/2003,2031-09-16,196476.0,3597
+,,,LEVOQUIN,Fluoroquinolones,2032-05-01,,2032-05-01,,3597
+,,,LOPROX CREAM,Antifungal,2036-12-14,,2036-12-14,,3597
+Lifestyle,Pain,,VICODIN,Opioid analgesics,2034-12-04,,2034-12-04,128793.0,3597
+,,,ASA,NSAIDS,2034-11-22,,2034-11-22,243670.0,3597
+Gastrointestinal,GERD,,PRILOSEC,PPI,2036-05-27,,2036-05-27,207212.0,3597
+,,,KEFLEX,First generation cephalosporins,2035-02-28,,2035-02-28,212339.0,3597
+,,,ZOFRAN,5-HT3 antagonist,2032-05-01,,2032-05-01,66981.0,3597
+,,,ALOXI,5-HT3 Receptor Antagonists,2034-11-15,,2034-11-15,1728052.0,3597
+,BPH,,FLOMAX,Alpha Blockers,2027-02-16,09/25/2003,2033-11-30,863671.0,3597
+,,2270102.0,Flomax,Alpha 1 blockers,2031-11-06,,2034-04-16,,3617
+,,362158.0,Diazepam,Benzodiazepines,2033-11-19,,2034-06-03,,3617
+,,362158.0,Diazepam,Benzodiazepines,2033-11-19,,2034-06-03,,3617
+,,362158.0,Diazepam,Benzodiazepines,2033-11-19,,2034-06-03,,3617
+,,13285.0,Vallium,Antianxiety agents,2033-02-08,,2033-02-08,,3617
+,,13285.0,Vallium,Antianxiety agents,2033-02-08,,2033-02-08,,3617
+,,362158.0,Diazepam,Benzodiazepines,2033-11-19,,2034-06-03,,3617
+,,2270102.0,Flomax,Alpha 1 blockers,2031-11-06,,2034-04-16,,3617
+,,13285.0,Vallium,Antianxiety agents,2033-02-08,,2033-02-08,,3617
+,,13285.0,Vallium,Antianxiety agents,2033-02-08,,2033-02-08,,3617
+,,,CEFADROXIL,First Generation Cephalosporins,2035-02-15,,2035-02-15,309049.0,3579
+,,,NASACORT,Corticosteroids,2033-04-04,,2033-04-04,153239.0,3579
+,,,NASACORT,Corticosteroids,2033-04-04,,2033-04-04,153239.0,3579
+,,,KENALOG,Glucocorticoids,2037-08-07,,2037-11-17,202877.0,3579
+,,,ASA,NSAIDS,2033-01-14,,2038-01-07,243670.0,3579
+,,,LEVAQUIN,Fluoroquinolone Antibiotics,2035-12-19,,2035-12-19,211815.0,3579
+Endocrine,Diabetes,,JANUVIA,"Gliptins (Dipeptidyl Peptidase-4 Inhibitors, DPP-4s)",2034-09-19,,2034-09-19,665044.0,3579
+,,,ALENDRONATE SODIUM,Synthetic Bisphosphonate,2035-01-31,,2035-01-31,904431.0,3579
+CAD/Cardiovascular,Hypertension,,CHLORTHALIDONE,Antihypertensive Combinations,2037-10-08,,2038-01-07,197499.0,3579
+,,,KENALOG,Glucocorticoids,2037-08-07,,2037-11-17,202877.0,3579
+,,666246.0,Neomycin-Polymyxin-Hydrocortisone,Corticosteroids,2042-04-07,,2043-01-20,,3602
+CAD/Cardiovascular,atrial fibrillation,2242697.0,Warfarin,Anticoagulants,2044-06-06,,2044-06-06,,3602
+Gastrointestinal,GERD,2299585.0,Protonix,Proton-pump inhibitors,2033-03-19,,1976-07-01,,3602
+CAD/Cardiovascular,CAD,2245852.0,COQ 10,"1,4-Benzoquinone",2043-07-31,,2045-06-13,,3602
+,,80003328.0,Vitamin C,Antioxidants,2030-12-11,,2045-06-13,,3602
+CAD/Cardiovascular,Hyperlipidemia,2429659.0,Zetia,Lipid-Lowering Agents,1926-07-01,,1976-07-01,,3602
+,,550086.0,Sulfamethoxazole-Trimethoprim,Sulfonamide antibiotic,2036-05-12,,2044-02-02,,3602
+Gastrointestinal,GERD,2299585.0,Protonix,Proton-pump inhibitors,2033-03-19,,1976-07-01,,3602
+CAD/Cardiovascular,Hyperlipidemia,2243097.0,Atorvastatin,HMG-CoA Reductase Inhibitors (Statins),2044-10-19,,2045-06-13,,3602
+,,80003328.0,Vitamin C,Antioxidants,2030-12-11,,2045-06-13,,3602
+,,,Miralax,osmotic laxatives,2035-12-17,,2035-12-17,,3608
+Orthopedic,Osteopenia,,Vitamin D,Vitamins,2035-07-26,,2035-07-26,,3608
+CAD/Cardiovascular,Hypertension,2243339.0,Diltiazem,calcium-channel blockers,2032-06-14,,2034-08-21,,3608
+CAD/Cardiovascular,CAD,2393433.0,Nitroglycerin,vasodilators,2035-08-16,,2035-08-16,,3608
+CAD/Cardiovascular,Hypertension,362166.0,Furosemide,diuretic,2035-02-21,,2035-02-21,,3608
+,,2150166.0,Citracal,Calcium Salts,2032-06-14,,2035-12-17,,3608
+CAD/Cardiovascular,Hypertension,2217538.0,Lisinopril,ACE inhibitors,2035-09-12,,2035-09-12,,3608
+CAD/Cardiovascular,Hypertension,,Prinivil,angiotensin converting enzyme,2033-11-25,,2034-08-21,,3608
+CAD/Cardiovascular,CAD,2393433.0,Nitroglycerin,vasodilators,2035-08-16,,2035-08-16,,3608
+,,2247390.0,Senna,stimulant laxatives,2035-12-17,,2035-12-17,,3608
+,,,CLONAZEPAM,Benzodiazepines,2038-12-18,,2038-12-18,349198.0,3592
+CAD/Cardiovascular,Hypertension,,TOPROL-XL,beta-Adrenergic Blocking Agents,2031-09-14,,2038-12-18,866429.0,3592
+,,,SIMVASTATIN,HMG CoA-Reductase Inhibitors (Statins),2035-07-08,,2038-12-18,36567.0,3592
+CAD/Cardiovascular,Hyperlipidemia,,OMEGA-3,Triglyceride-lowering,2038-08-13,,2038-08-13,4301.0,3592
+CAD/Cardiovascular,Hyperlipidemia,,VYTORIN,Cholesterol Absorption Inhibitors,2034-01-24,,2034-03-25,495215.0,3592
+,,,CLONAZEPAM,Benzodiazepines,2038-12-18,,2038-12-18,349198.0,3592
+,,,SIMVASTATIN,HMG CoA-Reductase Inhibitors (Statins),2035-07-08,,2038-12-18,36567.0,3592
+,,,PRADAXA,Direct Thrombin Inhibitor,2038-06-16,,2038-08-13,1037046.0,3592
+CAD/Cardiovascular,Hypertension,,LISINOPRIL,Angiotensin-Converting Enzyme (Ace) Inhibitors,2036-09-08,,2038-06-16,29046.0,3592
+CAD/Cardiovascular,Hypertension,,TOPROL-XL,beta-Adrenergic Blocking Agents,2031-09-14,,2038-12-18,866429.0,3592
+Lifestyle,Sleep hygiene,,AMBIEN,Benzodiazepines,2034-08-11,,2037-05-22,131725.0,3606
+,,,NASONEX,Topical Steroid,2034-06-11,,2036-08-11,1797870.0,3606
+,,,METHYLPHENIDATE,CNS Stimulants,2034-06-11,,2036-08-11,753436.0,3606
+,,,ARICEPT,Reversible Acetylcholinesterase Inhibitor,2034-10-02,,2035-07-23,135446.0,3606
+,,,CENTRUM SILVER,Vitamins,2037-05-22,,2037-05-22,92105.0,3606
+,,,NAMENDA,N--Methyl-d-aspartate (NMDA) Receptor antAgonist,2034-06-11,,2036-08-11,996563.0,3606
+,,,SANCTURA,Muscarinic antagonist,2034-06-11,,2036-08-11,857568.0,3606
+,,,FLOMAX,Alpha Blockers,2036-04-14,,2036-04-14,190283.0,3606
+,,,EXELON,Parasympathomimetic (Cholinergic) Agents,2034-06-11,,2036-08-11,226665.0,3606
+CAD/Cardiovascular,Hypertension,,COZAAR,Angiotensin II Receptor Antagonist,2034-06-11,,2036-10-01,979482.0,3606
+Lifestyle,Pain,,ASA,NSAIDS,2029-09-06,,2037-11-18,243670.0,3624
+,,,PROSCAR,5-Alpha-Reductase Inhibitor,2029-09-03,,2037-07-13,196476.0,3624
+Lifestyle,Pain,,ASA,NSAIDS,2029-09-06,,2037-11-18,243670.0,3624
+,,,AMBIEN,Benzodiazepines,2033-11-30,,2037-11-18,131725.0,3624
+Lifestyle,Pain,,VICODIN,Opioid analgesics,2036-07-26,,2036-07-26,128793.0,3624
+Gastrointestinal,GERD,,NEXIUM,Proton-Pump Inhibitors,2031-11-12,,2037-11-18,284799.0,3624
+Gastrointestinal,GERD,,PRILOSEC,PPI,2029-09-27,,2031-11-12,203345.0,3624
+,,,PROSCAR,5-Alpha-Reductase Inhibitor,2029-09-03,,2037-07-13,196476.0,3624
+,,,AMBIEN,Benzodiazepines,2033-11-30,,2037-11-18,131725.0,3624
+,,,AMBIEN,Benzodiazepines,2033-11-30,,2037-11-18,131725.0,3624
+,,,ALPHA-LIPOIC ACID,Antioxidant,2033-12-26,,2033-12-26,849093.0,3604
+,,,ALPHA-LIPOIC ACID,Antioxidant,2033-12-26,,2033-12-26,849093.0,3604
+Neurological,,,GABAPENTIN,CNS Neurotransmitter GABA,2035-11-22,,2036-03-20,25480.0,3604
+,,,Cerefolin,Multivitamin,2036-11-11,,2037-03-14,404926.0,3604
+,,,VOLTAREN,NSAIDS,2035-07-23,,2035-07-23,855635.0,3604
+,,,VOLTAREN,NSAIDS,2035-07-23,,2035-07-23,855635.0,3604
+,,,AMITRIPTYLINE HYDROCHLORIDE,Tricyclics And Other Norepinephrine-Reuptake Inhibitors,2034-12-20,,2034-12-20,856773.0,3604
+Lifestyle,Pain,,IBUPROFEN,NSAIDS,2035-04-20,,2035-04-20,197803.0,3604
+,,,VOLTAREN,NSAIDS,2035-07-23,,2035-07-23,855635.0,3604
+Neurological,Alzheimer's,,ARICEPT,Reversible Acetylcholinesterase Inhibitor,2036-10-13,05/11/2010,2036-11-11,135446.0,3604
+CAD/Cardiovascular,Hypertension,,ATENOLOL,Antihypertensive Combinations,2033-12-26,,2033-12-26,1202.0,3594
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2036-08-21,,2038-03-02,966218.0,3594
+Lifestyle,,,POTASSIUM CHLORIDE,Mineral Supplement,2033-11-24,,2033-11-24,8591.0,3594
+CAD/Cardiovascular,Hypertension,,MAXZIDE,Direct Vasodilators,1926-07-01,10/15/2009,2036-04-15,52440.0,3594
+CAD/Cardiovascular,Hypertension,,NORVASC,Calcium-Channel Blocking Agent,2034-03-27,,2034-03-27,58927.0,3594
+CAD/Cardiovascular,Hypertension,,MAXZIDE,Direct Vasodilators,1926-07-01,10/15/2009,2036-04-15,52440.0,3594
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2036-08-21,,2038-03-02,966218.0,3594
+CAD/Cardiovascular,Hyperlipidemia,,COREG,Non-Selective Beta-Blocker,2038-03-02,,2038-03-02,216221.0,3594
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2036-08-21,,2038-03-02,966218.0,3594
+Blood Disorders,Anemia,,FEOSOL,Iron supplement,2038-03-02,,2038-03-02,,3594
+Endocrine,Diabetes,,GLUCOPHAGE XR,Biguanides,2037-01-08,,2037-09-25,860977.0,3600
+Lifestyle,Osteoarthritis,,DEPO-MEDROL,Synthetic Glucocorticoid,2032-10-21,,2032-10-21,22584.0,3600
+,,,ZYRTEC,Antihistamines,2037-10-20,,2037-09-25,1020026.0,3600
+CAD/Cardiovascular,Hypertension,,SIMVASTATIN,HMG CoA-Reductase Inhibitors (Statins),2034-04-12,,2037-09-25,314231.0,3600
+Lifestyle,Osteoarthritis,,DEPO-MEDROL,Synthetic Glucocorticoid,2032-10-21,,2032-10-21,22584.0,3600
+Lifestyle,Pain,,ASPIRIN/DIPYRIDAMOLE,Antiplatelet agents,2037-10-20,,2037-09-25,259081.0,3600
+Pulmonary,Pneumonia,,AMOXICILLIN TRIHYDRATE,Penicillin like antibiotics,2033-06-21,,2033-11-03,308189.0,3600
+Lifestyle,Pain,,CELESTONE SOLUSPAN,Bronchodilator,2034-03-24,,2035-04-27,47847.0,3600
+Endocrine,hypothyroidism,,SYNTHROID,Hormone,2031-01-08,,2037-09-25,966201.0,3600
+Cerebrovascular,Stroke,,PLAVIX,Anti-Platelet,2037-01-08,,2037-09-25,213169.0,3600
+,,,MIRALAX,Osmotic Laxatives,2038-06-05,,2038-06-05,261575.0,3626
+,,,MIRALAX,Osmotic Laxatives,2038-06-05,,2038-06-05,261575.0,3626
+,,,IMIPRAMINE HCL,Tricyclic antidepressants,2038-06-05,,2038-06-05,835564.0,3626
+,,,MULTIVITAMINS,Vitamins,2038-06-05,,2038-06-05,3788140.0,3626
+,,,ZOCOR,HMG CoA-Reductase Inhibitors (Statins),2038-06-05,08/08/2011,2038-06-05,196503.0,3626
+,,,MIRALAX,Osmotic Laxatives,2038-06-05,,2038-06-05,261575.0,3626
+CAD/Cardiovascular,Hypertension,,LOSARTAN / HCTZ,Angiotensin II Receptor Antagonist,2038-06-05,,2038-06-05,979468.0,3626
+,,,PAXIL,SSRI,2038-06-05,,2038-06-05,207349.0,3626
+,,,ASA,NSAIDS,2038-06-05,,2038-06-05,243670.0,3626
+,,,MIRALAX,Osmotic Laxatives,2038-06-05,,2038-06-05,261575.0,3626
+,,,VANICREAM,Corticosteroids,2037-10-05,,2037-10-05,1543708.0,3587
+,,,ASA,NSAIDS,2036-04-13,,2036-04-13,243670.0,3587
+,,,ECONAZOLE,Antifungal,2038-06-13,,2038-06-13,3743.0,3587
+,,,ECONAZOLE,Antifungal,2038-06-13,,2038-06-13,3743.0,3587
+,,,ECONAZOLE,Antifungal,2038-06-13,,2038-06-13,3743.0,3587
+,,,ECONAZOLE,Antifungal,2038-06-13,,2038-06-13,3743.0,3587
+,,,CLOBETASOL PROPIONATE,Corticosteroids,2039-03-19,,2039-03-19,1995455.0,3587
+,,,VANICREAM,Corticosteroids,2037-10-05,,2037-10-05,1543708.0,3587
+,,,CLOBETASOL PROPIONATE,Corticosteroids,2039-03-19,,2039-03-19,1995455.0,3587
+,,,CLOBETASOL PROPIONATE,Corticosteroids,2039-03-19,,2039-03-19,1995455.0,3587
+CAD/Cardiovascular,Hypertension,,ZESTRIL,Angiotensin-Converting Enzyme (Ace) Inhibitors,2039-06-20,,2042-07-04,104377.0,3589
+Autoimmune,Osteoarthritis,,PREDNISONE,Corticosteroids,2039-03-10,,2039-08-16,312615.0,3589
+,,,XALATAN,Prostaglandin analogs,2041-07-05,,2042-07-04,542527.0,3589
+Autoimmune,Osteoarthritis,,PREDNISONE,Corticosteroids,2039-03-10,,2039-08-16,312615.0,3589
+CAD/Cardiovascular,Hypertension,,ZESTRIL,Angiotensin-Converting Enzyme (Ace) Inhibitors,2039-06-20,,2042-07-04,104377.0,3589
+,,,VITAMIN B COMPLEX,Vitamins,2041-07-05,,2042-07-04,11251.0,3589
+Lifestyle,Pain,,ASA,NSAIDS,2039-06-20,,2042-07-04,243670.0,3589
+,,,VITAMIN B COMPLEX,Vitamins,2041-07-05,,2042-07-04,11251.0,3589
+,,,FISH OIL,Omega-3 fatty acid supplements,2039-03-10,,2042-07-04,646470.0,3589
+,BPH,,FLOMAX,Alpha Blockers,2041-07-05,,2042-07-04,863671.0,3589
+Lifestyle,Osteoporosis,,CALCIUM,Calcium Supplement,2040-04-11,,2040-11-24,237420.0,3628
+Lifestyle,Pain,,AMLODIPINE BESYLATE,Antihypertensive Combinations,2040-04-11,,2040-11-24,308136.0,3628
+Lifestyle,Pain,,ASA,NSAIDS,2038-12-11,,2040-10-21,243670.0,3628
+Lifestyle,Pain,,ASA,NSAIDS,2038-12-11,,2040-10-21,243670.0,3628
+Gastrointestinal,GERD,,PRILOSEC,PPI,1926-07-01,,1926-07-01,207212.0,3628
+Lifestyle,Nutrient deficiencies,,MULTIVITAMINS,Vitamins,2040-04-11,,2040-11-24,3788140.0,3628
+,,,FLONASE,Adrenals,1926-07-01,,1926-07-01,1797933.0,3628
+,,,FLUOROURACIL,Pyrimidine Antagonist; Antimetabolite,2040-03-17,,2040-04-11,4492.0,3628
+,,,MAGNESIUM,Antacids; Electrolytes,2040-04-11,,2040-11-24,6574.0,3628
+Lifestyle,Osteoporosis,,CALCIUM,Calcium Supplement,2040-04-11,,2040-11-24,237420.0,3628
+,,,DEXILANT,Proton-Pump Inhibitors,2040-06-10,,2040-06-10,902621.0,3598
+Endocrine,Diabetes,,JANUVIA,"Gliptins (Dipeptidyl Peptidase-4 Inhibitors, DPP-4s)",2036-01-23,,2036-01-23,665036.0,3598
+,,,BACITRACIN,Topical antibiotics,2040-01-08,,2040-01-08,1291.0,3598
+,,,LEVAQUIN,Fluoroquinolone Antibiotics,2039-11-10,,2039-11-10,217992.0,3598
+CAD/Cardiovascular,Hypertension,,TEKTURNA,Antihypertensive,2036-01-23,,2036-01-23,1011738.0,3598
+CAD/Cardiovascular,Hypertension,,VALTURNA,Antihypertensive Combinations,2037-08-17,,2038-10-29,1011724.0,3598
+CAD/Cardiovascular,Hypertension,,TEKTURNA,Antihypertensive,2036-01-23,,2036-01-23,1011738.0,3598
+CAD/Cardiovascular,Hypertension,,VALTURNA,Antihypertensive Combinations,2037-08-17,,2038-10-29,1011724.0,3598
+CAD/Cardiovascular,Hypertension,,VALTURNA,Antihypertensive Combinations,2037-08-17,,2038-10-29,1011724.0,3598
+,,,KEFLEX,First generation cephalosporins,2040-01-08,,2040-01-08,203167.0,3598
+Lifestyle,Depression,,LEXAPRO,Selective Serotonin-Reuptake Inhibitors,2040-04-28,,2041-04-13,352273.0,3605
+Endocrine,Diabetes,,GLIPIZIDE,Thiazolidinediones,2040-05-25,,2040-05-25,310488.0,3605
+,,,CIPROFLOXACIN,Antibiotics,2040-11-01,05/04/2014,2040-10-25,309309.0,3605
+Endocrine,Diabetes,,GLIPIZIDE,Thiazolidinediones,2040-05-25,,2040-05-25,310488.0,3605
+Endocrine,Diabetes,,HUMALOG MIX 75/25,Insulins,2040-05-25,,2040-05-25,752388.0,3605
+,,,CIPROFLOXACIN,Antibiotics,2040-11-01,05/04/2014,2040-10-25,309309.0,3605
+CAD/Cardiovascular,Hyperlipidemia,,SIMVASTATIN,HMG CoA-Reductase Inhibitors (Statins),2041-04-13,,2041-04-13,312961.0,3605
+CAD/Cardiovascular,,,ASA,NSAIDS,2040-05-25,,2040-05-25,243670.0,3605
+,,,ANUSOL HC,Corticosteroids,2040-11-01,06/23/2014,2040-10-25,1659445.0,3605
+,,,SILVADENE,Topical antibiotics,2041-04-13,,2041-04-13,208186.0,3605
+,,,MOBIC,Oxicam Derivative,2040-05-18,,2040-05-18,152697.0,3618
+,,,MECLIZINE,Histamine H1- Antagonists,2041-01-22,,2041-01-22,330719.0,3618
+,,,LEVAQUIN,Fluoroquinolone Antibiotics,2041-03-25,,2041-03-25,211816.0,3618
+,,,TRANSDERM SCOP,Antimuscarinics/Antispasmodics,2041-01-22,,2041-01-22,351875.0,3618
+,,,MECLIZINE,Histamine H1- Antagonists,2041-01-22,,2041-01-22,330719.0,3618
+,,,MECLIZINE,Histamine H1- Antagonists,2041-01-22,,2041-01-22,330719.0,3618
+,,,CALTRATE,Calcium supplement,2039-07-03,,2039-07-03,215850.0,3618
+,,,ALEVE,NSAIDS,2039-07-03,,2039-07-03,1112233.0,3618
+,,,ALEVE,NSAIDS,2039-07-03,,2039-07-03,1112233.0,3618
+,,,ALEVE,NSAIDS,2039-07-03,,2039-07-03,1112233.0,3618
+Pulmonary,COPD,,Ipratropium-Albuterol,Bronchodilators,2040-11-13,,2041-10-15,1362214.0,3581
+,,,TYLENOL,Analgesics,2041-10-15,,2041-10-15,209387.0,3581
+Pulmonary,COPD,,ADVAIR DISKUS,Adrenals,2041-04-28,,2041-10-15,896165.0,3581
+Blood Disorders,Anemia,,PROCRIT,Hematopoietic Growth Factors,2042-03-02,,2042-03-02,227303.0,3581
+Pulmonary,COPD,,Ipratropium-Albuterol,Bronchodilators,2040-11-13,,2041-10-15,1362214.0,3581
+Pulmonary,COPD,,ZITHROMAX,Macrolide Antibiotics,2038-10-05,,2041-10-15,212446.0,3581
+Pulmonary,COPD,,MEDROL DOSEPAK,Synthetic Glucocorticoid,2041-10-15,,2041-10-15,834023.0,3581
+,,,TYLENOL,Analgesics,2041-10-15,,2041-10-15,209387.0,3581
+CAD/Cardiovascular,Hypertension,,DILTIAZEM HYDROCHLORIDE,Nondihydropyridine Derivative,2041-05-29,,2041-10-15,830877.0,3581
+Pulmonary,COPD,,SPIRIVA,Anticholinergic Bronchodilator,2040-10-17,,2041-10-15,580261.0,3581
+,,,VALACYCLOVIR HYDROCHLORIDE,Nucleosides and Nucleotides,2043-06-20,,2043-06-20,212448.0,3601
+,,,CLINDAMYCIN,Lincomycin Antibiotics,2044-01-23,,2044-01-23,284215.0,3601
+CAD/Cardiovascular,Hyperlipidemia,,ZOCOR,HMG CoA-Reductase Inhibitors (Statins),2041-01-21,,2044-05-21,104491.0,3601
+,,,BENADRYL,Antihistamines,2044-01-24,,2044-01-24,203457.0,3601
+,,,LASIX,Loop Diuretics,2042-06-10,,2044-01-24,200801.0,3601
+,,,MEDROL DOSEPAK,Synthetic Glucocorticoid,2043-03-29,,2043-10-24,834023.0,3601
+,,,TYLENOL,Analgesics,2044-02-28,,2044-02-28,209387.0,3601
+CAD/Cardiovascular,Hypertension,,VASOTEC,Angiotensin-Converting Enzyme (Ace) Inhibitors,2041-01-21,,2044-05-21,858819.0,3601
+CAD/Cardiovascular,Hypertension,,ATENOLOL,Antihypertensive Combinations,2041-01-21,,2042-06-11,315437.0,3601
+,,,AMITIZA,Bicyclic Fatty Acid,2041-06-04,,2044-01-24,617768.0,3601
+Cerebrovascular,CVA,,PLAVIX,Anti-Platelet,2040-12-03,,2040-12-30,213169.0,3595
+CAD/Cardiovascular,Hypertension,,METOPROLOL SUCCINATE,beta-Adrenergic Blocking Agents,2043-08-23,,2043-08-23,866436.0,3595
+CAD/Cardiovascular,CAD,,RANEXA,Long Acting Nitrates,2040-12-03,,2040-12-30,860738.0,3595
+Orthopedic,Osteopenia,,CALCIUM,Calcium Supplement,2043-04-24,,2043-04-24,1895.0,3595
+CAD/Cardiovascular,Hyperlipidemia,,VYTORIN,Cholesterol Absorption Inhibitors,2040-12-03,,2040-12-30,1245430.0,3595
+Cerebrovascular,CVA,,PLAVIX,Anti-Platelet,2040-12-03,,2040-12-30,213169.0,3595
+CAD/Cardiovascular,CAD,,RANEXA,Long Acting Nitrates,2040-12-03,,2040-12-30,860738.0,3595
+Orthopedic,Osteopenia,,VITAMIN D,Vitamins,2043-04-24,,2043-04-24,11253.0,3595
+CAD/Cardiovascular,Hyperlipidemia,,VYTORIN,Cholesterol Absorption Inhibitors,2040-12-03,,2040-12-30,1245430.0,3595
+CAD/Cardiovascular,CAD,,RANEXA,Long Acting Nitrates,2040-12-03,,2040-12-30,860738.0,3595
+CAD/Cardiovascular,Angina,,ASA,NSAIDS,2043-12-21,,2043-12-24,243670.0,3611
+CAD/Cardiovascular,,,NITROGLYCERIN,"Antianginal Agents, Vasodilators",2043-12-21,,2043-12-21,486145.0,3611
+CAD/Cardiovascular,,,ENOXAPARIN SODIUM,Heparins,2043-12-21,,2043-12-21,854235.0,3611
+CAD/Cardiovascular,Edema,,LASIX,Loop Diuretics,2043-12-21,,2043-12-21,202991.0,3611
+Endocrine,Diabetes,,GLIPIZIDE,Thiazolidinediones,2043-12-21,,2043-12-24,310488.0,3611
+Endocrine,Diabetes,,GLIPIZIDE,Thiazolidinediones,2043-12-21,,2043-12-24,310488.0,3611
+Lifestyle,Pain,,ACETAMINOPHEN,Opioid Analgesics,2043-12-21,,2043-12-21,315268.0,3611
+Cancer,breast cancer,,LETROZOLE,CDK 4/6 Inhibitor,2043-12-21,,2043-12-21,200064.0,3611
+Lifestyle,Pain,,ACETAMINOPHEN,Opioid Analgesics,2043-12-21,,2043-12-21,315268.0,3611
+Cancer,breast cancer,,LETROZOLE,CDK 4/6 Inhibitor,2043-12-21,,2043-12-21,200064.0,3611
+Lifestyle,,,AMBIEN,Benzodiazepines,2041-12-16,,2042-07-11,854878.0,3615
+CAD/Cardiovascular,Hypertension,,PROPRANOLOL HYDROCHLORIDE,Beta Blocker,2041-12-16,,2044-11-29,856460.0,3615
+Blood Disorders,,,IRON,Iron supplements,2043-01-13,,2044-11-29,90176.0,3615
+Lifestyle,,,PSYLLIUM,Bulk-forming fiber laxative,2041-12-16,,2044-11-29,824586.0,3615
+Lifestyle,,,LIDODERM,Local Anesthetics,2041-12-16,,2042-03-28,1011705.0,3615
+CAD/Cardiovascular,Hypertension,,PROPRANOLOL HYDROCHLORIDE,Beta Blocker,2041-12-16,,2044-11-29,856460.0,3615
+Blood Disorders,,,IRON,Iron supplements,2043-01-13,,2044-11-29,90176.0,3615
+CAD/Cardiovascular,atrial fibrillation,,ELIQUIS,Anticoagulant,2043-09-06,,2044-01-19,1364447.0,3615
+CAD/Cardiovascular,Hypertension,,NORVASC,Calcium-Channel Blocking Agent,2042-03-28,,2044-10-30,212549.0,3615
+CAD/Cardiovascular,atrial fibrillation,,ELIQUIS,Anticoagulant,2043-09-06,,2044-01-19,1364447.0,3615
+,,,Aspirin,NSAIDs,2041-11-22,,2041-11-22,,3607
+,,,Exelon patch,Cholinesterase Inhibitors.,2041-11-22,,2041-11-22,,3607
+,,,Exelon patch,Cholinesterase Inhibitors.,2041-11-22,,2041-11-22,,3607
+,,,Aspirin,NSAIDs,2041-11-22,,2041-11-22,,3607
+,,,Nobar,Histamine-2 Receptor Antagonist,2041-11-22,,2041-11-22,,3607
+,,,Aspirin,NSAIDs,2041-11-22,,2041-11-22,,3607
+,,,Diovan,Angiotensin receptor blockers,2041-11-22,,2041-11-22,,3607
+,,,Diovan,Angiotensin receptor blockers,2041-11-22,,2041-11-22,,3607
+,,,Exelon patch,Cholinesterase Inhibitors.,2041-11-22,,2041-11-22,,3607
+,,,Aspirin,NSAIDs,2041-11-22,,2041-11-22,,3607
+CAD/Cardiovascular,Hypertension,,LISINOPRIL,Angiotensin-Converting Enzyme (Ace) Inhibitors,2043-05-09,,2045-07-17,314077.0,3619
+,,,KENALOG,Glucocorticoids,2043-09-09,,2043-09-09,202877.0,3619
+,,,KENALOG,Glucocorticoids,2043-09-09,,2043-09-09,202877.0,3619
+,,,DETROL LA,Antimuscarinic,2044-01-13,,2044-01-13,855191.0,3619
+,,,VITAMIN D3,Vitamins,2043-05-09,,2045-07-17,801663.0,3619
+,,,DETROL LA,Antimuscarinic,2044-01-13,,2044-01-13,855191.0,3619
+,,,KENALOG,Glucocorticoids,2043-09-09,,2043-09-09,202877.0,3619
+,,,TYLENOL,Analgesics,2044-12-10,,2044-12-10,209387.0,3619
+,,,KENALOG,Glucocorticoids,2043-09-09,,2043-09-09,202877.0,3619
+CAD/Cardiovascular,Hypertension,,LISINOPRIL,Angiotensin-Converting Enzyme (Ace) Inhibitors,2043-05-09,,2045-07-17,314077.0,3619
+,,,FLONASE,Adrenals,2041-07-26,,2041-07-26,1797933.0,3590
+Gastrointestinal,,,COLACE,Laxatives,2039-07-17,,2039-07-17,1247756.0,3590
+,,,FLONASE,Adrenals,2041-07-26,,2041-07-26,1797933.0,3590
+CAD/Cardiovascular,CAD,,COUMADIN,Coumarin Derivative,2028-06-25,,2041-03-11,855346.0,3590
+Orthopedic,Osteoporosis,,DENOSUMAB,RANK Ligand inhibitors,2041-04-15,,2041-04-15,993454.0,3590
+Gastrointestinal,,,IMODIUM,Antidiarrheals,2040-07-28,,2040-07-28,978013.0,3590
+Autoimmune Disorders,Rheumatoid arthritis,,PREDNISOLONE,Corticosteroids,2041-10-28,,2041-10-28,198142.0,3590
+Orthopedic,Osteoporosis,,DENOSUMAB,RANK Ligand inhibitors,2041-04-15,,2041-04-15,993454.0,3590
+Blood Disorders,Anemia,,FOLIC ACID,"Water-Soluble, B Complex Vitamin.",2041-03-11,,2041-03-11,310410.0,3590
+Autoimmune Disorders,Rheumatoid arthritis,,METHOTREXATE,Folate AntAgonist,2041-03-11,,2041-03-11,105585.0,3590

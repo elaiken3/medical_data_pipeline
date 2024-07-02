@@ -1,0 +1,461 @@
+impairment_category,impairment,feature_type,loinc,feature_date,feature,value,normal_range_of_value,result_evaluation_or_flag,person_id
+labs,CMP Panel,Labs,1558-6,2034-08-14,Glucose,107,65-99,High,3585
+labs,CBC Panel,Labs,744-3,2033-09-23,Monocytes%,14,0-6,High,3585
+labs,CMP Panel,Labs,50384-7,2034-09-20,eGFR-AA,>60,>60,Normal,3585
+labs,CBC Panel,Labs,744-3,2033-09-23,Monocytes%,14,0-6,High,3585
+labs,CBC Panel,Labs,744-3,2033-09-23,Monocytes%,14,0-6,High,3585
+labs,CMP Panel,Labs,50384-7,2034-07-04,eGFR-NAA,57,>60,Low,3585
+labs,CBC Panel,Labs,30428-7,2033-09-23,MCV,95.6,80.0-94.0,High,3585
+labs,CBC Panel,Labs,785-6,2034-07-04,MCH,34.0,26.0-32.0,High,3585
+labs,CBC Panel,Labs,744-3,2033-09-23,Monocytes%,14,0-6,High,3585
+labs,CBC Panel,Labs,30428-7,2033-09-23,MCV,95.6,80.0-94.0,High,3585
+labs,CMP Panel,Labs,2160-0,2034-01-30,Blood creatinine,0.6,0.7-1.2,Low,3613
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2034-02-02,LDL,162,50-130,High,3613
+labs,CMP Panel,Labs,2160-0,2034-01-30,Blood creatinine,0.6,0.7-1.2,Low,3613
+labs,CBC Panel,Labs,789-8,2034-01-30,RBC,4.45,4.2-5.4,Normal,3613
+CAD/Cardiovascular,Hyperlipidemia,Labs,2085-9,2031-07-05,HDL,59,<61,Low,3613
+Endocrine,impaired glucose tolerance,Labs,4548-4,2034-02-02,A1c,5.6,4.0-6.0,Normal,3613
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2034-02-02,LDL,162,50-130,High,3613
+CAD/Cardiovascular,Hyperlipidemia,Labs,2093-3,2031-01-19,Total cholesterol,230,60-200,High,3613
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2034-02-02,LDL,162,50-130,High,3613
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2034-02-02,LDL,162,50-130,High,3613
+labs,CBC Panel,Labs,30428-7,2030-10-05,MCV,89,80.0-94.0,Normal,3582
+labs,CMP Panel,Labs,2160-0,2030-10-05,Blood creatinine,1.3,0.5-1.3,Normal,3582
+labs,CMP Panel,Labs,1920-8,2030-06-04,AST,28,0-35,Normal,3582
+labs,CBC Panel,Labs,7796-6,2030-10-05,Platelet count,238,150-450,Normal,3582
+labs,CBC Panel,Labs,7796-6,2030-10-05,Platelet count,238,150-450,Normal,3582
+CAD/Cardiovascular,Hyperlipidemia,Labs,2093-3,2026-06-09,Total cholesterol,209,60-200,High,3582
+labs,CMP Panel,Labs,1920-8,2030-06-04,AST,28,0-35,Normal,3582
+labs,CBC Panel,Labs,705-4,2030-10-05,Basophils%,0.4,0-1,Normal,3582
+labs,CMP Panel,Labs,2160-0,2030-10-05,Blood creatinine,1.3,0.5-1.3,Normal,3582
+labs,CMP Panel,Labs,3097-3,2030-10-05,BUN/Creatinine,19.2,6.0-22.0,Normal,3582
+labs,CBC Panel,Labs,4548-4,2027-08-08,Hemoglobin (HGB),13.2,13.5-17.5,Low,3586
+labs,CMP Panel,Labs,1759-0,2032-06-12,A/G ratio,1.6,1.1-2.5,Normal,3586
+labs,CMP Panel,Labs,2947-0,2032-06-12,Sodium,137,135-148,Normal,3586
+labs,CBC Panel,Labs,4548-4,2027-08-08,Hemoglobin (HGB),13.2,13.5-17.5,Low,3586
+labs,CMP Panel,Labs,2336-6,2032-06-12,Globulin,2.6,1.5-4.5,Normal,3586
+labs,CMP Panel,Labs,2336-6,2032-06-12,Globulin,2.6,1.5-4.5,Normal,3586
+labs,CBC Panel,Labs,7796-6,2032-06-12,Platelet count,177,140-415,Normal,3586
+labs,CBC Panel,Labs,4548-4,2027-08-08,Hemoglobin (HGB),13.2,13.5-17.5,Low,3586
+labs,CBC Panel,Labs,4548-4,2027-08-08,Hemoglobin (HGB),13.2,13.5-17.5,Low,3586
+labs,CBC Panel,Labs,7796-6,2032-06-12,Platelet count,177,140-415,Normal,3586
+labs,CBC Panel,Labs,789-8,2035-07-27,RBC,4.58,4.20-5.80,Normal,3610
+labs,CBC Panel,Labs,789-8,2035-07-27,RBC,4.58,4.20-5.80,Normal,3610
+labs,CMP Panel,Labs,3094-0,2035-07-27,"Blood urea, or blood urea nitrogen (BUN)",22,7-25,Normal,3610
+labs,CMP Panel,Labs,2885-2,2035-07-27,Total Protein,7.0,6.2-8.3,Normal,3610
+CAD/Cardiovascular,Hyperlipidemia,Labs,13458-5,2035-07-27,VLDL,27,3-31,Normal,3610
+labs,CBC Panel,Labs,789-8,2035-07-27,RBC,4.58,4.20-5.80,Normal,3610
+labs,CMP Panel,Labs,2160-0,2035-07-27,Blood creatinine,1.30,0.50-1.30,Normal,3610
+labs,CBC Panel,Labs,705-4,2035-07-27,Basophils%,0.5,,,3610
+labs,CBC Panel,Labs,705-4,2035-07-27,Basophils%,0.5,,,3610
+labs,CMP Panel,Labs,3094-0,2035-07-27,"Blood urea, or blood urea nitrogen (BUN)",22,7-25,Normal,3610
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2032-02-04,Total cholesterol/HDL-C ratio,2.7,<5.0,Normal,3620
+labs,CBC Panel,Labs,26474-7,2032-02-04,Lymphocytes (ALC),1641,850-3500,Normal,3620
+labs,CBC Panel,Labs,26474-7,2032-02-04,Lymphocytes (ALC),1641,850-3500,Normal,3620
+labs,CBC Panel,Labs,26464-8,2032-02-04,WBC count,5.8,4.5-11.0,Normal,3620
+labs,CMP Panel,Labs,2160-0,2030-06-09,Blood creatinine,1.3,0.5-1.2,High,3620
+labs,CBC Panel,Labs,26474-7,2032-02-04,Lymphocytes (ALC),1641,850-3500,Normal,3620
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2032-02-04,Total cholesterol/HDL-C ratio,2.7,<5.0,Normal,3620
+labs,CMP Panel,Labs,77138-6,2029-09-26,Chloride,111,98-106,High,3620
+labs,CMP Panel,Labs,2160-0,2030-06-09,Blood creatinine,1.3,0.5-1.2,High,3620
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2032-02-04,Total cholesterol/HDL-C ratio,2.7,<5.0,Normal,3620
+labs,CBC Panel,Labs,785-6,2031-02-11,MCH,31.9,27-31.2,High,3583
+labs,CBC Panel,Labs,32623-1,2030-12-01,MPV,7.7,6-7.1,High,3583
+labs,CBC Panel,Labs,785-6,2031-02-11,MCH,31.9,27-31.2,High,3583
+labs,CBC Panel,Labs,786-4,2030-07-12,MCHC,32.9,37.3-38.5,Low,3583
+labs,CBC Panel,Labs,32623-1,2030-12-01,MPV,7.7,6-7.1,High,3583
+labs,CBC Panel,Labs,32623-1,2030-12-01,MPV,7.7,6-7.1,High,3583
+labs,CBC Panel,Labs,32623-1,2030-12-01,MPV,7.7,6-7.1,High,3583
+labs,CBC Panel,Labs,20570-8,2030-12-01,Hematocrit (HCT),53.6,40.0-47.0,High,3583
+labs,CBC Panel,Labs,786-4,2030-07-12,MCHC,32.9,37.3-38.5,Low,3583
+labs,CBC Panel,Labs,32623-1,2030-12-01,MPV,7.7,6-7.1,High,3583
+labs,CMP Panel,Labs,1920-8,2031-02-25,AST,29,0-40,Normal,3591
+labs,CMP Panel,Labs,1975-2,2031-02-25,Bilirubin,0.7,0.1-1.2,Normal,3591
+labs,CBC Panel,Labs,26449-9,2031-12-19,Eosinophils (AEC),0.0,0-350,Normal,3591
+labs,CMP Panel,Labs,2947-0,2031-12-19,Sodium,134,135-145,Low,3591
+labs,CBC Panel,Labs,20570-8,2031-12-19,Hematocrit (HCT),43.7,35.0-45.0,Normal,3591
+labs,CBC Panel,Labs,785-6,2031-12-19,MCH,32.2,26.0-32.0,High,3591
+labs,CBC Panel,Labs,26464-8,2031-12-19,WBC count,5.0,4.5-11.0,Normal,3591
+labs,CBC Panel,Labs,785-6,2031-12-19,MCH,32.2,26.0-32.0,High,3591
+labs,CBC Panel,Labs,26464-8,2031-12-19,WBC count,5.0,4.5-11.0,Normal,3591
+labs,CBC Panel,Labs,20570-8,2031-12-19,Hematocrit (HCT),43.7,35.0-45.0,Normal,3591
+labs,CMP Panel,Labs,17861-6,2032-02-16,Calcium,10.1,8.5- 10.6,Normal,3623
+labs,CMP Panel,Labs,6298-4,2032-02-16,Potassium,4.1,3.5-5.1,Normal,3623
+labs,CMP Panel,Labs,6298-4,2032-02-16,Potassium,4.1,3.5-5.1,Normal,3623
+labs,CMP Panel,Labs,17861-6,2032-02-16,Calcium,10.1,8.5- 10.6,Normal,3623
+labs,CMP Panel,Labs,3094-0,2032-02-16,"Blood urea, or blood urea nitrogen (BUN)",26.8,7.8-21.4,High,3623
+labs,CMP Panel,Labs,3094-0,2032-02-16,"Blood urea, or blood urea nitrogen (BUN)",26.8,7.8-21.4,High,3623
+labs,CMP Panel,Labs,17861-6,2029-08-24,Calcium,10.6,8.6 - 10.4,High,3623
+labs,CMP Panel,Labs,3094-0,2032-02-16,"Blood urea, or blood urea nitrogen (BUN)",26.8,7.8-21.4,High,3623
+labs,CMP Panel,Labs,17861-6,2029-08-24,Calcium,10.6,8.6 - 10.4,High,3623
+labs,CMP Panel,Labs,3094-0,2032-02-16,"Blood urea, or blood urea nitrogen (BUN)",26.8,7.8-21.4,High,3623
+labs,,Labs,2093-3,2028-05-29,Total cholesterol,182,,,3580
+Blood Disorders,Anemia,Labs,789-8,2028-06-13,RBC,2.66,4.20-6.30,Low,3580
+labs,,Labs,30166-3,2028-06-03,TSH,3.71,0.47-5.0,Normal,3580
+Blood Disorders,Anemia,Labs,14801-5,2028-06-13,Iron saturation,5,15-55,Low,3580
+Blood Disorders,Anemia,Labs,14801-5,2028-06-13,Iron saturation,5,15-55,Low,3580
+labs,CBC Panel,Labs,785-6,2028-08-07,MCH,30.0,26.0-32.0,Normal,3580
+Blood Disorders,Anemia,Labs,14801-5,2028-06-13,Iron saturation,5,15-55,Low,3580
+Blood Disorders,Anemia,Labs,789-8,2028-06-13,RBC,2.66,4.20-6.30,Low,3580
+labs,,Labs,2093-3,2028-05-29,Total cholesterol,182,,,3580
+labs,,Labs,30166-3,2028-06-03,TSH,3.71,0.47-5.0,Normal,3580
+labs,,Labs,20454-5,2030-04-21,Urine protein,Negative,Negative,,3593
+labs,,Labs,25312-0,2028-12-27,Amylase,57,,,3593
+labs,,Labs,25312-0,2028-12-27,Amylase,57,,,3593
+labs,,Labs,20454-5,2030-04-21,Urine protein,Negative,Negative,,3593
+labs,CMP Panel,Labs,1742-6,2028-12-27,ALT,28,,,3593
+labs,,Labs,20454-5,2030-04-21,Urine protein,Negative,Negative,,3593
+labs,,Labs,25312-0,2028-12-27,Amylase,57,,,3593
+labs,,Labs,20454-5,2030-04-21,Urine protein,Negative,Negative,,3593
+labs,,Labs,25312-0,2028-12-27,Amylase,57,,,3593
+labs,,Labs,20454-5,2030-04-21,Urine protein,Negative,Negative,,3593
+labs,CBC Panel,Labs,26474-7,2033-11-11,Lymphocytes (ALC),2.2,1.2-5.5,Normal,3614
+labs,CBC Panel,Labs,705-4,2033-11-11,Basophils%,0.2,0-1,Normal,3614
+labs,CMP Panel,Labs,1920-8,2033-08-15,AST,37,8-40,Normal,3614
+labs,CBC Panel,Labs,26474-7,2033-11-11,Lymphocytes (ALC),2.2,1.2-5.5,Normal,3614
+labs,CBC Panel,Labs,26474-7,2033-11-11,Lymphocytes (ALC),2.2,1.2-5.5,Normal,3614
+labs,CMP Panel,Labs,1920-8,2033-08-15,AST,37,8-40,Normal,3614
+labs,CBC Panel,Labs,705-4,2033-11-11,Basophils%,0.2,0-1,Normal,3614
+labs,CMP Panel,Labs,2885-2,2033-08-15,Total Protein,6.8,6.0-8.0,Normal,3614
+labs,CMP Panel,Labs,3094-0,2033-11-11,"Blood urea, or blood urea nitrogen (BUN)",23,7.0-20.0,High,3614
+labs,CBC Panel,Labs,705-4,2033-11-11,Basophils%,0.2,0-1,Normal,3614
+labs,CMP Panel,Labs,1975-2,2032-12-28,Bilirubin,0.4,0-1.0,Normal,3612
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2033-09-09,LDL,91,50-130,Normal,3612
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2033-09-09,LDL,91,50-130,Normal,3612
+CAD/Cardiovascular,Hyperlipidemia,Labs,13458-5,2033-09-09,VLDL,20,<40,Normal,3612
+labs,CMP Panel,Labs,2160-0,2033-09-24,Blood creatinine,1.0,0.5-1.3,Normal,3612
+CAD/Cardiovascular,Hyperlipidemia,Labs,2085-9,2033-09-09,HDL,44,40-75,Normal,3612
+labs,CMP Panel,Labs,1751-7,2032-12-28,Albumin (serum),3.9,3.5-6.0,Normal,3612
+labs,CMP Panel,Labs,1975-2,2032-12-28,Bilirubin,0.4,0-1.0,Normal,3612
+labs,CMP Panel,Labs,2160-0,2033-09-24,Blood creatinine,1.0,0.5-1.3,Normal,3612
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2033-09-09,LDL,91,50-130,Normal,3612
+labs,CBC Panel,Labs,30428-7,2031-04-29,MCV,103,80-100,High,3609
+labs,CMP Panel,Labs,1975-2,2031-04-29,Bilirubin,0.5,0.0-1.2,Normal,3609
+labs,CBC Panel,Labs,30428-7,2031-04-29,MCV,103,80-100,High,3609
+labs,Hyperlipidemia,Labs,2085-9,2031-04-29,HDL,58.0,>60,Normal,3609
+labs,CBC Panel,Labs,4548-4,2029-09-24,Hemoglobin (HGB),12.9,13.5-17.5,Low,3609
+labs,CMP Panel,Labs,3094-0,2031-04-29,"Blood urea, or blood urea nitrogen (BUN)",33,6-23,High,3609
+labs,CMP Panel,Labs,17861-6,2031-04-29,Calcium,8.5,8.5-10.1,Normal,3609
+labs,CMP Panel,Labs,3094-0,2031-04-29,"Blood urea, or blood urea nitrogen (BUN)",33,6-23,High,3609
+labs,,Labs,2428-1,2031-04-29,Homocysteine,6.74,5.00-13.90,Normal,3609
+labs,CBC Panel,Labs,4548-4,2029-09-24,Hemoglobin (HGB),12.9,13.5-17.5,Low,3609
+labs,CBC Panel,Labs,4548-4,2031-06-06,Hemoglobin (HGB),13.0,13.6-17.0,Low,3621
+Endocrine,Diabetes,Labs,1558-6,2033-03-26,Glucose,141,65-99,High,3621
+CAD/Cardiovascular,Hyperlipidemia,Labs,2093-3,2034-06-17,Total cholesterol,223,60-200,High,3621
+labs,CBC Panel,Labs,4548-4,2031-06-06,Hemoglobin (HGB),13.0,13.6-17.0,Low,3621
+labs,CBC Panel,Labs,4548-4,2031-06-06,Hemoglobin (HGB),13.0,13.6-17.0,Low,3621
+labs,CBC Panel,Labs,4548-4,2031-06-06,Hemoglobin (HGB),13.0,13.6-17.0,Low,3621
+CAD/Cardiovascular,Hyperlipidemia,Labs,2093-3,2034-06-17,Total cholesterol,223,60-200,High,3621
+CAD/Cardiovascular,Hyperlipidemia,Labs,2093-3,2035-06-11,Total cholesterol,239,,High,3621
+labs,CMP Panel,Labs,3097-3,2035-06-11,BUN/Creatinine,20.0,6.0-22.0,Normal,3621
+labs,CBC Panel,Labs,26464-8,2033-03-26,WBC count,10.6,4.4.0-10.0,High,3621
+labs,CBC Panel,Labs,785-6,2032-11-05,MCH,36.9,27.0-34.0,High,3622
+labs,CBC Panel,Labs,21000-5,2033-04-30,RDW,2.96,4.20-5.80,Low,3622
+labs,CBC Panel,Labs,20570-8,2033-01-28,Hematocrit (HCT),36.1,38.5-50.0,Low,3622
+labs,CBC Panel,Labs,21000-5,2032-12-23,RDW,21.5,11.0-15.0,High,3622
+labs,CBC Panel,Labs,785-6,2034-02-28,MCH,43.3,27.0-33.0,High,3622
+labs,CBC Panel,Labs,785-6,2034-02-28,MCH,43.3,27.0-33.0,High,3622
+labs,CBC Panel,Labs,20570-8,2033-01-28,Hematocrit (HCT),36.1,38.5-50.0,Low,3622
+labs,CBC Panel,Labs,26464-8,2033-11-30,WBC count,3.4,3.8-10.8,Low,3622
+labs,CBC Panel,Labs,785-6,2034-02-28,MCH,43.3,27.0-33.0,High,3622
+labs,CMP Panel,Labs,2160-0,2034-03-17,Blood creatinine,0.9,0.5-1.3,Normal,3622
+labs,CBC Panel,Labs,786-4,2034-10-11,MCHC,34.1,32.0-36.0,Normal,3603
+labs,CMP Panel,Labs,1759-0,2034-10-07,A/G ratio,1.30,0.8-2.0,Normal,3603
+labs,CMP Panel,Labs,1759-0,2034-10-07,A/G ratio,1.30,0.8-2.0,Normal,3603
+labs,CBC Panel,Labs,786-4,2032-05-18,MCHC,32.5,32.9-35.1,Low,3603
+labs,CBC Panel,Labs,786-4,2032-05-18,MCHC,32.5,32.9-35.1,Low,3603
+labs,CBC Panel,Labs,705-4,2034-04-21,Basophils%,1.3,0-1,High,3603
+labs,CBC Panel,Labs,705-4,2034-04-21,Basophils%,1.3,0-1,High,3603
+labs,CBC Panel,Labs,786-4,2032-05-18,MCHC,32.5,32.9-35.1,Low,3603
+labs,CBC Panel,Labs,786-4,2032-05-18,MCHC,32.5,32.9-35.1,Low,3603
+labs,CBC Panel,Labs,26474-7,2034-10-11,Lymphocytes%,42.8,30-45,Normal,3603
+labs,CMP Panel,Labs,6298-4,2033-08-20,Potassium,4.5,3.5-5.0,Normal,3584
+labs,CMP Panel,Labs,3097-3,2030-03-02,BUN/Creatinine,24,6-20,High,3584
+labs,CMP Panel,Labs,3097-3,2028-09-14,BUN/Creatinine,27,6-20,High,3584
+labs,CMP Panel,Labs,1558-6,2033-08-20,Glucose,83,65-99,Normal,3584
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2029-04-15,Triglycerides,167,30-150,High,3584
+labs,CMP Panel,Labs,3097-3,2028-09-14,BUN/Creatinine,27,6-20,High,3584
+labs,CBC Panel,Labs,26474-7,2033-08-20,Lymphocytes (ALC),2.0,1.2-5.5,Normal,3584
+labs,CMP Panel,Labs,3097-3,2029-09-11,BUN/Creatinine,25,6-20,High,3584
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2029-04-15,Triglycerides,167,30-150,High,3584
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2029-04-15,Triglycerides,167,30-150,High,3584
+labs,CMP Panel,Labs,1558-6,2035-04-02,Glucose,112,65-99,High,3588
+labs,CMP Panel,Labs,1558-6,2037-07-26,Glucose,124,135-148,High,3588
+labs,CMP Panel,Labs,1558-6,2037-07-26,Glucose,124,135-148,High,3588
+labs,CBC Panel,Labs,26474-7,2037-07-26,Lymphocytes (ALC),1.6,0.8-3.1,Normal,3588
+labs,CMP Panel,Labs,1558-6,2037-07-26,Glucose,124,135-148,High,3588
+labs,CBC Panel,Labs,26474-7,2037-07-26,Lymphocytes (ALC),1.6,0.8-3.1,Normal,3588
+labs,CMP Panel,Labs,17861-6,2037-07-26,Calcium,9.5,8.6-10.6,Normal,3588
+labs,CMP Panel,Labs,1558-6,2037-07-26,Glucose,124,135-148,High,3588
+labs,CMP Panel,Labs,1558-6,2037-07-26,Glucose,124,135-148,High,3588
+labs,CMP Panel,Labs,1558-6,2035-04-02,Glucose,112,65-99,High,3588
+labs,CBC Panel,Labs,7796-6,2034-02-16,Platelet count,225,150-400,Normal,3627
+labs,CMP Panel,Labs,2947-0,2034-04-11,Sodium,136,136-145,Normal,3627
+labs,CBC Panel,Labs,7796-6,2034-02-16,Platelet count,225,150-400,Normal,3627
+labs,CBC Panel,Labs,7796-6,2034-02-16,Platelet count,225,150-400,Normal,3627
+labs,CMP Panel,Labs,17861-6,2034-04-11,Calcium,9.8,8.4-10.2,Normal,3627
+labs,CBC Panel,Labs,26474-7,2034-02-16,Lymphocytes (ALC),1.8,1.1-4.0,Normal,3627
+labs,,Labs,20454-5,2033-02-04,Urine protein,Negative,Negative,Negative,3627
+labs,CBC Panel,Labs,7796-6,2034-02-16,Platelet count,225,150-400,Normal,3627
+labs,CBC Panel,Labs,26474-7,2034-02-16,Lymphocytes (ALC),1.8,1.1-4.0,Normal,3627
+labs,CMP Panel,Labs,6768-6,2029-11-23,Alkaline Phosphatase (ALP Or AP),144,32-104,High,3627
+labs,CBC Panel,Labs,21000-5,2033-07-29,RDW,14,12-15,Normal,3596
+labs,Hyperlipidemia,Labs,2093-3,2032-08-06,Total cholesterol,243,0-200,High,3596
+labs,,Labs,9830-1,2034-04-26,Total cholesterol/HDL-C ratio,3.7,,,3596
+labs,,Labs,9830-1,2034-04-26,Total cholesterol/HDL-C ratio,3.7,,,3596
+labs,CMP Panel,Labs,1558-6,2033-07-29,Glucose,86,70-110,Normal,3596
+labs,,Labs,2093-3,2032-03-06,Total cholesterol,231,0-200,High,3596
+labs,,Labs,2089-1,2034-04-26,LDL,106,,,3596
+labs,,Labs,2085-9,2034-04-26,HDL,50,,,3596
+labs,,Labs,2089-1,2034-04-26,LDL,106,,,3596
+labs,,Labs,2089-1,2034-04-26,LDL,106,,,3596
+Renal,Chronic kidney disease,Labs,2160-0,2034-10-08,Blood creatinine,1.7,0.7-1.4,High,3597
+labs,CBC Panel,Labs,4548-4,2034-10-21,Hemoglobin (HGB),10.2,37.0-51.0,Low,3597
+labs,CBC Panel,Labs,4548-4,2035-01-14,Hemoglobin (HGB),11.5,14-18,Low,3597
+labs,,Labs,2093-3,2036-12-23,Total cholesterol,183,60-200,Normal,3597
+Renal,Chronic kidney disease,Labs,2160-0,2034-10-08,Blood creatinine,1.7,0.7-1.4,High,3597
+labs,CBC Panel,Labs,4548-4,2034-10-21,Hemoglobin (HGB),10.2,37.0-51.0,Low,3597
+labs,,Labs,2093-3,2036-12-23,Total cholesterol,183,60-200,Normal,3597
+Renal,Chronic kidney disease,Labs,2160-0,2034-10-08,Blood creatinine,1.7,0.7-1.4,High,3597
+Renal,Chronic kidney disease,Labs,2160-0,2034-10-08,Blood creatinine,1.7,0.7-1.4,High,3597
+Renal,Chronic kidney disease,Labs,2160-0,2036-04-29,Blood creatinine,1.7,0.5-1.6,High,3597
+labs,,Labs,2428-1,2031-04-21,Homocysteine,10.6,<10,High,3617
+labs,CBC Panel,Labs,785-6,2031-04-21,MCH,32.6,26-32,High,3617
+labs,CMP Panel,Labs,6768-6,2034-04-16,Alkaline Phosphatase (ALP Or AP),42,40-115,Normal,3617
+labs,CBC Panel,Labs,785-6,2031-04-21,MCH,32.6,26-32,High,3617
+labs,CBC Panel,Labs,705-4,2034-04-16,Basophils%,0.8,0-2,Normal,3617
+labs,,Labs,2428-1,2031-04-21,Homocysteine,10.6,<10,High,3617
+labs,,Labs,2428-1,2031-04-21,Homocysteine,10.6,<10,High,3617
+labs,CBC Panel,Labs,30428-7,2034-04-16,MCV,98.0,80-100,Normal,3617
+labs,CMP Panel,Labs,2160-0,2034-04-16,Blood creatinine,1.0,0.5-1.3,Normal,3617
+labs,,Labs,3024-7,2031-04-21,Free thyroxine (Free T4),9.2,4.3-12.5,Normal,3617
+labs,CBC Panel,Labs,789-8,2033-07-11,RBC,4.06,4.50-5.90,Low,3579
+Endocrine,Diabetes,Labs,14959-1,2033-06-07,"ACR, uMACR, uACR, Albumin to Creatinine ratio",138,<30,High,3579
+labs,CBC Panel,Labs,785-6,2037-12-24,MCH,33,27.5-33.1,Normal,3579
+labs,,Labs,4537-7,2034-10-02,ESR (Erythrocyte sedimentation rate),27,,,3579
+labs,CMP Panel,Labs,1742-6,2037-09-18,ALT,33,0-35,Normal,3579
+labs,CMP Panel,Labs,1975-2,2035-01-31,Bilirubin,1.4,0.2-1.2,High,3579
+labs,CBC Panel,Labs,785-6,2037-12-24,MCH,33,27.5-33.1,Normal,3579
+labs,CBC Panel,Labs,20570-8,2037-12-24,Hematocrit (HCT),40.5,35.0-45.0,Normal,3579
+labs,,Labs,4537-7,2034-10-02,ESR (Erythrocyte sedimentation rate),27,,,3579
+labs,CBC Panel,Labs,20570-8,2037-12-24,Hematocrit (HCT),40.5,35.0-45.0,Normal,3579
+labs,CBC Panel,Labs,786-4,2043-12-16,MCHC,32.5,31.0-36.0,Normal,3602
+Gastrointestinal,Hepatitis,Labs,6768-6,2043-12-16,Alkaline Phosphatase (ALP Or AP),49,32-92,Normal,3602
+labs,CBC Panel,Labs,786-4,2043-12-16,MCHC,32.5,31.0-36.0,Normal,3602
+CAD/Cardiovascular,Hyperlipidemia,Labs,2085-9,2044-07-25,HDL,57,,,3602
+Gastrointestinal,Hepatitis,Labs,6768-6,2043-12-16,Alkaline Phosphatase (ALP Or AP),49,32-92,Normal,3602
+CAD/Cardiovascular,Hyperlipidemia,Labs,13458-5,2043-12-16,VLDL,19,1-36,Normal,3602
+labs,CMP Panel,Labs,1759-0,2043-01-28,A/G ratio,1.5,,Normal,3602
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2044-07-25,LDL,130,100-129,High,3602
+labs,,Labs,62292-8,2043-12-16,Vitamin D,39.35,30.00-100.00,Normal,3602
+Gastrointestinal,Hepatitis,Labs,6768-6,2043-12-16,Alkaline Phosphatase (ALP Or AP),49,32-92,Normal,3602
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2035-07-26,Triglycerides,70,40-160,Normal,3608
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2034-11-14,Total cholesterol/HDL-C ratio,4.1,4.8-5.9,Low,3608
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2034-11-14,Total cholesterol/HDL-C ratio,4.1,4.8-5.9,Low,3608
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2034-11-14,Total cholesterol/HDL-C ratio,4.1,4.8-5.9,Low,3608
+labs,CBC Panel,Labs,30180-4,2035-07-26,Basophils (ABC),0.0,0.0-0.1,Normal,3608
+labs,CMP Panel,Labs,3094-0,2035-02-20,"Blood urea, or blood urea nitrogen (BUN)",37.0,2.0-28.0,High,3608
+labs,CMP Panel,Labs,3094-0,2035-02-20,"Blood urea, or blood urea nitrogen (BUN)",37.0,2.0-28.0,High,3608
+labs,CMP Panel,Labs,3094-0,2035-02-20,"Blood urea, or blood urea nitrogen (BUN)",37.0,2.0-28.0,High,3608
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2035-07-26,Triglycerides,70,40-160,Normal,3608
+Blood Disorders,Anemia,Labs,20570-8,2034-08-22,Hematocrit (HCT),40.3,42.0-52.0,Low,3608
+labs,CMP Panel,Labs,1920-8,2038-11-10,AST,19,0-35,Normal,3592
+labs,CMP Panel,Labs,50384-7,2036-12-21,eGFR-NAA,58,>60,Low,3592
+labs,CMP Panel,Labs,6768-6,2037-05-08,Alkaline Phosphatase (ALP Or AP),69,30-120,Normal,3592
+labs,CMP Panel,Labs,1920-8,2037-05-08,AST,16,0-35,Normal,3592
+labs,CMP Panel,Labs,1920-8,2038-11-10,AST,19,0-35,Normal,3592
+labs,CMP Panel,Labs,6768-6,2037-05-08,Alkaline Phosphatase (ALP Or AP),69,30-120,Normal,3592
+labs,CMP Panel,Labs,1920-8,2037-05-08,AST,16,0-35,Normal,3592
+labs,CMP Panel,Labs,3097-3,2038-08-06,BUN/Creatinine,22,6.0-22.0,Normal,3592
+labs,CBC Panel,Labs,744-3,2036-09-02,Monocytes%,8,4-13,Normal,3592
+labs,CMP Panel,Labs,1920-8,2038-11-10,AST,19,0-35,Normal,3592
+labs,CBC Panel,Labs,785-6,2035-08-27,MCH,31.2,26.0-32.0,Normal,3606
+labs,CBC Panel,Labs,7796-6,2035-08-27,Platelet count,229,150-450,Normal,3606
+labs,CMP Panel,Labs,1742-6,2035-09-09,ALT,15,0-35,Normal,3606
+labs,CBC Panel,Labs,785-6,2035-08-27,MCH,31.2,26.0-32.0,Normal,3606
+labs,CBC Panel,Labs,785-6,2035-08-27,MCH,31.2,26.0-32.0,Normal,3606
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2035-09-09,LDL,86,50-130,Normal,3606
+labs,CMP Panel,Labs,1742-6,2035-09-09,ALT,15,0-35,Normal,3606
+labs,CBC Panel,Labs,30428-7,2035-08-27,MCV,88.0,80.0-94.0,Normal,3606
+CAD/Cardiovascular,Hyperlipidemia,Labs,2093-3,2035-09-09,Total cholesterol,177,60-200,Normal,3606
+labs,CBC Panel,Labs,785-6,2035-08-27,MCH,31.2,26.0-32.0,Normal,3606
+labs,CBC Panel,Labs,26484-6,2037-07-14,Monocytes (AMC),0.3,,,3624
+labs,CMP Panel,Labs,2160-0,2037-07-14,Blood creatinine,1.0,0.6-1.2,Normal,3624
+labs,CMP Panel,Labs,2160-0,2037-07-14,Blood creatinine,1.0,0.6-1.2,Normal,3624
+labs,CBC Panel,Labs,785-6,2037-07-14,MCH,31.8,27.0-31.0,High,3624
+labs,CMP Panel,Labs,2160-0,2037-07-14,Blood creatinine,1.0,0.6-1.2,Normal,3624
+labs,,Labs,2093-3,2034-06-03,Total cholesterol,106.0,125.0-200.0,Low,3624
+labs,CBC Panel,Labs,26449-9,2033-03-27,Eosinophils (AEC),0.1,0.0-0.4,Normal,3624
+labs,CBC Panel,Labs,26484-6,2037-07-14,Monocytes (AMC),0.3,,,3624
+labs,CMP Panel,Labs,6768-6,2036-11-07,Alkaline Phosphatase (ALP Or AP),77,30-120,Normal,3624
+labs,CBC Panel,Labs,21000-5,2033-03-27,RDW,16.1,11.7-15.0,High,3624
+Blood Disorders,Anemia,Labs,753-4,2038-03-02,Neutrophils%,72.0,,,3594
+labs,CMP Panel,Labs,1558-6,2038-03-02,Glucose,86,65-99,Normal,3594
+Blood Disorders,Anemia,Labs,789-8,2036-06-29,RBC,3.50,4.5-5.7,Low,3594
+labs,CMP Panel,Labs,6768-6,2035-03-16,Alkaline Phosphatase (ALP Or AP),133,30-120,High,3594
+labs,CMP Panel,Labs,1751-7,2038-03-02,Albumin (serum),3.6,,,3594
+labs,CMP Panel,Labs,50384-7,2038-03-02,eGFR-AA,>60,>60,Normal,3594
+labs,CMP Panel,Labs,6768-6,2035-03-16,Alkaline Phosphatase (ALP Or AP),133,30-120,High,3594
+Lifestyle,,Labs,62292-8,2038-03-02,Vitamin D,23,20-40,Normal,3594
+labs,CMP Panel,Labs,6768-6,2035-03-16,Alkaline Phosphatase (ALP Or AP),133,30-120,High,3594
+labs,CMP Panel,Labs,1751-7,2038-03-02,Albumin (serum),3.6,,,3594
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2035-07-23,Total cholesterol/HDL-C ratio,4.8,<4.5,High,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,13458-5,2033-11-03,VLDL,48,11-29,High,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2034-11-06,LDL,103,<100,High,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2035-07-23,Total cholesterol/HDL-C ratio,4.8,<4.5,High,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,13458-5,2033-11-03,VLDL,48,11-29,High,3600
+labs,CMP Panel,Labs,17861-6,2036-09-19,Calcium,9.0,8.6 - 10.2,Normal,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,13458-5,2033-11-03,VLDL,48,11-29,High,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2034-11-06,Triglycerides,168,55-149,High,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,9830-1,2035-07-23,Total cholesterol/HDL-C ratio,4.8,<4.5,High,3600
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2034-11-06,Triglycerides,168,55-149,High,3600
+labs,,Labs,2571-8,2036-01-30,Triglycerides,231,30-150,High,3626
+labs,,Labs,30934-4,2037-03-13,BNP,319.0,0.0-450,High,3626
+labs,,Labs,9830-1,2033-11-07,Total cholesterol/HDL-C ratio,3.8,4.2-7.0,Low,3626
+labs,,Labs,9830-1,2033-11-07,Total cholesterol/HDL-C ratio,3.8,4.2-7.0,Low,3626
+labs,,Labs,9830-1,2033-11-07,Total cholesterol/HDL-C ratio,3.8,4.2-7.0,Low,3626
+labs,,Labs,9830-1,2033-11-07,Total cholesterol/HDL-C ratio,3.8,4.2-7.0,Low,3626
+labs,,Labs,30934-4,2037-03-13,BNP,319.0,0.0-450,High,3626
+labs,CBC Panel,Labs,7796-6,2038-02-02,Platelet count,155,150-450,Normal,3626
+labs,,Labs,30934-4,2037-03-13,BNP,319.0,0.0-450,High,3626
+labs,CBC Panel,Labs,7796-6,2038-02-02,Platelet count,155,150-450,Normal,3626
+labs,,Labs,2857-1,2038-06-21,Total PSA,8.0,0.0-4.0,High,3599
+labs,CMP Panel,Labs,1751-7,2038-06-06,Albumin (serum),4.2,4.0-6.0,Normal,3599
+labs,,Labs,62292-8,2038-06-06,Vitamin D,67.4,32.0-100.0,Normal,3599
+labs,,Labs,3024-7,2038-06-06,Free thyroxine (Free T4),1.7,0.8-2.8,Normal,3599
+labs,CMP Panel,Labs,1751-7,2038-06-06,Albumin (serum),4.2,4.0-6.0,Normal,3599
+labs,CMP Panel,Labs,2336-6,2038-06-06,Globulin,2.5,2.0-4.0,Normal,3599
+labs,,Labs,2857-1,2038-06-21,Total PSA,8.0,0.0-4.0,High,3599
+labs,CMP Panel,Labs,1742-6,2038-06-06,ALT,19,0-35,Normal,3599
+labs,CMP Panel,Labs,1742-6,2038-06-06,ALT,19,0-35,Normal,3599
+labs,CMP Panel,Labs,50384-7,2038-06-06,eGFR-NAA,70,>60,Normal,3599
+labs,CMP Panel,Labs,3094-0,2036-05-03,"Blood urea, or blood urea nitrogen (BUN)",16,7-25,Normal,3587
+labs,CBC Panel,Labs,26499-4,2036-05-03,Neutrophils (ANC),1822,1500-7800,Normal,3587
+labs,CBC Panel,Labs,26474-7,2036-05-03,Lymphocytes (ALC),1835,850-3900,Normal,3587
+labs,CBC Panel,Labs,26474-7,2036-05-03,Lymphocytes (ALC),1835,850-3900,Normal,3587
+labs,CBC Panel,Labs,26474-7,2036-05-03,Lymphocytes (ALC),1835,850-3900,Normal,3587
+labs,CBC Panel,Labs,26474-7,2036-05-03,Lymphocytes (ALC),1835,850-3900,Normal,3587
+labs,CBC Panel,Labs,26474-7,2036-05-03,Lymphocytes (ALC),1835,850-3900,Normal,3587
+labs,CBC Panel,Labs,26474-7,2036-05-03,Lymphocytes (ALC),1835,850-3900,Normal,3587
+labs,,Labs,9830-1,2036-05-03,Total cholesterol/HDL-C ratio,4.1,<=5.0,Normal,3587
+labs,CMP Panel,Labs,1742-6,2036-09-02,ALT,99,6-40,High,3587
+labs,CBC Panel,Labs,21000-5,2042-01-10,RDW,12.7,9.0-17.9,Normal,3589
+labs,CBC Panel,Labs,21000-5,2042-01-10,RDW,12.7,9.0-17.9,Normal,3589
+labs,CMP Panel,Labs,2885-2,2039-10-10,Total Protein,7.5,6.1-8.1,Normal,3589
+labs,CBC Panel,Labs,21000-5,2042-01-10,RDW,12.7,9.0-17.9,Normal,3589
+labs,CMP Panel,Labs,2885-2,2039-10-10,Total Protein,7.5,6.1-8.1,Normal,3589
+labs,CBC Panel,Labs,21000-5,2042-01-10,RDW,12.7,9.0-17.9,Normal,3589
+labs,CMP Panel,Labs,11557-6,2039-11-13,Carbon dioxide,22,24-34,Low,3589
+labs,CMP Panel,Labs,11557-6,2042-03-25,Carbon dioxide,26,24-34,Normal,3589
+labs,CBC Panel,Labs,786-4,2042-01-10,MCHC,33.1,32-37.0,Normal,3589
+labs,CBC Panel,Labs,786-4,2042-01-10,MCHC,33.1,32-37.0,Normal,3589
+labs,CBC Panel,Labs,26449-9,2039-11-30,Eosinophils (AEC),0.1,0-350,Normal,3628
+labs,,Labs,30166-3,2039-11-30,TSH,2.780,0.5-4.5,Normal,3628
+labs,CBC Panel,Labs,26449-9,2039-11-30,Eosinophils (AEC),0.1,0-350,Normal,3628
+labs,CBC Panel,Labs,26449-9,2039-11-30,Eosinophils (AEC),0.1,0-350,Normal,3628
+labs,CBC Panel,Labs,26449-9,2039-11-30,Eosinophils (AEC),0.1,0-350,Normal,3628
+labs,CMP Panel,Labs,1975-2,2039-11-30,Bilirubin,0.6,0-1.0,Normal,3628
+labs,,Labs,30166-3,2039-11-30,TSH,2.780,0.5-4.5,Normal,3628
+labs,CBC Panel,Labs,26449-9,2039-11-30,Eosinophils (AEC),0.1,0-350,Normal,3628
+labs,CMP Panel,Labs,11557-6,2039-11-30,Carbon dioxide,26,16-30,Normal,3628
+labs,CBC Panel,Labs,30428-7,2039-11-30,MCV,96,79-97,Normal,3628
+labs,,Labs,34714-6,2036-01-24,INR,1.5,0.9-1.1,High,3598
+labs,,Labs,20454-5,2040-02-05,Urine protein,Negative,Negative,Negative,3598
+labs,,Labs,34714-6,2036-01-24,INR,1.5,0.9-1.1,High,3598
+labs,,Labs,34714-6,2036-01-24,INR,1.5,0.9-1.1,High,3598
+labs,CBC Panel,Labs,26474-7,2036-01-24,Lymphocytes%,16.2,30-45,Low,3598
+labs,CMP Panel,Labs,1975-2,2040-05-19,Bilirubin,0.87,0-1.0,Normal,3598
+labs,,Labs,34714-6,2036-01-24,INR,1.5,0.9-1.1,High,3598
+labs,,Labs,20454-5,2040-02-05,Urine protein,Negative,Negative,Negative,3598
+labs,CBC Panel,Labs,26464-8,2040-05-19,WBC count,5.40,4.5-11.0,Normal,3598
+labs,CMP Panel,Labs,1975-2,2040-05-19,Bilirubin,0.87,0-1.0,Normal,3598
+Renal,Chronic kidney disease,Labs,2160-0,2040-07-14,Blood creatinine,2.03,0.5-1.3,High,3605
+Endocrine,Diabetes,Labs,50384-7,2040-04-11,eGFR-AA,44,>60,Low,3605
+labs,CBC Panel,Labs,26474-7,2040-04-11,Lymphocytes (ALC),2.1,1.2-5.5,Normal,3605
+labs,CMP Panel,Labs,77138-6,2040-07-14,Chloride,95,98-106,Low,3605
+Renal,Chronic kidney disease,Labs,2160-0,2040-07-14,Blood creatinine,2.03,0.5-1.3,High,3605
+labs,CBC Panel,Labs,26499-4,2040-04-11,Neutrophils (ANC),4.4,2.0-7.7,Normal,3605
+labs,CMP Panel,Labs,77138-6,2040-07-14,Chloride,95,98-106,Low,3605
+labs,CBC Panel,Labs,26499-4,2040-04-11,Neutrophils (ANC),4.4,2.0-7.7,Normal,3605
+labs,CBC Panel,Labs,30180-4,2040-04-11,Basophils (ABC),0.0,0.0-0.2,Normal,3605
+Endocrine,Diabetes,Labs,50384-7,2040-04-11,eGFR-AA,44,>60,Low,3605
+labs,CBC Panel,Labs,21000-5,2040-04-24,RDW,13.2,11.5-14.5,Normal,3618
+labs,CMP Panel,Labs,3094-0,2040-04-24,"Blood urea, or blood urea nitrogen (BUN)",19,7.0-25.0,Normal,3618
+labs,,Labs,9830-1,2040-04-24,Total cholesterol/HDL-C ratio,2.81,,,3618
+labs,CMP Panel,Labs,50384-7,2040-04-24,eGFR-NAA,76,>60,Normal,3618
+labs,,Labs,2093-3,2040-04-24,Total cholesterol,200,100-199,High,3618
+labs,,Labs,2093-3,2040-04-24,Total cholesterol,200,100-199,High,3618
+labs,CMP Panel,Labs,50384-7,2040-04-24,eGFR-NAA,76,>60,Normal,3618
+labs,CMP Panel,Labs,3097-3,2040-04-24,BUN/Creatinine,25,11-26,Normal,3618
+labs,CBC Panel,Labs,744-3,2040-04-24,Monocytes%,13,4-12,High,3618
+labs,CMP Panel,Labs,3097-3,2040-04-24,BUN/Creatinine,25,11-26,Normal,3618
+labs,CMP Panel,Labs,17861-6,2042-02-12,Calcium,9.1,8.4-10.2,Normal,3581
+Renal,Chronic kidney disease,Labs,50384-7,2041-08-23,eGFR-AA,22,>=60,Low,3581
+Renal,Chronic kidney disease,Labs,20454-5,2041-12-03,Urine protein,2+,Negative,Abnormal,3581
+Renal,Chronic kidney disease,Labs,20454-5,2041-12-03,Urine protein,2+,Negative,Abnormal,3581
+Renal,Chronic kidney disease,Labs,2160-0,2042-02-12,Blood creatinine,3.0,0.5-1.3,High,3581
+labs,CMP Panel,Labs,17861-6,2042-02-12,Calcium,9.1,8.4-10.2,Normal,3581
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2040-11-30,LDL,153,0-99,High,3581
+Blood Disorders,Anemia,Labs,2276-4,2041-10-15,Ferritin,130,30-400,Normal,3581
+Blood Disorders,Anemia,Labs,2276-4,2041-10-15,Ferritin,130,30-400,Normal,3581
+labs,CMP Panel,Labs,2885-2,2041-04-17,Total Protein,5.6,6.6-8.7,Low,3581
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2044-05-21,Triglycerides,88,0-150,Normal,3601
+labs,CMP Panel,Labs,2160-0,2044-05-21,Blood creatinine,0.89,0.5-1.3,Normal,3601
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2042-06-16,LDL,39,50-130,Low,3601
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2042-06-16,LDL,39,50-130,Low,3601
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2042-06-16,LDL,39,50-130,Low,3601
+CAD/Cardiovascular,Hyperlipidemia,Labs,2571-8,2044-05-21,Triglycerides,88,0-150,Normal,3601
+labs,CMP Panel,Labs,2160-0,2044-05-21,Blood creatinine,0.89,0.5-1.3,Normal,3601
+labs,CMP Panel,Labs,2947-0,2044-02-08,Sodium,134,136-145,Low,3601
+labs,,Labs,34714-6,2044-02-08,INR,1.6,0.0-1.1,High,3601
+labs,CMP Panel,Labs,1558-6,2044-01-26,Glucose,90,,Abnormal,3601
+labs,CBC Panel,Labs,4548-4,2043-07-18,Hemoglobin (HGB),13.5,13.5-18.0,Normal,3595
+labs,CBC Panel,Labs,26474-7,2043-07-18,Lymphocytes%,23.5,15.0-49.0,Normal,3595
+labs,CBC Panel,Labs,20570-8,2043-07-18,Hematocrit (HCT),40.8,40.0-54.0,Normal,3595
+labs,CBC Panel,Labs,785-6,2043-02-22,MCH,36.2,,High,3595
+labs,CBC Panel,Labs,26474-7,2043-07-18,Lymphocytes%,23.5,15.0-49.0,Normal,3595
+labs,CBC Panel,Labs,32623-1,2043-07-18,MPV,10.5,7.5-11.5,Normal,3595
+labs,CBC Panel,Labs,4548-4,2043-07-18,Hemoglobin (HGB),13.5,13.5-18.0,Normal,3595
+labs,CBC Panel,Labs,785-6,2043-02-22,MCH,36.2,,High,3595
+labs,CBC Panel,Labs,4548-4,2043-07-18,Hemoglobin (HGB),13.5,13.5-18.0,Normal,3595
+Endocrine,Diabetes,Labs,1558-6,2043-02-19,Glucose,102,65-99,High,3595
+labs,CMP Panel,Labs,1759-0,2043-12-21,A/G ratio,0.8,<0.8,Low,3611
+Endocrine,Diabetes,Labs,4548-4,2044-09-15,A1c,8.1,4.0-6.0,High,3611
+Renal,Chronic kidney disease,Labs,3094-0,2043-12-21,"Blood urea, or blood urea nitrogen (BUN)",39,7.0-25.0,High,3611
+labs,CMP Panel,Labs,77138-6,2044-09-15,Chloride,100,98-106,Normal,3611
+labs,CMP Panel,Labs,2947-0,2044-01-19,Sodium,134,136-145,Low,3611
+labs,CMP Panel,Labs,2947-0,2044-01-19,Sodium,134,136-145,Low,3611
+CAD/Cardiovascular,Hyperlipidemia,Labs,2089-1,2044-09-15,LDL,121,50-130,High,3611
+labs,CMP Panel,Labs,2947-0,2044-01-19,Sodium,134,136-145,Low,3611
+Endocrine,Diabetes,Labs,4548-4,2044-09-15,A1c,8.1,4.0-6.0,High,3611
+Endocrine,Diabetes,Labs,50384-7,2044-01-19,eGFR-AA,26,>60,Low,3611
+labs,CMP Panel,Labs,6768-6,2044-04-30,Alkaline Phosphatase (ALP Or AP),67,30-120,Normal,3615
+labs,CBC Panel,Labs,30180-4,2044-04-30,Basophils (ABC),0.1,0.0-0.2,Normal,3615
+labs,CBC Panel,Labs,30180-4,2044-04-30,Basophils (ABC),0.1,0.0-0.2,Normal,3615
+labs,CBC Panel,Labs,26464-8,2044-04-30,WBC count,5.2,4.5-11.0,Normal,3615
+labs,CMP Panel,Labs,1975-2,2044-04-30,Bilirubin,0.7,0-1.0,Normal,3615
+CAD/Cardiovascular,Hyperlipidemia,Labs,2093-3,2043-01-20,Total cholesterol,232,60-200,High,3615
+Blood Disorders,Anemia,Labs,20570-8,2044-04-30,Hematocrit (HCT),40.3,35.0-45.0,Normal,3615
+labs,CMP Panel,Labs,6768-6,2044-04-30,Alkaline Phosphatase (ALP Or AP),67,30-120,Normal,3615
+labs,CMP Panel,Labs,6768-6,2044-04-30,Alkaline Phosphatase (ALP Or AP),67,30-120,Normal,3615
+Blood Disorders,Anemia,Labs,20570-8,2044-04-30,Hematocrit (HCT),40.3,35.0-45.0,Normal,3615
+labs,CMP Panel,Labs,3094-0,2045-08-22,"Blood urea, or blood urea nitrogen (BUN)",23,8-20,High,3607
+labs,CMP Panel,Labs,2160-0,2045-08-22,Blood creatinine,0.7,0.4-1.2,Normal,3607
+labs,CBC Panel,Labs,4548-4,2045-08-22,Hemoglobin (HGB),10.8,11-16,Low,3607
+labs,CMP Panel,Labs,50384-7,2045-08-22,eGFR-NAA,78.1,,,3607
+labs,CBC Panel,Labs,4548-4,2045-08-22,Hemoglobin (HGB),10.8,11-16,Low,3607
+labs,CMP Panel,Labs,2947-0,2045-08-22,Sodium,142,136144,Normal,3607
+labs,CMP Panel,Labs,50384-7,2045-08-22,eGFR-NAA,78.1,,,3607
+labs,CMP Panel,Labs,2160-0,2045-08-22,Blood creatinine,0.7,0.4-1.2,Normal,3607
+labs,CMP Panel,Labs,3094-0,2045-08-22,"Blood urea, or blood urea nitrogen (BUN)",23,8-20,High,3607
+labs,CMP Panel,Labs,3094-0,2045-08-22,"Blood urea, or blood urea nitrogen (BUN)",23,8-20,High,3607
+labs,CBC Panel,Labs,744-3,2041-09-20,Monocytes%,10,0-6,High,3590
+labs,,Labs,2132-9,2041-09-19,Vitamin B12,383,190-950,Normal,3590
+labs,CMP Panel,Labs,6768-6,2041-09-20,Alkaline Phosphatase (ALP Or AP),49,30-120,Normal,3590
+labs,,Labs,2085-9,2041-09-19,HDL,89,40-75,High,3590
+labs,CMP Panel,Labs,1558-6,2041-05-04,Glucose,152,65-99,High,3590
+labs,CBC Panel,Labs,30428-7,2041-09-20,MCV,98.3,80.0-94.0,Normal,3590
+labs,CMP Panel,Labs,1558-6,2041-05-04,Glucose,152,65-99,High,3590
+labs,CMP Panel,Labs,17861-6,2041-09-20,Calcium,8.2,8.6 - 10.2,Low,3590
+labs,CMP Panel,Labs,6768-6,2041-09-20,Alkaline Phosphatase (ALP Or AP),49,30-120,Normal,3590
+labs,CMP Panel,Labs,1558-6,2041-09-20,Glucose,99,65-99,Normal,3590

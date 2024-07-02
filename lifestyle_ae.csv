@@ -1,0 +1,501 @@
+impairment_category,impairment,lifestyle_category,feature_type,feature,report_date,clinician_specialty,value,secondary_value,person_id
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-03-17,General,no acute distress,,3585
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2029-07-21,General,fatigue,,3613
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2029-07-21,General,fatigue,,3613
+Lifestyle,Depression,Impairment,Impairment,Depression,2032-05-02,General,major,,3613
+Lifestyle,Spouse status,Social,Factor,Spouse status,1926-07-01,Unspecified,Living,,3613
+Lifestyle,Appearance,Habits,Symptom,Appearance,2032-05-02,General,no acute distress,,3613
+Lifestyle,Pain,Impairment,Symptom,Pain,2028-08-28,General,abdominal pain,,3613
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-05-07,General,10,,3613
+Lifestyle,Travel,Financial,Factor,Travel,2028-08-28,General,international travel,,3613
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,2034-05-07,General,One sister died at age 81 of unknown pause,,3613
+Lifestyle,Exercise,Activity,Factor,Frequency,2029-07-21,General,daily,,3613
+Lifestyle,Exercise,Activity,Factor,Frequency,2030-10-07,General,unspecified,,3582
+Lifestyle,Exercise,Activity,Factor,Frequency,2030-10-07,General,unspecified,,3582
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2031-01-09,General,fatigue,,3582
+Lifestyle,Impaired vision,Impairment,Impairment,Impaired vision,2029-06-02,general,macular degeneration,,3582
+Lifestyle,Pain,Impairment,Symptom,Pain,2024-07-09,general,back pain,,3582
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-06-02,general,pneumococcal,,3582
+Lifestyle,Pain,Impairment,Symptom,Pain,2030-10-12,General,abdominal pain,,3582
+Lifestyle,Exercise,Activity,Factor,Frequency,2030-10-07,General,unspecified,,3582
+Lifestyle,Exercise,Activity,Factor,Exercise type,2030-10-07,General,goes to gym,,3582
+Lifestyle,former smoker,Habits,Impairment,Smoking,2030-07-09,General,d/c smoking > 20 years,,3582
+Lifestyle,Sensory losses,Medical,Impairment,Sensory losses,2030-04-09,General,hearing,,3586
+Lifestyle,Depression,Impairment,Impairment,Depression,2030-05-03,General,Situational,,3586
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2030-05-03,General,Insomnia,,3586
+Lifestyle,Travel,Financial,Factor,Travel,2028-04-02,General,Domestic travel,,3586
+Lifestyle,Depression,Impairment,Impairment,Depression,2030-05-03,General,Situational,,3586
+Lifestyle,Exercise,Activity,Factor,Exercise type,2032-06-12,General,works with trainer,,3586
+Lifestyle,Osteoarthritis,Impairment,Impairment,Osteoarthritis,2032-06-12,General,Yes,,3586
+Lifestyle,Active,Activity,Factor,Activity level,2031-04-19,General,Active,,3586
+Lifestyle,Depression,Impairment,Impairment,Depression,2030-06-05,General,Situational,,3586
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization reason,2027-08-13,General,Severe valvular heart disease,,3586
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,1926-07-01,Unspecified,fatigue,,3610
+Lifestyle,Exercise,Activity,Factor,Exercise type,2030-12-02,Unspecified,walking,,3610
+Lifestyle,Exercise,Activity,Factor,Frequency,2031-10-28,Unspecified,unspecified,,3610
+Lifestyle,Exercise,Activity,Factor,Exercise type,2030-12-02,Unspecified,walking,,3610
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,2030-12-02,Unspecified,"Brother & sister: Breast cancer, lung cancer, colon cancer",,3610
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2030-12-02,Unspecified,1-2/week,,3610
+Lifestyle,Appearance,Habits,Symptom,Appearance,2030-04-15,Unspecified,well-appearing,,3610
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2030-12-02,Unspecified,91,,3610
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2030-12-02,Unspecified,87,,3610
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,1926-07-01,Unspecified,fatigue,,3610
+Lifestyle,Anxiety,Impairment,Impairment,Anxiety,2028-07-02,Unspecified,required anti-anxiety meds only,,3620
+Lifestyle,hematuria,Medical,Impairment,Bladder function,2026-02-16,General,hematuria,,3620
+Lifestyle,Exercise,Activity,Factor,Frequency,2026-12-27,Unspecified,unspecified,,3620
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2032-09-09,General,6,,3620
+Lifestyle,Exercise,Activity,Factor,Exercise type,2026-12-27,Unspecified,type not specified,,3620
+Lifestyle,Exercise,Activity,Factor,Frequency,2029-07-31,General,unspecified,,3620
+Lifestyle,Exercise,Activity,Factor,Frequency,2029-07-31,General,unspecified,,3620
+Lifestyle,Living status,Living situation,Factor,Living status,2032-04-20,General,living with spouse,,3620
+Lifestyle,hematuria,Medical,Impairment,Bladder function,2026-02-16,General,hematuria,,3620
+Orthopedic,Osteopenia,Impairment,Impairment,Osteoporosis/Osteopenia,2029-09-24,General,osteopenia,,3620
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2031-04-14,General,nocturia,,3583
+Lifestyle,Exercise,Activity,Factor,Exercise type,2031-04-14,General,type not specified,,3583
+Lifestyle,Immunization,Medical,Factor,Immunization,2031-04-11,General,flu,,3583
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2031-10-14,General,nocturia,,3583
+CAD/Cardiovascular,Syncope,Impairment,Symptom,Syncope,2031-10-14,General,Single episode,,3583
+Lifestyle,Poor balance,Impairment,Impairment,Poor balance or abnormal gait,2031-11-25,General,balance difficulty,,3583
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2031-10-14,General,50,,3583
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2031-10-14,General,82,,3583
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2031-04-07,General,rare,,3583
+Lifestyle,Appearance,Habits,Symptom,Appearance,2027-09-03,Cardiology,Looks younger than stated age,,3583
+Lifestyle,Pain,Impairment,Symptom,Pain,2031-12-21,General,back pain,,3591
+Lifestyle,Osteoarthritis,Impairment,Impairment,Osteoarthritis,2026-03-29,General,Yes,,3591
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2033-06-18,Unspecified,66,,3591
+Lifestyle,Pain,Impairment,Symptom,Pain,2031-12-21,General,back pain,,3591
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2028-09-25,Unspecified,fatigue,,3591
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-06-18,Unspecified,Yes,,3591
+Lifestyle,Pain,Impairment,Symptom,Pain,2030-02-06,Unspecified,abdominal pain,,3591
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2033-06-18,Unspecified,66,,3591
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2033-06-18,Unspecified,76,,3591
+Lifestyle,Pain,Impairment,Symptom,Pain,2030-02-06,Unspecified,abdominal pain,,3591
+Lifestyle,Appearance,Habits,Symptom,Appearance,2029-06-22,General,well-developed,,3623
+Lifestyle,Appearance,Habits,Symptom,Appearance,2032-10-05,General,well-developed,,3623
+Lifestyle,Appearance,Habits,Symptom,Appearance,2029-06-22,General,well-nourished,,3623
+Lifestyle,Appearance,Habits,Symptom,Appearance,2032-10-05,General,well-nourished,,3623
+Lifestyle,Dizziness,Symptom,Symptom,Dizziness/vertigo,2029-06-22,General,Dizziness,,3623
+Lifestyle,Osteopenia,Impairment,Impairment,Osteoporosis/Osteopenia,2029-06-22,General,osteopenia,,3623
+Lifestyle,Appearance,Habits,Symptom,Appearance,2029-06-22,General,well-nourished,,3623
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2029-11-09,General,75,,3623
+Lifestyle,Appearance,Habits,Symptom,Appearance,2029-06-22,General,well-developed,,3623
+Lifestyle,Osteopenia,Impairment,Impairment,Osteoporosis/Osteopenia,2029-06-22,General,osteopenia,,3623
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2028-08-07,General,5.5,,3580
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization duration,2027-09-09,General,26,,3580
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization reason,2027-09-09,General,Severe acute mitral regurgitation with pulmonary edema,,3580
+Lifestyle,Appearance,Habits,Symptom,Appearance,2028-05-29,General,pleasant,,3580
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization duration,2027-09-09,General,26,,3580
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2028-08-07,General,5.5,,3580
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization duration,2027-09-09,General,26,,3580
+Lifestyle,Appearance,Habits,Symptom,Appearance,2028-05-29,General,pleasant,,3580
+Lifestyle,Osteoporosis,Impairment,Impairment,Osteoporosis/Osteopenia,2028-08-07,General,Osteoporosis,,3580
+Lifestyle,Assistive device,Activity,Factor,Use of assistive devices/Mobility assistance,2027-11-21,General,cane,,3580
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2028-09-13,Unspecified,use of pads,,3593
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2028-09-05,Unspecified,occasional/intermittent incontinence,,3593
+Lifestyle,Non-Compliance,Medical,Factor,Non-Compliance,2031-11-23,Unspecified,needs prescription to continue medications,,3593
+Lifestyle,Falls,Impairment,Impairment,Falls,2030-09-02,Medicine,fall with minor injury,,3593
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2028-09-13,Unspecified,use of pads,,3593
+Lifestyle,Profession,Financial,Factor,Profession,2028-09-05,Unspecified,Housewife,,3593
+Lifestyle,Dizziness,Symptom,Symptom,Dizziness/vertigo,2030-05-03,Medicine,Dizziness,,3593
+Lifestyle,Pain,Impairment,Symptom,Pain,2030-09-02,Medicine,neck pain,,3593
+Lifestyle,Pain,Impairment,Symptom,Pain,2028-12-27,Medicine,abdominal pain,,3593
+Lifestyle,Pain,Impairment,Symptom,Pain,2032-06-19,Unspecified,limb pain,,3593
+Lifestyle,Exercise,Activity,Factor,Exercise type,2031-10-25,General,treadmill,,3614
+Lifestyle,Dizziness,Symptom,Symptom,Dizziness/vertigo,2028-11-02,General,Dizziness,,3614
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,1926-07-01,General,,,3614
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2028-07-17,General,none,,3614
+Lifestyle,Immunization,Medical,Factor,Immunization,1926-07-01,General,flu,,3614
+Lifestyle,Exercise,Activity,Factor,Exercise type,2031-10-25,General,treadmill,,3614
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2032-10-19,General,non-smoker,,3614
+Lifestyle,Impaired vision,Impairment,Impairment,Impaired vision,2030-02-25,General,cataracts,,3614
+Lifestyle,Osteoporosis,Impairment,Impairment,Osteoporosis/Osteopenia,2028-06-21,General,Osteoporosis,,3614
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-11-17,General,Yes,,3614
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2033-12-07,General,fatigue,,3612
+Lifestyle,Appearance,Habits,Symptom,Appearance,2029-03-12,General,well-developed,,3612
+Lifestyle,Pain,Impairment,Symptom,Pain,2029-03-12,General,back pain,,3612
+Lifestyle,Living status,Living situation,Factor,Living status,2029-03-12,General,living with spouse,,3612
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2033-12-07,General,1,,3612
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2033-12-07,General,BPH symptoms,,3612
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2033-12-07,General,BPH symptoms,,3612
+Lifestyle,Falls,Impairment,Impairment,Falls,2033-12-07,General,fall with fracture,,3612
+Lifestyle,Living status,Living situation,Factor,Living status,2029-03-12,General,living with spouse,,3612
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2028-03-27,Oncologist,none,,3612
+Lifestyle,Exercise,Activity,Factor,Frequency,2029-09-04,General,4x/week,,3609
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2030-06-05,General,daily,,3609
+Lifestyle,Exercise,Activity,Factor,Frequency,2029-09-04,General,daily,,3609
+Lifestyle,Exercise,Activity,Factor,Frequency,2029-09-04,General,daily,,3609
+Lifestyle,Exercise,Activity,Factor,Exercise type,2029-09-04,General,treadmill,,3609
+Lifestyle,Exercise,Activity,Factor,Exercise type,2029-09-04,General,swimming,,3609
+Lifestyle,Exercise,Activity,Factor,Frequency,2029-09-04,General,daily,,3609
+Lifestyle,Exercise,Activity,Factor,Exercise type,2031-10-04,General,treadmill,,3609
+Lifestyle,Exercise,Activity,Factor,Exercise type,2031-10-04,General,treadmill,,3609
+Lifestyle,Exercise,Activity,Factor,Exercise type,2029-09-04,General,treadmill,,3609
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2033-01-11,General,1.5,,3625
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2032-08-15,General,none,,3625
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-01-11,General,No,,3625
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-01-11,General,No,,3625
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-01-11,General,No,,3625
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2032-08-15,General,none,,3625
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2033-01-11,General,1.5,,3625
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-01-11,General,No,,3625
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2033-01-11,General,none,,3625
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-01-11,General,No,,3625
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2035-02-20,General,none,,3621
+Lifestyle,Appearance,Habits,Symptom,Appearance,2035-06-10,General,well-hydrated,,3621
+Lifestyle,Spouse status,Social,Factor,Spouse status,1926-07-01,Unspecified,Living,,3621
+Lifestyle,Positive attitude,Social,Factor,Good humor/positive attitude,2033-03-26,General,views health as good or excellent,,3621
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,1926-07-01,Unspecified,social,,3621
+Lifestyle,Immunization,Medical,Factor,Immunization,2032-06-29,Unspecified,flu,,3621
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2035-02-20,General,non-smoker,,3621
+Lifestyle,Immunization,Medical,Factor,Immunization,2030-03-22,General,flu,,3621
+Lifestyle,Profession,Financial,Factor,Profession,1926-07-01,Unspecified,Real estate developer,,3621
+Lifestyle,Profession,Financial,Factor,Profession,2030-12-03,General,Owner of Briggs Farm,,3621
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2032-09-21,General,social,,3622
+Lifestyle,Living status,Living situation,Factor,Living status,2032-09-21,General,lives alone,,3622
+Lifestyle,Active,Activity,Factor,Activity level,2034-03-21,General,Active,,3622
+Lifestyle,Immunization,Medical,Factor,Immunization,2031-04-04,Unspecified,flu,,3622
+Lifestyle,Pain,Impairment,Symptom,Pain,2032-09-09,Unspecified,neck pain,,3622
+Lifestyle,Immunization,Medical,Factor,Immunization,2032-09-21,General,pneumococcal,,3622
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-03-21,General,8,,3622
+Lifestyle,Impaired vision,Impairment,Impairment,Impaired vision,2033-11-08,General,cataracts,,3622
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2034-03-21,General,Yes,,3622
+Lifestyle,Pain,Impairment,Symptom,Pain,2032-09-09,Unspecified,neck pain,,3622
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2034-10-15,General,Yes,,3603
+Lifestyle,former smoker,Habits,Impairment,Smoking,2034-10-08,General,discontinued smoking,,3603
+Lifestyle,Impaired vision,Impairment,Impairment,Impaired vision,2034-10-07,Unspecified,cataracts,,3603
+Lifestyle,Immunization,Medical,Factor,Immunization,2034-10-07,Unspecified,pneumococcal,,3603
+Lifestyle,Pain,Impairment,Symptom,Pain,2034-10-09,Cardiology,abdominal pain,,3603
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2034-10-15,General,Yes,,3603
+Lifestyle,Exercise,Activity,Factor,Frequency,2034-04-21,General,unspecified,,3603
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization duration,2034-10-11,General,5,,3603
+Lifestyle,Pain,Impairment,Symptom,Pain,2034-10-09,Cardiology,abdominal pain,,3603
+Lifestyle,Falls,Impairment,Impairment,Falls,2034-09-15,General,fall with head injury,,3603
+Lifestyle,Pain,Impairment,Symptom,Pain,2032-04-27,Unspecified,back pain,,3584
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-15,Unspecified,pneumococcal,,3584
+Lifestyle,Pain,Impairment,Symptom,Pain,2032-04-27,Unspecified,back pain,,3584
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2033-08-20,Unspecified,1.5,,3584
+Lifestyle,Pain,Impairment,Symptom,Pain,2032-04-27,Unspecified,back pain,,3584
+Lifestyle,Immunization,Medical,Factor,Immunization,2030-06-01,Unspecified,flu,,3584
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-15,Unspecified,flu,,3584
+Lifestyle,Immunization,Medical,Factor,Immunization,2030-06-01,Unspecified,flu,,3584
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-08-20,Unspecified,Yes,,3584
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2033-08-20,Unspecified,Yes,,3584
+CAD,Hypertension,Impairment,Calculation,Systolic Hypertension,2032-01-27,General,140,,3588
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2037-08-17,General,Yes,,3588
+Lifestyle,Pain,Impairment,Symptom,Pain,2034-12-02,General,with more than 1 pain med,,3588
+CAD,Pulse pressure,Test,Test,Pulse pressure,2035-06-02,General,40,,3588
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-12-02,General,no acute distress,,3588
+CAD,Pulse pressure,Test,Test,Pulse pressure,2037-08-03,General,45,,3588
+Lifestyle,Functional status,Functional status,Factor,Overall functional status,2037-08-17,General,use of cane,,3588
+CAD,Hypertension,Impairment,Calculation,Systolic Hypertension,2030-08-10,General,150,,3588
+Lifestyle,Pulse pressure,Test,Test,Pulse pressure,2037-08-17,General,51,,3588
+Lifestyle,Appearance,Habits,Symptom,Appearance,2035-06-02,General,well-appearing,,3588
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,2034-02-14,Unspecified,,,3627
+Lifestyle,Pain,Impairment,Symptom,Pain,2031-07-28,Unspecified,hip pain,Possible AVN,3627
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2034-02-14,Unspecified,Yes,,3627
+Lifestyle,Pain,Impairment,Symptom,Pain,2030-03-23,Unspecified,hip pain,,3627
+Lifestyle,Pain,Impairment,Symptom,Pain,2030-03-23,Unspecified,hip pain,,3627
+Lifestyle,Pain,Impairment,Symptom,Pain,2031-07-28,Unspecified,hip pain,Possible AVN,3627
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-04-11,Unspecified,3.5,,3627
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-04-11,Oncologist,no acute distress,,3627
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2034-02-14,Unspecified,daily,,3627
+Lifestyle,Impaired vision,Impairment,Impairment,Impaired vision,2031-07-28,Unspecified,cataracts,,3627
+Lifestyle,Depression,Impairment,Impairment,Depression,1976-07-01,Unspecified,noted with no details,,3596
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-04-26,Cardiology,5.5,,3596
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-04-26,Cardiology,5.5,,3596
+Lifestyle,Immunization,Medical,Factor,Immunization,2034-04-26,Cardiology,flu,,3596
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-04-26,Cardiology,5.5,,3596
+Lifestyle,former smoker,Habits,Impairment,Smoking,2034-04-26,Cardiology,discontinued smoking,,3596
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2034-01-25,Cardiology,fatigue,,3596
+Lifestyle,,Medical,Impairment,Bladder function,2033-07-31,Cardiology,nocturia,,3596
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-04-26,Cardiology,5.5,,3596
+Lifestyle,Immunization,Medical,Factor,Immunization,2034-04-26,Cardiology,flu,,3596
+Lifestyle,Immunization,Medical,Factor,Immunization,2037-02-23,General,Shingles,,3597
+Lifestyle,Profession,Financial,Factor,Profession,2034-11-22,General,Accountant,,3597
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2034-08-27,General,,,3597
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2035-05-18,General,dysuria,,3597
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2035-08-23,Unspecified,nocturia,,3597
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2034-08-27,General,,,3597
+Lifestyle,Pain,Impairment,Symptom,Pain,2037-01-27,General,limb pain,,3597
+Lifestyle,Living status,Living situation,Factor,Living status,2034-11-13,General,Lives w/significant other,,3597
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-10-07,General,well-developed,,3597
+Lifestyle,Smoker,Habits,Impairment,Smoking,2034-06-27,General,d/c smoking > 20 years,,3597
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2034-07-04,General Medicine,2,,3617
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-07,Unspecified,flu,,3617
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-07,Unspecified,pneumococcal,,3617
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-07,Unspecified,pneumococcal,,3617
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-07,Unspecified,flu,,3617
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2031-11-06,Unspecified,102,,3617
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-07,Unspecified,pneumococcal,,3617
+Lifestyle,Immunization,Medical,Factor,Immunization,2029-04-07,Unspecified,flu,,3617
+Lifestyle,former smoker,Habits,Impairment,Smoking,2031-11-06,Unspecified,d/c smoking > 20 years,,3617
+Lifestyle,Immunization,Medical,Factor,Immunization,2030-05-03,Unspecified,flu,,3617
+Lifestyle,chronic pain,Impairment,Symptom,Pain,2036-12-01,General,back pain,,3579
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2031-01-29,Rheumatology,2+/week,,3579
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2038-01-08,Physiatry,none,,3579
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2031-01-29,Rheumatology,difficulty sleeping,,3579
+Lifestyle,Exercise,Activity,Factor,Exercise type,2033-01-25,Orthopedic,weights,,3579
+Lifestyle,Immunization,Medical,Factor,Immunization,2032-05-16,General,Prevnar,,3579
+Lifestyle,Immunization,Medical,Factor,Immunization,2037-05-02,General,flu,,3579
+Lifestyle,former smoker,Habits,Impairment,Smoking,2031-01-29,Rheumatology,discontinued smoking,,3579
+Lifestyle,Immunization,Medical,Factor,Immunization,2032-05-16,General,Prevnar,,3579
+Lifestyle,Exercise,Activity,Factor,Exercise type,2033-01-25,Orthopedic,biking,,3579
+Lifestyle,Dizziness,Symptom,Symptom,Dizziness/vertigo,2040-04-14,Cardiovascular,Dizziness,,3602
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2044-02-14,General,none,,3602
+Lifestyle,ADL toileting,Activity,Scale,ADL toileting,2045-06-13,General,no loss,,3602
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2038-08-29,Cardiovascular,83,,3602
+Lifestyle,IADLs,Activity,Scale,IADL doing laundry,2044-02-14,General,no loss,,3602
+Lifestyle,former smoker,Habits,Impairment,Smoking,2045-06-13,General,d/c smoking > 20 years,,3602
+Lifestyle,Appearance,Habits,Symptom,Appearance,2044-10-19,General,no acute distress,,3602
+Lifestyle,Spouse status,Social,Factor,Spouse status,2038-08-29,Cardiovascular,Living,,3602
+Lifestyle,Pain,Impairment,Symptom,Pain,2043-09-10,General,arthritic pain,,3602
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2044-02-14,General,none,,3602
+Lifestyle,Falls,Impairment,Impairment,Falls,2035-11-11,General,fall with minor injury,,3608
+Lifestyle,Exercise,Activity,Factor,Exercise type,2035-08-16,General,walking,,3608
+Lifestyle,Immunization,Medical,Factor,Immunization,2035-12-17,General,flu,,3608
+Lifestyle,Immunization,Medical,Factor,Immunization,2035-12-17,General,Td/Tdap,,3608
+Lifestyle,Exercise,Activity,Factor,Frequency,2035-10-16,General,daily,,3608
+Lifestyle,Immunization,Medical,Factor,Immunization,2035-12-17,General,Td/Tdap,,3608
+Lifestyle,Exercise,Activity,Factor,Exercise type,2035-10-16,General,walking,,3608
+Lifestyle,Immunization,Medical,Factor,Immunization,2035-12-17,General,flu,,3608
+Lifestyle,Exercise,Activity,Factor,Exercise type,2035-10-16,General,walking,,3608
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization duration,2035-08-25,General,,,3608
+Lifestyle,Exercise,Activity,Factor,Frequency,2034-12-24,General,unspecified,,3592
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2036-01-09,General,non-smoker,,3592
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2038-12-18,General,BPH symptoms,,3592
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2033-11-30,General,nocturia,,3592
+Lifestyle,Exercise,Activity,Factor,Frequency,2034-12-24,General,unspecified,,3592
+Lifestyle,Sexual well-being,Medical,Factor,Sexual well-being,2038-12-18,General,erectile dysfunction,,3592
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2034-12-05,General,nocturia,,3592
+Lifestyle,Appearance,Habits,Symptom,Appearance,2038-12-18,General,well-developed,,3592
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,2036-01-09,General,"Brother 1: 85, Brother 2: 80. Sister : 62, emphysema",,3592
+Lifestyle,Family involvement,Social,Factor,Family involvement in medical care,2038-06-16,General,attend visits,,3592
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-06-11,General,well-nourished,,3606
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2034-06-11,General,Insomnia,,3606
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2034-10-02,General,medication use,,3606
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-05-22,General,9,,3606
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2034-10-02,General,medication use,,3606
+Lifestyle,Profession,Financial,Factor,Profession,2034-06-11,General,Construction business,,3606
+Lifestyle,Education level,Financial,Factor,Education level,2036-08-11,General,high school,,3606
+Lifestyle,Immunization,Medical,Factor,Immunization,2034-06-11,General,flu,,3606
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2034-08-04,General,medication use,,3606
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-05-22,General,9,,3606
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2037-06-17,General,1,,3616
+Lifestyle,Appearance,Habits,Symptom,Appearance,2037-07-06,General,well-nourished,,3624
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2034-05-30,Gastrology,nocturia,,3624
+Lifestyle,Employment,Financial,Factor,Employment,2037-07-13,General,Retired,,3624
+Lifestyle,Exercise,Activity,Factor,Frequency,2037-05-29,General,regular,,3624
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2037-07-06,General,obstruction,,3624
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2037-07-06,General,positive for alcohol use,,3624
+Lifestyle,Employment,Financial,Factor,Employment,2037-04-25,General,Retired,,3624
+Lifestyle,Spouse status,Social,Factor,Spouse status,2037-07-13,General,Living,,3624
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2037-07-06,General,BPH symptoms,,3624
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2037-07-13,General,1/week,,3624
+Lifestyle,Pain,Impairment,Symptom,Pain,2035-04-20,General,neck pain,,3604
+Lifestyle,Functional status,Functional status,Factor,Overall functional status,2037-09-22,General,independent,,3604
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2034-12-20,General,fatigue,,3604
+Lifestyle,Non-Compliance,Medical,Factor,Non-Compliance,2035-11-22,General,declined medication due to cost,,3604
+Lifestyle,ADLs - All,Activity,Scale,ADLs - All,2037-09-22,General,no loss,,3604
+Lifestyle,Exercise,Activity,Factor,Exercise type,2037-09-22,General,yard work,,3604
+Lifestyle,Non-Compliance,Medical,Factor,Non-Compliance,2035-11-22,General,declined medication due to cost,,3604
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2034-12-20,General,fatigue,,3604
+Lifestyle,Non-Compliance,Medical,Factor,Non-Compliance,2035-11-22,General,declined medication due to cost,,3604
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2037-12-28,General,Yes,,3604
+Lifestyle,non-smoker,Habits,Symptom,Smoking,2036-09-23,General,non-smoker,,3594
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2038-03-02,General,4,,3594
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2038-03-02,General,Yes,,3594
+Lifestyle,non-smoker,Habits,Symptom,Smoking,2036-09-23,General,non-smoker,,3594
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2038-03-02,General,Yes,,3594
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2038-03-02,General,Yes,,3594
+Lifestyle,Spouse status,Social,Factor,Spouse status,2035-03-16,General,Living,,3594
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2038-03-02,General,Yes,,3594
+Lifestyle,non-smoker,Habits,Symptom,Smoking,2036-09-23,General,non-smoker,,3594
+Lifestyle,Depression,Impairment,Impairment,Depression,2031-07-05,General,noted with no details,,3594
+Orthopedic,scoliosis,Impairment,Impairment,Kyphosis/scoliosis,2038-02-08,Unspecified,scoliosis,,3600
+Lifestyle,Exercise,Activity,Factor,Frequency,2035-09-02,Unspecified,unspecified,,3600
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2038-02-08,Unspecified,4.5,,3600
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2036-09-19,General,fatigue,,3600
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2038-02-08,Unspecified,Yes,,3600
+Lifestyle,Pain,Impairment,Symptom,Pain,2038-02-08,Unspecified,back pain,,3600
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2038-02-08,Unspecified,4.5,,3600
+Lifestyle,Osteoporosis,Impairment,Impairment,Osteoporosis/Osteopenia,2037-01-08,General,Osteoporosis,,3600
+Lifestyle,Falls,Impairment,Impairment,Falls,2034-04-13,General,fall with no injury,,3600
+Lifestyle,Travel,Financial,Factor,Travel,2031-01-08,Unspecified,Domestic travel,,3600
+Lifestyle,Weakness,Impairment,Symptom,Fatigue,2038-06-05,General,fatigue,,3626
+Lifestyle,Osteoarthritis,Impairment,Impairment,Osteoarthritis,2038-06-05,General,Yes,,3626
+Lifestyle,Appearance,Habits,Symptom,Appearance,2036-02-05,General,no acute distress,,3626
+Lifestyle,Immunization,Medical,Factor,Immunization,2036-02-05,General,pneumococcal,,3626
+Lifestyle,fatigue,Impairment,Symptom,Fatigue,2034-10-16,General,fatigue,,3626
+Lifestyle,Appearance,Habits,Symptom,Appearance,2036-02-05,General,no acute distress,,3626
+Lifestyle,Appearance,Habits,Symptom,Appearance,2034-10-16,General,no acute distress,,3626
+Lifestyle,Osteoarthritis,Impairment,Impairment,Osteoarthritis,2034-10-16,General,Yes,,3626
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2038-06-05,General,Yes,,3626
+Lifestyle,Weakness,Impairment,Symptom,Fatigue,2038-06-05,General,fatigue,,3626
+Lifestyle,Appearance,Habits,Symptom,Appearance,2038-06-06,Unspecified,well-developed,,3599
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2038-09-22,Unspecified,1.5,,3599
+Lifestyle,Appearance,Habits,Symptom,Appearance,2038-09-22,Unspecified,well-nourished,,3599
+Lifestyle,Immunization,Medical,Factor,Immunization,2038-06-06,Unspecified,refuses all vaccines,,3599
+Lifestyle,Appearance,Habits,Symptom,Appearance,2038-09-22,Unspecified,well-nourished,,3599
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2038-09-22,Unspecified,1.5,,3599
+Lifestyle,Sensory losses,Medical,Impairment,Sensory losses,2038-06-06,Unspecified,hearing,,3599
+Lifestyle,Appearance,Habits,Symptom,Appearance,2038-09-22,Unspecified,well-developed,,3599
+Lifestyle,Appearance,Habits,Symptom,Appearance,2038-06-06,Unspecified,well-nourished,,3599
+Lifestyle,Appearance,Habits,Symptom,Appearance,2038-06-06,Unspecified,well-developed,,3599
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2039-03-19,Dermatology,Yes,,3587
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2039-03-19,Dermatology,3.5,,3587
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2036-04-13,General,73,,3587
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2039-03-19,Dermatology,Yes,,3587
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2036-04-13,General,73,,3587
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2036-04-13,General,83,,3587
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2036-04-13,General,73,,3587
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2039-03-19,Dermatology,Yes,,3587
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2039-03-19,Dermatology,Yes,,3587
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2036-04-13,General,73,,3587
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2040-12-10,General,rare,,3589
+Lifestyle,Falls,Impairment,Impairment,Falls,2042-03-24,General,reports multiple falls,,3589
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2040-12-10,General,rare,,3589
+Lifestyle,Pain,Impairment,Symptom,Pain,2040-12-24,General,back pain,,3589
+Lifestyle,Employment,Financial,Factor,Employment,2039-11-13,General,Retired,,3589
+Lifestyle,Falls,Impairment,Impairment,Falls,2042-03-24,General,reports multiple falls,,3589
+Lifestyle,Pain,Impairment,Symptom,Pain,2040-02-02,General,limb pain,,3589
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,2042-07-04,General,"Brother died at 75 , colon cancer, one sister died- pneumonia, One sister alive with dementia",,3589
+Lifestyle,Pain,Impairment,Symptom,Pain,2040-07-21,General,neck pain,,3589
+Lifestyle,former smoker,Habits,Impairment,Smoking,2040-12-10,General,d/c smoking < 20 years,,3589
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-10-21,General,well-nourished,,3628
+Lifestyle,Travel,Financial,Factor,Travel,2040-04-11,General,Domestic travel,,3628
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,1926-07-01,General,One brother had Coronary Artery Bypass Graft,,3628
+Lifestyle,Travel,Financial,Factor,Travel,2040-04-11,General,Domestic travel,,3628
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,1926-07-01,General,One brother had Coronary Artery Bypass Graft,,3628
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2040-11-24,Unspecified,4,,3628
+Lifestyle,Spouse status,Social,Factor,Spouse status,2040-10-21,General,Living,,3628
+Lifestyle,Appearance,Habits,Symptom,Appearance,2039-12-21,General,Looks younger than stated age,,3628
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-04-11,General,well-developed,,3628
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2040-11-24,Unspecified,4,,3628
+Lifestyle,Osteoarthritis,Impairment,Impairment,Osteoarthritis,2040-06-10,General,Yes,,3598
+Lifestyle,abnormal gait,Impairment,Impairment,Poor balance or abnormal gait,2040-08-17,General,unsteady,,3598
+Lifestyle,Appearance,Habits,Symptom,Appearance,2039-03-21,General,well-nourished,,3598
+Lifestyle,Pain,Impairment,Symptom,Pain,2040-06-10,General,back pain,,3598
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2041-01-31,General,none,,3598
+Lifestyle,Appearance,Habits,Symptom,Appearance,2039-03-21,General,well-nourished,,3598
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-02-07,Unspecified,well-developed,,3598
+Lifestyle,hematuria,Medical,Impairment,Bladder function,2038-01-10,General,hematuria,,3598
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Mother,2040-07-30,General,80,,3598
+Lifestyle,Appearance,Habits,Symptom,Appearance,2041-01-31,General,well-appearing,,3598
+Lifestyle,Assistive device,Activity,Factor,Use of assistive devices/Mobility assistance,2040-08-11,general,cane,,3605
+Lifestyle,Impaired vision,Impairment,Impairment,Impaired vision,2041-04-13,general,cataracts,,3605
+Lifestyle,Appearance,Habits,Symptom,Appearance,2041-04-23,general,no acute distress,,3605
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2040-10-18,general,dysuria,,3605
+Lifestyle,Immunization,Medical,Factor,Immunization,2040-09-25,general,Td/Tdap,,3605
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2041-04-13,general,13.5,,3605
+Lifestyle,former smoker,Habits,Impairment,Smoking,2040-08-11,general,d/c smoking > 20 years,,3605
+Lifestyle,vertigo,Symptom,Symptom,Dizziness/vertigo,2040-09-25,general,vertigo,,3605
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2040-10-18,general,nocturia,,3605
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2040-08-11,general,Yes,,3605
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-05-18,General,pleasant,,3618
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2040-05-18,General,non-smoker,,3618
+Lifestyle,Appearance,Habits,Symptom,Appearance,2037-08-17,General,no acute distress,,3618
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2041-03-25,Unspecified,Yes,,3618
+Lifestyle,Appearance,Habits,Symptom,Appearance,2037-08-17,General,no acute distress,,3618
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2040-05-18,General,non-smoker,,3618
+Lifestyle,Appearance,Habits,Symptom,Appearance,2037-08-17,General,no acute distress,,3618
+Lifestyle,Appearance,Habits,Symptom,Appearance,2037-08-17,General,no acute distress,,3618
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2040-05-18,General,non-smoker,,3618
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-05-18,General,no acute distress,,3618
+Lifestyle,IADLs,Activity,Scale,IADL managing medications,2041-02-08,General,needs assistance,,3581
+Lifestyle,Impaired vision,Impairment,Impairment,Impaired vision,2042-02-26,General,cataracts,,3581
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Father,2042-03-02,General,50,,3581
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization reason,2038-10-05,General,Shortness of breath,,3581
+Lifestyle,former smoker,Habits,Impairment,Smoking,2038-10-05,General,d/c smoking < 20 years,,3581
+Lifestyle,Living status,Living situation,Factor,Living status,2042-02-28,Unspecified,in retirement community,,3581
+Lifestyle,Appearance,Habits,Symptom,Appearance,2041-02-27,Cardiology,well-developed,,3581
+Lifestyle,ADL toileting,Activity,Scale,ADL toileting,2041-02-08,General,no loss,,3581
+Lifestyle,ADLs - All,Activity,Scale,ADLs - All,2042-02-26,General,needs assistance,,3581
+Lifestyle,Living status,Living situation,Factor,Living status,2042-03-02,General,living with spouse,,3581
+Lifestyle,Immunization,Medical,Factor,Immunization,2044-05-21,General,flu,,3601
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2044-01-24,General,occasional,,3601
+Lifestyle,Hospitalization,Medical,Factor,Hospitalization duration,2044-01-26,General,5,,3601
+Lifestyle,Employment,Financial,Factor,Employment,2044-01-24,General,working,,3601
+Lifestyle,Sexual well-being,Medical,Factor,Sexual well-being,2043-11-22,General,erectile dysfunction,,3601
+Lifestyle,Immunization,Medical,Factor,Immunization,2043-03-29,Unspecified,flu high dose,,3601
+Lifestyle,Appearance,Habits,Symptom,Appearance,2044-01-25,General,healthy,,3601
+Lifestyle,Appearance,Habits,Symptom,Appearance,2042-10-15,General,ill-appearing,,3601
+Lifestyle,Pain,Impairment,Symptom,Pain,2043-03-29,General,limb pain,,3601
+Lifestyle,Sexual well-being,Medical,Factor,Sexual well-being,2043-11-22,General,erectile dysfunction,,3601
+Lifestyle,IADLs,Activity,Scale,IADL using the phone,2042-07-12,General,needs assistance,,3595
+Lifestyle,Alcohol,Habits,Impairment,Alcohol use,2041-12-02,General,2+/week,,3595
+Lifestyle,Exercise,Activity,Factor,Frequency,2043-08-23,General,daily,,3595
+Lifestyle,Exercise,Activity,Factor,Exercise type,2043-04-24,General,weights,,3595
+Lifestyle,Immunization,Medical,Factor,Immunization,2043-07-18,General,flu,,3595
+Lifestyle,Immunization,Medical,Factor,Immunization,2043-07-18,General,flu,,3595
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2041-07-08,General,BPH symptoms,,3595
+Lifestyle,IADLs,Activity,Scale,IADL driving or public transportation,2042-07-12,General,needs assistance,,3595
+Lifestyle,Active,Activity,Factor,Activity level,2043-08-23,General,Active,,3595
+Lifestyle,Exercise,Activity,Factor,Frequency,2041-12-02,General,unspecified,,3595
+Lifestyle,Substance abuse,Habits,Impairment,Substance Abuse (drugs),2043-12-21,General,none,,3611
+Lifestyle,Full code,Legal,Factor,DNR / Full code,2043-12-21,General,Full code-Active,,3611
+Lifestyle,Diet,Medical,Longevity factor,Diet,2043-12-21,General,Diabetic diet,,3611
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2043-12-24,General,2,,3611
+Lifestyle,Osteoarthritis,Impairment,Impairment,Osteoarthritis,2043-12-24,General,Yes,,3611
+Lifestyle,Appearance,Habits,Symptom,Appearance,2043-12-21,General,pleasant,,3611
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2043-12-21,General,none,,3611
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2043-12-21,General,non-smoker,,3611
+Lifestyle,Functional status,Functional status,Factor,Overall functional status,2043-12-21,General,use of cane,,3611
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2043-12-21,General,non-smoker,,3611
+Lifestyle,Pain,Impairment,Symptom,Pain,2044-11-29,General,back pain,,3615
+Lifestyle,never smoker,Habits,Impairment,Smoking,2044-11-29,General,Never smoker,,3615
+Lifestyle,Appearance,Habits,Symptom,Appearance,2042-03-28,General,no acute distress,,3615
+Lifestyle,alcohol-None,Habits,Impairment,Alcohol use,2044-11-29,General,none,,3615
+Lifestyle,Appearance,Habits,Symptom,Appearance,2042-03-28,General,no acute distress,,3615
+Lifestyle,non-smoker,Habits,Impairment,Smoking,2041-12-16,General,non-smoker,,3615
+Lifestyle,Exercise,Activity,Factor,Exercise type,2043-01-13,General,None,,3615
+Lifestyle,Sleep hygiene,Habits,Symptom,Sleep hygiene,2042-07-11,General,Insomnia,,3615
+Lifestyle,Preventive care,Medical,Factor,Yearly preventive/screening exams,2044-11-29,General,Yes,,3615
+Lifestyle,Osteoporosis,Impairment,Impairment,Osteoporosis/Osteopenia,2041-12-16,General,Osteoporosis,,3615
+Lifestyle,IADLs,Activity,Scale,IADL managing medications,2045-07-10,General,complete loss,,3607
+Lifestyle,Bladder function,Medical,Impairment,Bladder function,2045-07-10,General,use of diapers,,3607
+Lifestyle,ADL toileting,Activity,Scale,ADL toileting,2045-07-10,General,complete loss,,3607
+Lifestyle,UTIs,Medical,Impairment,Bladder function,2042-03-30,General,single UTI,,3607
+Lifestyle,UTIs,Medical,Impairment,Bladder function,2042-03-30,General,single UTI,,3607
+Lifestyle,ADL dressing,Activity,Scale,ADL dressing,2045-07-10,General,complete loss,,3607
+Lifestyle,Assistive device,Activity,Factor,Use of assistive devices/Mobility assistance,2045-07-10,General,wheelchair,,3607
+Lifestyle,ADL dressing,Activity,Scale,ADL dressing,2045-07-10,General,complete loss,,3607
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2045-09-28,General,2,,3607
+Lifestyle,Current cognitive status,Test,Test,Current cognitive status,2045-09-28,General,MMSE 0/30,,3607
+Lifestyle,Falls,Impairment,Impairment,Falls,2044-12-10,General,fall with minor injury,,3619
+Lifestyle,Appearance,Habits,Symptom,Appearance,2044-12-10,General,no acute distress,,3619
+Lifestyle,Spouse status,Social,Factor,Spouse status,2045-02-28,General,deceased,,3619
+Lifestyle,Spouse status,Social,Factor,Spouse status,2045-02-28,General,deceased,,3619
+Lifestyle,Appearance,Habits,Symptom,Appearance,2044-01-24,General,well-nourished,,3619
+Lifestyle,Appearance,Habits,Symptom,Appearance,2044-01-24,General,well-nourished,,3619
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-03-20,General,no acute distress,,3619
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-03-20,General,no acute distress,,3619
+Lifestyle,Pain,Impairment,Symptom,Pain,2044-12-10,General,back pain,,3619
+Family History,Family history - Longevity,Family history,Factor,Family history of longevity-Siblings,2044-01-24,General,"Brother: Alive, Sister: Deceased",,3619
+Lifestyle,Office visit frequency,Medical,Factor,Office visit frequency,2041-10-28,General,18,,3590
+Lifestyle,Pain,Impairment,Symptom,Pain,2041-04-17,General,back pain,,3590
+Lifestyle,Falls,Impairment,Impairment,Falls,2039-07-17,General,fall with minor injury,,3590
+Orthopedic,Osteoporosis,Impairment,Impairment,Osteoporosis/Osteopenia,2035-07-16,General,Osteoporosis,,3590
+Orthopedic,Compression fractures,Impairment,Impairment,Compression fractures,2035-07-16,General,Yes,,3590
+Lifestyle,Pain,Impairment,Symptom,Pain,2039-08-12,General,abdominal pain,,3590
+Lifestyle,Assistive device,Activity,Factor,Use of assistive devices/Mobility assistance,2041-10-28,General,Walker,,3590
+Lifestyle,Appearance,Habits,Symptom,Appearance,2040-04-07,General,well-developed,,3590
+Lifestyle,Pain,Impairment,Symptom,Pain,2041-10-28,General,arthritic pain,,3590
+Lifestyle,Appearance,Habits,Symptom,Appearance,2035-08-19,General,well-developed,,3590

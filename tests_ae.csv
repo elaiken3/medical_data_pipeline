@@ -1,0 +1,501 @@
+impairment_category,impairment,feature_type,feature,icd_code,report_date,value,person_id
+,,Test,Findings/Impression/Conclusion,,2034-03-17,atherosclerosis,3585
+,,Test,Findings/Impression/Conclusion,,2034-03-17,osteopenia,3585
+,,Test,Findings/Impression/Conclusion,,2034-03-17,diverticulosis,3585
+,,Test,Findings/Impression/Conclusion,,2034-03-17,degenerative changes,3585
+,,Test,Findings/Impression/Conclusion,,2034-08-15,Atrophy,3585
+,,Test,Findings/Impression/Conclusion,,2034-06-17,spondylosis,3585
+,,Test,Findings/Impression/Conclusion,,2034-03-17,calcification,3585
+,,Test,Findings/Impression/Conclusion,,2034-06-17,aortic calcification,3585
+,,Test,Findings/Impression/Conclusion,,2034-03-17,degenerative changes,3585
+Pulmonary,,Test,CXR - Findings,,2034-08-15,no disease,3585
+Lifestyle,Temperature,Test,Body temperature,,2034-05-07,98.6,3613
+,,Test,Findings/Impression/Conclusion,,2033-12-13,spondylosis,3613
+CAD/Cardiovascular,,Test,EKG - Wave abnormalities,,2031-02-02,nonspecific,3613
+,,Test,Mammogram,,2034-02-28,screening,3613
+,,Test,Findings/Impression/Conclusion,,2029-12-12,adenoma,3613
+CAD/Cardiovascular,,Test,EKG - Wave abnormalities,,2031-02-02,nonspecific,3613
+,,Test,Mammogram,,2034-02-28,BIRADS 1,3613
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2034-02-01,136/84,3613
+,,Test,Mammogram,,2034-02-28,Digital,3613
+Lifestyle,Temperature,Test,Body temperature,,2034-04-15,97.0,3613
+Basic,Weight,Test,Weight,,2028-04-15,188,3582
+,,Test,Colonoscopy Results,,2029-03-23,diverticulosis,3582
+Lifestyle,Temperature,Test,Body temperature,,2030-01-11,96.8,3582
+Renal,,Test,Findings/Impression/Conclusion,,2027-11-30,renal cyst(s),3582
+CAD/Cardiovascular,,Test,Pulse,,2028-04-15,72,3582
+CAD/Cardiovascular,,Test,Blood pressure,,2030-10-12,132/82,3582
+Basic,Weight,Test,Weight,,2031-01-09,182,3582
+CAD/Cardiovascular,,Test,EKG - Rhythm,,2027-12-22,Sinus rhythm,3582
+,,Test,Findings/Impression/Conclusion,,2028-11-14,no evidence of disease,3582
+Lifestyle,Temperature,Test,Body temperature,,2031-01-09,97.4,3582
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Left Ventricle / LVDD (diastolic diameter,I35.9,2027-08-13,4.5,3586
+CAD/Cardiovascular,bradycardia,Test,EKG - Overall,R00.1,2031-04-12,abnormal,3586
+CAD/Cardiovascular,bradycardia,Test,EKG - Rhythm,R00.1,2029-04-08,sinus bradycardia,3586
+CAD/Cardiovascular,atrial fibrillation,Test,EKG - Overall,I48,2032-06-12,Normal,3586
+CAD/Cardiovascular,bradycardia,Test,Pulse,R00.1,2028-11-23,46,3586
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Impression,I35.9,2027-08-05,calcification,3586
+CAD/Cardiovascular,,Test,EKG - Wave abnormalities,,2027-08-15,nonspecific,3586
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Type,I35.9,2031-11-18,2D echo,3586
+CAD/Cardiovascular,,Test,CXR - Findings,,2027-09-22,,3586
+CAD/Cardiovascular,,Test,CXR - Findings,,2031-04-19,degenerative changes,3586
+CAD/Cardiovascular,,Test,EKG - Overall,361,2035-07-21,Normal,3610
+CAD/Cardiovascular,,Test,Pulse,,2034-07-24,70,3610
+CAD/Cardiovascular,,Test,Pulse,,2033-11-08,70,3610
+,,Test,PSA,,2031-10-28,3.7,3610
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2030-12-02,120/80,3610
+CAD/Cardiovascular,,Test,Pulse,,2030-04-15,72,3610
+Basic,Weight,Test,Weight,,2030-12-02,152,3610
+,,Test,Colonoscopy Results,,2032-02-29,hemorrhoids,3610
+,,Test,PSA,,2031-10-28,3.7,3610
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2031-10-28,Yes,3610
+Gastrointestinal,colon polyps,Test,Findings/Impression/Conclusion,K63.5,2027-11-23,negative findings,3620
+CAD/Cardiovascular,,Test,Blood pressure,,2028-10-30,128/88,3620
+,,Test,Colonoscopy Results,,2027-11-23,polyp(s) removed,3620
+,,Test,Colonoscopy Results,,2027-11-23,polyp(s) removed,3620
+,,Test,Mammogram,,2028-09-08,screening,3620
+,,Test,Mammogram,,2032-02-15,no evidence of malignancy,3620
+CAD/Cardiovascular,,Test,Blood pressure,,2029-06-19,140/80,3620
+,,Test,Mammogram,,2028-09-08,BIRADS 2,3620
+,,Test,Mammogram,,2028-09-08,screening,3620
+,,Test,Findings/Impression/Conclusion,,2029-10-18,cyst(s)-type,3620
+CAD/Cardiovascular,CAD,Test,Findings/Impression/Conclusion,I25.10,2031-02-19,tortuous aorta,3583
+Cancer,prostate cancer,Test,PSA,C61,2032-06-05,7.9,3583
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - Type,I25.10,2030-03-17,exercise,3583
+CAD/Cardiovascular,CAD,Test,EKG - Overall,I25.10,2031-09-17,abnormal,3583
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2031-10-14,normal findings,3583
+CAD/Cardiovascular,CAD,Test,Findings/Impression/Conclusion,I25.10,2031-02-19,no evidence of disease,3583
+CAD/Cardiovascular,CAD,Test,EKG - Heart rate,I25.10,2031-09-17,56,3583
+Gastrointestinal,diverticulosis,Test,Findings/Impression/Conclusion,K57. 90,2031-10-14,diverticulosis,3583
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - Overall,I25.10,2030-03-17,presence of ischemia,3583
+CAD/Cardiovascular,CAD,Test,EKG - Heart rate,I25.10,2031-09-08,67,3583
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2030-02-11,lesion,3591
+,,Test,Colonoscopy Results,,2028-09-15,normal findings,3591
+CAD/Cardiovascular,CAD,Test,EKG - Heart rate,I25.10,2028-09-25,49,3591
+,,Test,Echocardiogram - Impression,,2030-12-02,no ischemia,3591
+Cerebrovascular,,Test,Carotid ultrasound/doppler/duplex,,2031-12-20,plaque,3591
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - Stress Ejection Fraction %,I25.10,2031-12-20,56,3591
+CAD/Cardiovascular,CAD,Test,EKG - Overall,I25.10,2033-02-09,unspecified,3591
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - Overall,I25.10,2031-12-20,presence of ischemia,3591
+,,Test,Echocardiogram - Type,,2028-01-03,stress echo,3591
+Cerebrovascular,,Test,Findings/Impression/Conclusion,,2029-10-21,no hemorrhage,3591
+,,Test,Echocardiogram - Type,,2032-02-29,stress echo,3623
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2029-06-06,140/70,3623
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2029-09-12,150/88,3623
+,,Test,Mammogram,,2030-04-29,calcifications,3623
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2029-08-17,138/82,3623
+Orthopedic,,Test,Findings/Impression/Conclusion,,2028-11-30,stenosis,3623
+Orthopedic,,Test,Findings/Impression/Conclusion,,2028-12-03,plaque,3623
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2029-08-17,181/103,3623
+,,Test,Echocardiogram - Impression,,2029-03-05,,3623
+CAD/Cardiovascular,,Test,EKG - Overall,,2029-11-06,paced,3623
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2028-08-07,Yes,3580
+Cerebrovascular,,Test,Carotid ultrasound/doppler/duplex,,2027-08-13,plaque,3580
+CAD/Cardiovascular,,Test,Findings/Impression/Conclusion,,2027-08-15,fibrosis,3580
+CAD/Cardiovascular,,Test,Findings/Impression/Conclusion,,2027-08-15,calcification,3580
+CAD/Cardiovascular,,Test,Findings/Impression/Conclusion,,2027-08-15,fibrosis,3580
+CAD/Cardiovascular,,Test,Findings/Impression/Conclusion,,2027-08-15,fibrosis,3580
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2027-08-09,150/72,3580
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2028-05-29,158/70,3580
+Basic,Weight,Test,Weight,,2028-08-07,136,3580
+Basic,Weight,Test,Weight,,2028-08-07,136,3580
+Renal,,Test,Findings/Impression/Conclusion,,2028-11-22,,3593
+Basic,Weight,Test,Weight,,2030-04-21,121,3593
+Basic,Height,Test,Height,,2030-12-24,63,3593
+Basic,BMI,Test,BMI,,2030-04-21,21,3593
+CAD/Cardiovascular,,Test,Pulse,,2028-12-27,71,3593
+Basic,Weight,Test,Weight,,2030-12-24,120,3593
+CAD/Cardiovascular,,Test,Blood pressure,,2030-12-24,124/62,3593
+Basic,BMI,Test,BMI,,2030-04-21,21,3593
+Lifestyle,Temperature,Test,Body temperature,,2032-02-29,97.3,3593
+Basic,Weight,Test,Weight,,2030-04-21,121,3593
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - Minutes of exercise,I25.10,2031-10-18,"00 hours, 04 minutes, 46 seconds",3614
+Valvular heart disease,mitral valve disease,Test,Echocardiogram - Regurgitation,I34.9,2029-02-28,mitral,3614
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2033-02-03,Yes,3614
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2029-04-23,130/90,3614
+CAD/Cardiovascular,,Test,EKG - Overall,,2033-05-01,abnormal,3614
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - % of maximum predicted HR for age,I25.10,2029-02-21,95,3614
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2033-02-03,Yes,3614
+Basic,Weight,Test,Weight,,2032-01-25,139,3614
+Valvular heart disease,mitral valve disease,Test,Echocardiogram - Type,I34.9,2029-02-28,2D echo,3614
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2030-10-01,140/80,3614
+Cancer,prostate cancer,Test,PSA,C61,2033-06-22,<0.1,3612
+Cancer,prostate cancer,Test,PSA,C61,2031-07-14,<0.1,3612
+Cancer,prostate cancer,Test,PSA,C61,2032-01-13,<0.1,3612
+Basic,Weight,Test,Weight,,2028-03-27,190,3612
+Cancer,prostate cancer,Test,Pathology report,C61,2027-12-08,"Prostate, right, needle biopsy: Adenocarcinoma, Gleason combined score 7(3+4) involving approximately 60% of the biopsy material, Prostate, left, needle biopsy: Adenocarcinoma, Gleason score-7 involving approximately 30% of the biopsy material",3612
+Cancer,prostate cancer,Test,PSA,C61,2033-11-30,0.00,3612
+Cancer,prostate cancer,Test,PSA,C61,2030-07-19,0.10,3612
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2028-03-27,130/80,3612
+Cancer,prostate cancer,Test,PSA,C61,2031-01-23,<0.1,3612
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2028-03-27,130/80,3612
+CAD/Cardiovascular,,Test,Cardiac stress test - METS (metabolic equivalent task),,2029-09-04,7.4,3609
+CAD/Cardiovascular,,Test,Cardiac stress test - METS (metabolic equivalent task),,2029-09-04,7.4,3609
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2031-10-04,132/76,3609
+CAD/Cardiovascular,bradycardia,Test,EKG - Rhythm,R00. 1,1976-07-01,sinus bradycardia,3609
+Valvular heart disease,,Test,Echocardiogram - Impression,,2031-07-27,wall motion abnormalities,3609
+CAD/Cardiovascular,,Test,Cardiac stress test - EKG portion,,2029-09-04,abnormal,3609
+Valvular heart disease,aortic valve disease,Test,Aortic Valve Area,I35.9,2029-09-04,1.3,3609
+,,Test,Findings/Impression/Conclusion,,2030-04-09,,3609
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2024-10-13,Yes,3609
+Basic,Weight,Test,Weight,,2031-10-04,207,3609
+Neurological,,Test,Oriented x 3,,2033-01-11,Yes,3625
+Neurological,,Test,Oriented x 3,,2032-08-15,Yes,3625
+Neurological,,Test,Oriented x 3,,2033-01-11,Yes,3625
+Neurological,,Test,Oriented x 3,,2033-01-11,Yes,3625
+Neurological,,Test,Oriented x 3,,2033-01-11,Yes,3625
+Neurological,,Test,Oriented x 3,,2033-01-11,Yes,3625
+Neurological,,Test,Oriented x 3,,2033-01-11,Yes,3625
+Neurological,,Test,Oriented x 3,,2032-08-15,Yes,3625
+Neurological,,Test,Oriented x 3,,2032-08-15,Yes,3625
+Neurological,,Test,Oriented x 3,,2032-08-15,Yes,3625
+Basic,BMI,Test,BMI,,2035-02-20,35.65,3621
+Cerebrovascular,,Test,Findings/Impression/Conclusion,,2031-07-27,density,3621
+Neurological,,Test,Orientation to time,,2032-12-06,Yes,3621
+Basic,BMI,Test,BMI,,2032-03-23,35.81,3621
+Cerebrovascular,,Test,Findings/Impression/Conclusion,,2031-07-27,normal findings,3621
+CAD/Cardiovascular,,Test,EKG - Heart blocks,,2035-02-20,1st degree AV block,3621
+CAD/Cardiovascular,,Test,Pulse,,2031-06-06,60,3621
+CAD/Cardiovascular,,Test,EKG - Overall,,2033-03-26,unspecified,3621
+Neurological,,Test,Oriented x 4,,2035-02-20,Yes,3621
+Cerebrovascular,,Test,Findings/Impression/Conclusion,,2031-07-27,no hemorrhage,3621
+,,Test,CXR - Findings,,2032-09-09,atherosclerosis,3622
+Basic,Weight,Test,Weight,,2034-03-21,180.3,3622
+,,Test,Findings/Impression/Conclusion,,2032-09-13,negative findings,3622
+Basic,Weight,Test,Weight,124,2032-09-21,170,3622
+Basic,Weight,Test,Weight,,2031-03-13,180.5,3622
+,,Test,CXR - Findings,,2032-09-09,atelectasis,3622
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2032-09-21,Yes,3622
+,,Test,CXR - Findings,,2032-09-09,atelectasis,3622
+Basic,Weight,Test,Weight,,2031-03-13,180.5,3622
+,BPH,Test,PSA,N40.1,2033-08-05,1.9,3622
+CAD/Cardiovascular,atrial fibrillation,Test,EKG - Overall,I48.91,2031-09-24,abnormal,3603
+Pulmonary,COPD,Test,Findings/Impression/Conclusion,J44.9,2034-10-08,atherosclerosis,3603
+,,Test,Echocardiogram - Left Ventricle / LVDD (diastolic diameter,,2034-10-17,67,3603
+CAD/Cardiovascular,heart failure,Test,Echocardiogram - Regurgitation,I50.9,2034-10-17,mitral,3603
+Pulmonary,COPD,Test,CXR - Findings,J44.9,2034-10-07,Spondylosis,3603
+CAD/Cardiovascular,diastolic dysfunction,Test,Echocardiogram - Regurgitation,I50.3,2034-10-17,pulmonic,3603
+CAD/Cardiovascular,atrial fibrillation,Test,Pulse,I48.91,2034-04-21,52,3603
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2034-10-07,178/94,3603
+Basic,Height,Test,Height,,2034-10-09,70,3603
+CAD/Cardiovascular,heart failure,Test,Echocardiogram - Regurgitation,I50.9,2033-02-25,tricuspid,3603
+CAD/Cardiovascular,,Test,Blood pressure,,2029-04-15,134/68,3584
+CAD/Cardiovascular,,Test,Blood pressure,,2029-12-16,130/60,3584
+CAD/Cardiovascular,,Test,Blood pressure,,2029-12-16,130/60,3584
+Basic,Weight,Test,Weight,,2029-03-19,141,3584
+CAD/Cardiovascular,,Test,Blood pressure,,2032-02-09,132/68,3584
+CAD/Cardiovascular,,Test,Pulse,,2030-06-01,68,3584
+Basic,Weight,Test,Weight,,2032-02-09,136,3584
+Basic,Weight,Test,Weight,,2029-03-19,141,3584
+Lifestyle,Temperature,Test,Body temperature,,2029-06-30,96.9,3584
+Lifestyle,Temperature,Test,Body temperature,,2032-04-27,97.6,3584
+CAD,,Test,EKG - Heart blocks,,2036-06-15,RBBB,3588
+,,Test,Echocardiogram - Left Ventricle / LVDD (diastolic diameter,,2037-08-03,5.4 cm,3588
+CAD,,Test,Echocardiogram - Ejection Fraction / LVEF / EF,,2034-03-17,60%,3588
+,,Test,Echocardiogram - Regurgitation,,2037-08-03,tricuspid,3588
+CAD,,Test,Echocardiogram - Right Ventricle Systolic Pressure / RVSP,,2034-03-17,22 mmHg,3588
+CAD,,Test,EKG - Rhythm,,2036-06-15,Sinus rhythm,3588
+,,Test,Echocardiogram - Regurgitation,,2035-04-06,Aortic,3588
+CAD,CAD,Test,Cardiac catheterization - Overall,I25.81,2037-08-03,normal,3588
+CAD,Hypertension,Test,Blood pressure-Type of reading,I10,2034-03-17,,3588
+,,Test,Echocardiogram - Right Ventricle Systolic Pressure / RVSP,,2037-08-03,18 mmHg,3588
+Basic,Weight,Test,Weight,,2031-07-28,116,3627
+CAD/Cardiovascular,,Test,Pulse,,2031-07-28,72,3627
+Cancer,breast cancer,Test,Mammogram,C50.012,2033-04-06,screening,3627
+Orthopedic,Osteoporosis,Test,Findings/Impression/Conclusion,M81.0,2033-02-09,T scores,3627
+Cancer,breast cancer,Test,Mammogram,C50.911,2031-03-24,C-A-D,3627
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I25.10,2034-02-14,170/80,3627
+CAD/Cardiovascular,bifascicular block,Test,EKG - Heart blocks,,2031-07-27,1st degree AV block,3627
+CAD/Cardiovascular,bifascicular block,Test,EKG - Heart blocks,,2033-02-04,1st degree AV block,3627
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2034-04-11,157/74,3627
+,,Test,Pulse,I25.10,2034-02-28,77,3627
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Impression,I35.0,2031-04-18,Left ventricular hypertrophy,3596
+Basic,Weight,Test,Weight,,2034-04-26,196,3596
+CAD/Cardiovascular,,Test,EKG - Rhythm,,2031-05-09,Sinus rhythm,3596
+CAD/Cardiovascular,,Test,Cardiac stress test - Overall,,2032-08-14,normal,3596
+CAD/Cardiovascular,,Test,EKG - Wave abnormalities,,2033-07-31,ST-T wave,3596
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Impression,I35.0,2031-04-18,Left ventricular hypertrophy,3596
+CAD/Cardiovascular,aortic stenosis,Test,Echocardiogram - Regurgitation,I35.0,2031-04-18,mitral,3596
+CAD/Cardiovascular,,Test,EKG - Heart rate,,2031-10-19,58,3596
+CAD/Cardiovascular,,Test,Findings/Impression/Conclusion,,2034-02-07,normal findings,3596
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Stenosis,I35.0,2034-02-01,Aortic,3596
+Gastrointestinal,GERD,Test,Findings/Impression/Conclusion,K21.9,2034-06-27,enlarged prostate,3597
+CAD/Cardiovascular,bradycardia,Test,Pulse,R00.1,2032-08-27,70,3597
+Basic,Height,Test,Height,,2037-02-23,68,3597
+Cancer,ureteral cancer,Test,Findings/Impression/Conclusion,C66.9,2034-07-08,DDD,3597
+CAD/Cardiovascular,bradycardia,Test,EKG - Rhythm,R00.1,2032-05-09,Sinus rhythm,3597
+Cancer,Bladder cancer,Test,Pathology report,C67.9,2032-04-10,"No atypical urothelial cells, abnormal. There are no significant morphologic findings, positive (neoplasia-associated) karyotypic profile is suggestive of future or concurrent urothelial dysplasia/neoplasia",3597
+CAD/Cardiovascular,,Test,Blood pressure,,2034-11-22,138/86,3597
+CAD/Cardiovascular,,Test,Blood pressure,,2033-06-12,130/80,3597
+,,Test,Findings/Impression/Conclusion,,2035-11-13,DDD,3597
+Lifestyle,Temperature,Test,Body temperature,,2035-05-18,98.6,3597
+CAD/Cardiovascular,,Test,EKG - Rhythm,,2032-05-08,Sinus rhythm,3617
+Valvular heart disease,,Test,Echocardiogram - Regurgitation,,2031-11-06,Aortic,3617
+Valvular heart disease,,Test,Echocardiogram - Left Ventricle / LVDD (diastolic diameter,,2033-04-26,5.6,3617
+Basic,Weight,Test,Weight,,2030-05-03,182,3617
+,,Test,PSA,,2034-04-16,3.88,3617
+Basic,Weight,Test,Weight,,2032-04-11,183.5,3617
+,,Test,PSA,,2034-04-16,3.88,3617
+Valvular heart disease,,Test,Echocardiogram - Left Ventricle / LVDD (diastolic diameter,,2031-11-06,5.6,3617
+CAD/Cardiovascular,,Test,Blood pressure,,2034-05-07,140/80,3617
+Valvular heart disease,,Test,Echocardiogram - Type,,2031-11-06,2D echo,3617
+,,Test,Findings/Impression/Conclusion,,2038-01-10,negative findings,3579
+Orthopedic,,Test,Findings/Impression/Conclusion,,2036-12-01,osteophytes,3579
+,,Test,Findings/Impression/Conclusion,,2034-07-31,atherosclerosis,3579
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2036-01-30,142/86,3579
+,,Test,Pulse,,2038-01-08,76,3579
+Orthopedic,Osteoporosis,Test,Findings/Impression/Conclusion,M81.0,2035-01-31,osteopenia,3579
+CAD/Cardiovascular,,Test,Cardiac stress test - EKG portion,,2038-01-01,nonischemic,3579
+CAD/Cardiovascular,,Test,Cardiac stress test - Symptoms during exercise,,2033-06-21,Fatigue,3579
+CAD/Cardiovascular,,Test,Cardiac stress test - Symptoms during exercise,,2033-06-21,Fatigue,3579
+Cerebrovascular,carotid stenosis,Test,Carotid ultrasound/doppler/duplex,I65.29,2035-09-12,plaque,3579
+Pulmonary,COPD,Test,CXR - Findings,J44.9,2043-12-24,aortic ectasia,3602
+,,Test,Carotid ultrasound/doppler/duplex,,2043-12-22,plaque,3602
+Basic,Height,Test,Height,,2044-06-21,68,3602
+,CAD,Test,Echocardiogram - Right Ventricle Systolic Pressure / RVSP,I25.10,2043-12-26,28-33,3602
+Basic,Height,Test,Height,,2042-03-21,71,3602
+CAD/Cardiovascular,CAD,Test,EKG - Rhythm,I25.10,2043-12-23,sinus bradycardia,3602
+CAD/Cardiovascular,CAD,Test,EKG - Rhythm,I25.10,2041-07-12,sinus bradycardia,3602
+,CAD,Test,Echocardiogram - Impression,I25.10,2043-12-26,normal findings,3602
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2040-04-14,120/80,3602
+CAD/Cardiovascular,atrial fibrillation,Test,Pulse,I48.91,2044-06-21,62,3602
+Basic,BMI,Test,BMI,,2035-12-17,20.22,3608
+Neurological,,Test,Orientation to person,,2035-09-12,Yes,3608
+Pulmonary,Sleep apnea,Test,AHI,G47.30,2035-03-23,14.4,3608
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2034-05-29,124/76,3608
+CAD/Cardiovascular,,Test,Blood pressure,,2035-09-12,134/60,3608
+Lifestyle,Temperature,Test,Body temperature,,2032-05-17,95.6,3608
+Valvular heart disease,,Test,Echocardiogram - Regurgitation,,2035-03-03,mitral,3608
+Neurological,,Test,Orientation to place,,2035-09-12,Yes,3608
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2034-12-19,Yes,3608
+Orthopedic,,Test,Findings/Impression/Conclusion,,2035-11-11,no fracture,3608
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2038-08-13,132/70,3592
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2035-05-13,pericardial effusion,3592
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2037-08-22,calcification,3592
+Cerebrovascular,carotid stenosis,Test,Carotid ultrasound/doppler/duplex - RICA,I65.29,2037-08-22,0-39,3592
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2035-05-13,diverticulosis,3592
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2037-08-22,diverticulosis,3592
+Cerebrovascular,,Test,Carotid ultrasound/doppler/duplex,,2038-06-09,plaque,3592
+,,Test,Colonoscopy Results,,2034-10-02,diverticulosis,3592
+Basic,Weight,Test,Weight,,2037-05-15,260,3592
+Neurological,,Test,Orientation to place,,2036-12-25,Yes,3592
+Lifestyle,Active,Test,Duke Activity Index Score,,2035-09-14,43,3606
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2036-10-01,140/90,3606
+CAD/Cardiovascular,atrial fibrillation,Test,EKG - Heart rate,I48.91,2035-09-10,78,3606
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2036-07-06,162/78,3606
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2035-09-30,normal findings,3606
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2036-08-11,Yes,3606
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2035-09-30,no evidence of disease,3606
+Neurological,memory loss,Test,Oriented x 2,R41.3,2036-05-04,Yes,3606
+Cerebrovascular,,Test,Carotid ultrasound/doppler/duplex,,2035-09-30,normal,3606
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,2034-06-11,Yes,3606
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,1926-07-01,Yes,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Procedure,I25.10,2037-06-17,left ventriculography,3616
+CAD/Cardiovascular,Hypertension,Test,Hypertension diagnosed,I10,1926-07-01,Yes,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Findings,I25.10,2037-06-17,occlusion,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Findings,I25.10,2037-06-17,Location and severity and/or % of blockage stated,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Findings,I25.10,2037-06-17,occlusion,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Procedure,I25.10,2037-06-17,right heart cath,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Ejection fraction,I25.10,2037-06-17,20-25,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Procedure,I25.10,2037-06-17,coronary angiography/angiogram/arteriogram,3616
+CAD/Cardiovascular,CAD,Test,Cardiac catheterization - Findings,I25.10,2037-06-17,calcification,3616
+CAD/Cardiovascular,,Test,Cardiac stress test - Overall,,2037-04-18,abnormal,3624
+CAD/Cardiovascular,,Test,Blood pressure,,2037-04-25,130/80,3624
+,,Test,Colonoscopy Results,,2031-04-12,diverticulosis,3624
+CAD/Cardiovascular,,Test,Cardiac catheterization - Findings,,2037-04-20,aneurysm,3624
+CAD/Cardiovascular,,Test,EKG - Overall,,2037-05-29,Normal,3624
+CAD/Cardiovascular,,Test,EKG - Rhythm,,2037-04-25,Sinus rhythm,3624
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2033-11-30,130/80,3624
+Basic,Weight,Test,Weight,,2035-06-01,180,3624
+Neurological,,Test,Orientation to person,,2037-07-06,Yes,3624
+CAD/Cardiovascular,,Test,Cardiac stress test - EKG portion,,2037-04-18,,3624
+CAD/Cardiovascular,,Test,Blood pressure,,2034-05-29,140/80,3604
+CAD/Cardiovascular,,Test,Blood pressure,,2037-04-11,112/70,3604
+CAD/Cardiovascular,,Test,Pulse,,2037-04-11,72,3604
+CAD/Cardiovascular,,Test,Blood pressure,,2033-12-26,134/74,3604
+CAD/Cardiovascular,,Test,Pulse,,2035-04-20,64,3604
+Neurological,Alzheimer's,Test,MoCA,G30.9,2034-07-08,28/30,3604
+CAD/Cardiovascular,,Test,Pulse,,2034-05-29,60,3604
+CAD/Cardiovascular,,Test,Blood pressure,,2034-05-29,140/80,3604
+CAD/Cardiovascular,,Test,Blood pressure,,2037-04-11,112/70,3604
+Neurological,Alzheimer's,Test,MoCA,G30.9,2034-07-08,28/30,3604
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2034-03-27,130/80,3594
+CAD/Cardiovascular,,Test,EKG - Overall,,2037-11-02,Normal,3594
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2032-11-09,137/49,3594
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2036-04-26,renal cyst(s),3594
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2035-04-06,gastritis,3594
+Lifestyle,Temperature,Test,Body temperature,,2034-01-10,98.5,3594
+Gastrointestinal,,Test,Findings/Impression/Conclusion,,2036-04-26,normal findings,3594
+Basic,Weight,Test,Weight,,2035-03-16,138,3594
+CAD/Cardiovascular,,Test,EKG - Overall,,2037-11-02,Normal,3594
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2033-11-24,150/70,3594
+,,Test,Echocardiogram - Regurgitation,,2035-01-14,tricuspid,3600
+CAD/Cardiovascular,,Test,Cardiac stress test - Type,,2035-01-14,exercise,3600
+Orthopedic,Osteoporosis,Test,Findings/Impression/Conclusion,M81.0,2033-06-15,Atrophy,3600
+Pulmonary,,Test,"SPO2, oxygen level, oxygen saturation, nadir",,2035-09-05,91,3600
+CAD/Cardiovascular,atrial fibrillation,Test,Pulse,I48.91,2035-09-05,81,3600
+Cancer,prostate cancer,Test,PSA,C61,2035-09-02,0.13,3600
+CAD/Cardiovascular,Good exercise tolerance,Test,Cardiac stress test - Exercise tolerance,,2035-01-14,Good,3600
+Orthopedic,Osteoporosis,Test,Findings/Impression/Conclusion,M81.0,2038-02-24,DDD,3600
+Neurological,,Test,Oriented x 3,,2037-01-08,Yes,3600
+CAD/Cardiovascular,,Test,CXR - Findings,,2034-04-12,no acute cardiopulmonary disease,3600
+Lifestyle,Temperature,Test,Body temperature,,2037-03-20,97.1,3626
+CAD/Cardiovascular,,Test,Pulse,,2038-06-05,80,3626
+Basic,Height,Test,Height,,2034-10-16,62.5,3626
+Pulmonary,,Test,"SPO2, oxygen level, oxygen saturation, nadir",,2036-02-05,93,3626
+Pulmonary,,Test,"SPO2, oxygen level, oxygen saturation, nadir",,2034-10-16,96,3626
+Pulmonary,,Test,"SPO2, oxygen level, oxygen saturation, nadir",,2036-02-05,93,3626
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2038-02-08,140/64,3626
+CAD/Cardiovascular,,Test,CXR - Findings,,2037-03-13,no acute cardiopulmonary disease,3626
+CAD/Cardiovascular,,Test,EKG - Heart rate,,2037-03-13,103,3626
+Basic,Weight,Test,Weight,,2037-03-20,166,3626
+CAD/Cardiovascular,,Test,Blood pressure,,2038-06-06,120/72,3599
+CAD/Cardiovascular,,Test,Blood pressure,,2038-09-22,120/84,3599
+CAD/Cardiovascular,,Test,Blood pressure,,2038-09-22,120/84,3599
+,,Test,Colonoscopy Type,,2038-08-08,Colonoscopy,3599
+,,Test,Colonoscopy Results,,2038-08-08,hemorrhoids,3599
+Neurological,,Test,Orientation to time,,2038-06-06,Yes,3599
+Basic,BMI,Test,BMI,,2038-06-06,23.80,3599
+Neurological,,Test,Orientation to person,,2038-06-06,Yes,3599
+,,Test,Colonoscopy Results,,2038-08-08,diverticulosis,3599
+Basic,BMI,Test,BMI,,2038-06-06,23.80,3599
+Valvular heart disease,mitral valve disease,Test,Echocardiogram - Impression,I34.9,2036-04-21,pericardial effusion,3587
+CAD/Cardiovascular,,Test,Holter Monitor - Duration of pause,,2036-04-13,6.5,3587
+CAD/Cardiovascular,,Test,Cardiac stress test - Type,,2036-05-10,SPECT,3587
+CAD/Cardiovascular,,Test,EKG - Heart rate,,2036-04-13,87,3587
+CAD/Cardiovascular,,Test,EKG - Arrhythmias,,2036-04-13,PVCs,3587
+CAD/Cardiovascular,mitral valve disease,Test,Cardiac stress test - Stress Ejection Fraction %,I34.9,2036-05-10,65,3587
+CAD/Cardiovascular,,Test,Holter Monitor - Underlying rhythm,,2036-04-13,Sinus rhythm,3587
+CAD/Cardiovascular,,Test,EKG - Heart rate,,2036-04-13,87,3587
+CAD/Cardiovascular,,Test,EKG - Arrhythmias,,2036-04-13,PVCs,3587
+Basic,Weight,Test,Weight,,2036-05-19,177,3587
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Type,I35.9,2040-12-09,2D echo,3589
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Impression,I35.9,2040-12-09,aortic dilation,3589
+CAD/Cardiovascular,,Test,EKG - Wave abnormalities,,2041-07-05,ST wave,3589
+Basic,Height,Test,Height,,2042-07-04,68,3589
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Regurgitation,I35.9,2040-12-09,mitral,3589
+Valvular heart disease,,Test,Mean Gradient,,2040-12-03,26,3589
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Regurgitation,I35.9,2038-12-04,pulmonic,3589
+Neurological,,Test,Oriented x 3,,2040-12-20,Yes,3589
+Aneurysms,Thoracic aortic aneurysm,Test,Findings/Impression/Conclusion,I71.2,2040-12-10,normal findings,3589
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Impression,I35.9,2038-12-04,aortic dilation,3589
+Basic,Height,Test,Height,,2036-04-03,70,3628
+Pulmonary,,Test,"SPO2, oxygen level, oxygen saturation, nadir",,2040-03-17,100,3628
+Basic,BMI,Test,BMI,,2040-04-11,22.2,3628
+Basic,Height,Test,Height,,2036-04-03,70,3628
+CAD/Cardiovascular,,Test,EKG - Rhythm,,2035-11-26,Sinus rhythm,3628
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2039-12-04,164/66,3628
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2037-12-20,123/72,3628
+CAD/Cardiovascular,,Test,EKG - Heart blocks,,2035-11-26,1st degree AV block,3628
+CAD/Cardiovascular,,Test,Pulse,,2036-11-07,60,3628
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2038-12-11,161/69,3628
+Renal,,Test,Findings/Impression/Conclusion,,2038-10-28,hyperechoic,3598
+CAD/Cardiovascular,,Test,Cardiac stress test - Myocardial perfusion imaging,,2040-08-06,,3598
+CAD/Cardiovascular,,Test,Cardiac stress test - % of maximum predicted HR for age,,2036-06-16,83,3598
+Pulmonary,,Test,CXR - Findings,,2037-08-17,elevated hemidiaphragm,3598
+CAD/Cardiovascular,,Test,Cardiac stress test - Minutes of exercise,,2036-06-16,00 hours 04 minutes 34 seconds,3598
+Valvular heart disease,,Test,Echocardiogram - Impression,,2040-08-07,,3598
+CAD/Cardiovascular,,Test,EKG - Heart blocks,,2040-07-30,bifascicular,3598
+CAD/Cardiovascular,,Test,EKG - Heart rate,,2036-01-27,60,3598
+Valvular heart disease,,Test,Echocardiogram - Impression,,2040-08-07,,3598
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2036-09-30,140/90,3598
+CAD/Cardiovascular,,Test,CXR - Findings,,2040-11-27,no acute pathology,3605
+,,Test,Echocardiogram - Impression,,2040-12-03,dilated L atrium,3605
+,,Test,Echocardiogram - Impression,,2040-12-03,Left ventricular hypertrophy,3605
+CAD/Cardiovascular,,Test,EKG - Infarction,,2040-10-25,possible,3605
+,,Test,Colonoscopy Results,,2040-12-16,polyps,3605
+Basic,Weight,Test,Weight,,2041-04-23,210.0,3605
+Basic,Weight,Test,Weight,,2040-06-13,212,3605
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2041-04-23,130/80,3605
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2040-11-01,130/60,3605
+,,Test,Colonoscopy Type,,2040-12-16,Colonoscopy,3605
+CAD/Cardiovascular,palpitations,Test,EKG - Infarction,R00.2,2037-08-17,old,3618
+CAD/Cardiovascular,palpitations,Test,EKG - Rhythm,R00.2,2040-05-18,Sinus rhythm,3618
+CAD/Cardiovascular,,Test,Pulse,,2038-07-19,96,3618
+CAD/Cardiovascular,palpitations,Test,EKG - Heart rate,R00.2,1926-07-01,88,3618
+Basic,Weight,Test,Weight,,2037-08-17,130,3618
+CAD/Cardiovascular,palpitations,Test,EKG - Overall,R00.2,2040-02-05,abnormal,3618
+CAD/Cardiovascular,palpitations,Test,EKG - Overall,R00.2,2040-02-05,abnormal,3618
+CAD/Cardiovascular,palpitations,Test,EKG - Rhythm,R00.2,2040-02-05,Sinus rhythm,3618
+CAD/Cardiovascular,palpitations,Test,EKG - Rhythm,R00.2,2037-08-17,Sinus rhythm,3618
+Basic,Weight,Test,Weight,,2038-07-10,130,3618
+Pulmonary,COPD,Test,CXR - Findings,J44.9,2040-11-16,cardiomegaly,3581
+Pulmonary,COPD,Test,CXR - Findings,J44.9,2040-11-16,atherosclerosis,3581
+Valvular heart disease,heart failure,Test,Echocardiogram - Ejection Fraction / LVEF / EF,I50.9,2041-02-27,58,3581
+Pulmonary,COPD,Test,CXR - Findings,J44.9,2042-02-12,fracture,3581
+Valvular heart disease,,Test,Echocardiogram - Type,,2041-02-27,2D echo,3581
+Pulmonary,COPD,Test,PFT - restrictive or obstructive disease,J44.9,2041-04-27,obstructive,3581
+CAD/Cardiovascular,,Test,EKG - Overall,,2041-04-17,abnormal,3581
+Renal,Chronic kidney disease,Test,Findings/Impression/Conclusion,N18.9,2041-06-15,normal findings,3581
+Pulmonary,COPD,Test,CXR - Findings,J44.9,2041-04-17,degenerative changes,3581
+Pulmonary,COPD,Test,CXR - Findings,J44.9,2041-12-10,scarring,3581
+Cerebrovascular,,Test,Findings/Impression/Conclusion,,2044-02-08,small vessel ischemic disease,3601
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - EKG portion,I25.10,2042-01-07,abnormal,3601
+Neurological,,Test,Orientation to time,,2044-01-23,Yes,3601
+Pulmonary,,Test,"SPO2, oxygen level, oxygen saturation, nadir",,2042-06-11,95,3601
+CAD/Cardiovascular,CAD,Test,Echocardiogram - Ejection Fraction / LVEF / EF,I25.10,2042-01-06,55,3601
+CAD/Cardiovascular,atrial fibrillation,Test,Pulse,I48.91,2043-06-20,81,3601
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - % of maximum predicted HR for age,I25.10,2043-04-04,76,3601
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - Symptoms during exercise,I25.10,2043-04-04,Fatigue,3601
+CAD/Cardiovascular,CAD,Test,Cardiac stress test - Myocardial perfusion imaging,I25.10,2043-04-04,no reversible ischemia,3601
+CAD/Cardiovascular,CAD,Test,EKG - Overall,I25.10,2041-12-30,unspecified,3601
+CAD/Cardiovascular,CAD,Test,EKG - Overall,I25.10,2041-11-01,unspecified,3595
+Valvular heart disease,aortic valve disease,Test,Bicuspid vs trileaflet valve,I35.9,2042-08-11,trileaflet,3595
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2041-11-01,138/70,3595
+Valvular heart disease,aortic valve disease,Test,Echocardiogram - Left Ventricle / LVDD (diastolic diameter,I35.9,2043-02-22,46,3595
+Basic,Height,Test,Height,,2041-12-09,67,3595
+CAD/Cardiovascular,CAD,Test,Echocardiogram - Ejection Fraction / LVEF / EF,I25.10,2042-08-11,50-55,3595
+CAD/Cardiovascular,CAD,Test,EKG - Heart rate,I25.10,2043-02-23,65,3595
+CAD/Cardiovascular,CAD,Test,EKG - Rhythm,I25.10,2041-11-01,Sinus rhythm,3595
+CAD/Cardiovascular,CAD,Test,EKG - Heart rate,I25.10,2043-02-23,65,3595
+CAD/Cardiovascular,CAD,Test,EKG - Overall,I25.10,2043-02-24,abnormal,3595
+Basic,Height,Test,Height,,2043-12-21,60,3611
+Valvular heart disease,mitral valve disease,Test,Mean Gradient,I34.9,2043-12-22,2,3611
+Neurological,,Test,Orientation to place,,2043-12-24,Yes,3611
+Pulmonary,,Test,CXR - Findings,,2043-12-21,elevated hemidiaphragm,3611
+Cancer,breast cancer,Test,Findings/Impression/Conclusion,C50.919,2044-09-05,scarring,3611
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2043-12-24,138/64,3611
+Valvular heart disease,mitral valve disease,Test,Echocardiogram - Left Ventricle / LVDD (diastolic diameter,I34.9,2043-12-22,40.1,3611
+CAD/Cardiovascular,,Test,Cardiac stress test - Myocardial perfusion imaging,,2043-12-23,reversible defect,3611
+CAD/Cardiovascular,,Test,EKG - Heart blocks,,2044-06-12,1st degree AV block,3611
+Pulmonary,,Test,CXR - Findings,,2043-12-21,no infiltrate,3611
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2043-08-06,140/78,3615
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2043-10-11,138/70,3615
+Basic,Height,Test,Height,,2043-04-12,66,3615
+Basic,BMI,Test,BMI,,2043-04-12,24.06,3615
+,,Test,Mammogram,,2044-05-29,heterogeneously dense,3615
+Basic,BMI,Test,BMI,,2044-04-30,24.21,3615
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2043-08-06,140/78,3615
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2042-03-28,120/82,3615
+,,Test,Mammogram,,2043-04-26,BIRADS 1,3615
+Basic,Weight,Test,Weight,,2044-11-29,150,3615
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2045-08-22,white matter changes,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2041-11-22,normal findings,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2041-11-22,normal findings,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2041-11-22,white matter disease,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2041-11-22,white matter disease,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2041-11-22,normal findings,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2045-08-22,normal findings,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2041-11-22,white matter disease,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2045-08-22,Atrophy,3607
+Neurological,Alzheimer's,Test,Findings/Impression/Conclusion,G30.9,2041-11-22,negative findings,3607
+Neurological,memory issues,Test,Orientation to situation,R41.3,2045-07-17,Yes,3619
+Lifestyle,Temperature,Test,Body temperature,,2041-02-07,97.7,3619
+Basic,BMI,Test,BMI,,2045-02-28,19.85,3619
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2043-05-09,164/74,3619
+Basic,BMI,Test,BMI,,2045-02-28,19.85,3619
+Lifestyle,Temperature,Test,Body temperature,,2045-07-17,97.9,3619
+CAD/Cardiovascular,,Test,EKG - Heart rate,,2045-02-02,70,3619
+Neurological,memory issues,Test,Orientation to situation,R41.3,2045-07-17,Yes,3619
+Lifestyle,Temperature,Test,Body temperature,,2045-07-17,97.9,3619
+CAD/Cardiovascular,Hypertension,Test,Blood pressure,I10,2044-01-24,130/60,3619
+,,Test,Findings/Impression/Conclusion,,2039-11-25,hernia,3590
+,,Test,Findings/Impression/Conclusion,,2041-03-11,renal cyst(s),3590
+Neurological,,Test,Orientation to time,,2041-10-28,Yes,3590
+,,Test,Findings/Impression/Conclusion,,2039-08-12,renal cyst(s),3590
+,,Test,CXR - Findings,,2039-11-25,no acute cardiopulmonary disease,3590
+,,Test,Findings/Impression/Conclusion,,2039-11-23,no mass,3590
+,,Test,Findings/Impression/Conclusion,,2039-06-04,no fracture,3590
+,,Test,Findings/Impression/Conclusion,,2039-06-05,diverticulosis,3590
+,,Test,CXR - Findings,,2039-11-25,no acute cardiopulmonary disease,3590
+Neurological,,Test,Oriented x 3,,2039-06-04,Yes,3590
