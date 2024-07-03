@@ -133,3 +133,60 @@ Instructions for Running the Pipeline
 
     Replace `YOUR_ACCESS_TOKEN` with the token received from the login response.
 
+
+### Discussion Point #1: Handling Data from Different Vendors
+
+#### 1\. Receive the Data from Vendors
+
+To handle data from various vendors efficiently and securely, consider the following approaches:
+
+-   **API Endpoints**: Set up secure RESTful API endpoints where vendors can post JSON files. Ensure that these endpoints have proper authentication and authorization mechanisms to prevent unauthorized access.
+
+#### 2\. Ingest the Data into Our Database
+
+Once the data is received, the next step is to ingest it into the database efficiently:
+
+-   **Batch Processing**: Collect the JSON files into batches and process them together. This reduces the overhead of frequent database connections and can be scheduled during off-peak hours.
+
+#### 3\. Minimize Table Locking During Data Ingestion
+
+To minimize table locking and ensure the database remains responsive during data ingestion:
+
+-   **Partitioning**: Partition the tables based on logical keys such as `person_id` or date. This reduces contention and allows parallel processing of different partitions.
+-   **Bulk Inserts**: Use bulk insert operations instead of individual row inserts. This reduces the number of transactions and locks held on the table.
+
+#### 4\. Best Database for This Data
+
+Considering the nature and volume of the data, a combination of databases might be the best approach:
+
+-   **Relational Databases**: Relational databases like PostgreSQL, MySQL or Oracle would probably best for storing structured data that requires complex queries and transactions. 
+
+
+### Discussion Point #2: Deploying to a Cloud Environment
+
+#### Recommended Cloud Provider and Services
+
+For deploying the medical data processing pipeline and API service, I recommend using Google Cloud Platform (GCP) due to its comprehensive suite of services and robust support for data processing, storage, and machine learning. Here's how you can deploy the solution on GCP:
+
+1.  **Google Cloud Storage (GCS)**:
+
+    -   Use GCS buckets to store incoming JSON files from vendors securely.
+    -   Set up event notifications for GCS buckets to trigger processing when new files are uploaded.
+
+2.  **Google Cloud Pub/Sub**:
+
+    -   Use Pub/Sub for real-time data ingestion and processing. This helps in decoupling and scaling the data processing pipeline.
+
+3.  **Google Cloud Functions**:
+
+    -   Use Cloud Functions to run pipeline script in conjunction with a Pub/Sub trigger for an event-driven architecture.
+
+4. **Google Cloud Run**:
+
+    -   Use Cloud Run for deploying the Flask API. Cloud Run automatically scales the application and abstracts away infrastructure management.
+
+5.  **Google Cloud SQL or Google Big Query**:
+
+    -   Use Cloud SQL with PostgreSQL for the relational database storage. Cloud SQL provides a fully managed database service.
+    -   Use BigQuery for large-scale data analytics. It's a serverless, highly scalable data warehouse designed for business agility.
+
