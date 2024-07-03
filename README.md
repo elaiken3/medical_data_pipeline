@@ -170,7 +170,7 @@ Instructions for Running the Pipeline
 - **rx_norm_missing**: INT
 - **taking_alpha_blockers**: BOOLEAN
 
-##### 3. conditions
+#### 3. conditions
 - **id**: INT
 - **impairment_category**: VARCHAR(255)
 - **impairment**: VARCHAR(255)
@@ -186,7 +186,7 @@ Instructions for Running the Pipeline
 - **icd_code_missing**: INT
 - **value_missing**: INT
 
-### 4. labs
+#### 4. labs
 - **impairment_category**: VARCHAR(255)
 - **impairment**: VARCHAR(255)
 - **feature_type**: VARCHAR(255)
