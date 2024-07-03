@@ -79,82 +79,57 @@ Instructions for Running the Pipeline
 
 1.  Install the required Python libraries:
 
-    bash
+    ```
+    pip install pandas numpy psycopg2 sqlalchemy flask flask-jwt-extended
+    ```
 
-    Copy code
-
-    `pip install pandas numpy psycopg2 sqlalchemy flask flask-jwt-extended`
-
-2.  Set up PostgreSQL and create a user with appropriate permissions.
+3.  Set up PostgreSQL and create a user with appropriate permissions.
 
 ### Steps to Run the Pipeline
 
-1.  **Clone the repository and navigate to the project directory:**
+1.  **Modify the database connection parameters in the pipeline script (`pipeline.py`):**
 
-    bash
-
-    Copy code
-
-    `git clone https://github.com/your-repo/medical-data-pipeline.git
-    cd medical-data-pipeline`
-
-2.  **Modify the database connection parameters in the pipeline script (`pipeline.py`):**
-
-    python
-
-    Copy code
-
-    `DB_NAME = "medical_records"
+    ```DB_NAME = "medical_records"
     DB_USER = "postgres"
     DB_PASS = "your_password"  # Replace with your actual password
     DB_HOST = "localhost"
-    DB_PORT = "5432"`
+    DB_PORT = "5432"
+    ```
+2.  **Run the pipeline script:**
 
-3.  **Run the pipeline script:**
+    ```
+    python3 pipeline.py
+    ```
+    
+3.  **Start the Flask API:**
 
-    bash
-
-    Copy code
-
-    `python pipeline.py`
-
-4.  **Start the Flask API:**
-
-    bash
-
-    Copy code
-
-    `python api.py`
+    ```
+    python3 api.py
+    ```
 
 ### Example Usage
 
 1.  **Login to Get a Token:**
 
-    bash
-
-    Copy code
-
-    `curl -X POST http://127.0.0.1:5000/login -H "Content-Type: application/json" -d '{"username":"test", "password":"test"}'`
+    ```
+    curl -X POST http://127.0.0.1:5000/login -H "Content-Type: application/json" -d '{"username":"test", "password":"test"}'
+    ```
 
     This should return a JSON response with the access token.
 
-2.  **Access Processed Data:**
+3.  **Access Processed Data:**
 
-    bash
-
-    Copy code
-
-    `curl -X GET http://127.0.0.1:5000/person/1 -H "Authorization: Bearer YOUR_ACCESS_TOKEN"`
+    ```
+    curl -X GET http://127.0.0.1:5000/person/1 -H "Authorization: Bearer YOUR_ACCESS_TOKEN"
+    ```
 
     Replace `YOUR_ACCESS_TOKEN` with the token received from the login response.
 
-3.  **Access Calculated Features:**
+5.  **Access Calculated Features:**
 
-    bash
-
-    Copy code
-
-    `curl -X GET http://127.0.0.1:5000/person/1/features -H "Authorization: Bearer YOUR_ACCESS_TOKEN"`
+    ```
+    curl -X GET http://127.0.0.1:5000/person/1/features -H "Authorization: Bearer YOUR_ACCESS_TOKEN"
+    ```
 
     Replace `YOUR_ACCESS_TOKEN` with the token received from the login response.
 
