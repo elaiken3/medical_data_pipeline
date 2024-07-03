@@ -54,10 +54,6 @@ class LifestyleCleaner(DataCleaner):
     def clean(self):
         super().clean()
         self.standardize_dates('report_date')
-    
-    def feature_engineer(self):
-        # Example: Add additional feature engineering logic specific to lifestyle data here
-        pass
 
 # Feature Engineering Functions
 def is_taking_alpha_blockers(rx_data):
@@ -94,8 +90,6 @@ def get_most_recent_a1c(labs_data):
         return a1c_data.sort_values(by='feature_date', ascending=False).iloc[0]['value']
     return np.nan
 
-
-
 class RxCleaner(DataCleaner):
     def clean(self):
         super().clean()
@@ -109,10 +103,6 @@ class ConditionsCleaner(DataCleaner):
     def clean(self):
         super().clean()
         self.standardize_dates('report_date')
-    
-    def feature_engineer(self):
-        # Example: Add additional feature engineering logic specific to conditions data here
-        pass
 
 class LabsCleaner(DataCleaner):
     def clean(self):
