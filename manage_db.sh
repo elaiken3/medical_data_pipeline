@@ -35,4 +35,3 @@ else
     echo "Invalid action. Use 'setup' or 'teardown'."
     exit 1
 fi
-

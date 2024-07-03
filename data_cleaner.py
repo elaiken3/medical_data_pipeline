@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 # Database connection parameters
 DB_NAME = "medical_records"
 DB_USER = "postgres"
-DB_PASS = "password1234"
+DB_PASS = ""
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
@@ -161,26 +161,31 @@ def main():
         lifestyle_cleaner.clean()
         lifestyle_cleaner.feature_engineer()
         lifestyle_cleaned_data = lifestyle_cleaner.data
+        print(lifestyle_cleaned_data.columns)
 
         rx_cleaner = RxCleaner('rx_ae.csv')
         rx_cleaner.clean()
         rx_cleaner.feature_engineer()
         rx_cleaned_data = rx_cleaner.data
+        print(rx_cleaned_data.columns)
 
         conditions_cleaner = ConditionsCleaner('conditions_ae.csv')
         conditions_cleaner.clean()
         conditions_cleaner.feature_engineer()
         conditions_cleaned_data = conditions_cleaner.data
+        print(conditions_cleaned_data.columns)
 
         labs_cleaner = LabsCleaner('labs_ae.csv')
         labs_cleaner.clean()
         labs_cleaner.feature_engineer()
         labs_cleaned_data = labs_cleaner.data
+        print(labs_cleaned_data.columns)
 
         tests_cleaner = TestsCleaner('tests_ae.csv')
         tests_cleaner.clean()
         tests_cleaner.feature_engineer()
         tests_cleaned_data = tests_cleaner.data
+        print(tests_cleaned_data.columns)
 
         # Database connection parameters
         
