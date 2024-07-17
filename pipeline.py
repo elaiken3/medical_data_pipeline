@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 import psycopg2
@@ -11,12 +12,13 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(leve
 logger = logging.getLogger(__name__)
 
 # Database connection parameters
-DB_NAME = "medical_records"
-DB_USER = "postgres"
-DB_PASS = ""
-DB_HOST = "localhost"
-DB_PORT = "5432"
+DB_NAME = os.getenv('DB_NAME', 'medical_records')
+DB_USER = os.getenv('DB_USER', 'postgres')
+DB_PASS = os.getenv('DB_PASS', '')
+DB_HOST = os.getenv('DB_HOST', 'db')
+DB_PORT = os.getenv('DB_PORT', '5432')
 
+logger.debug(f"Database connection parameters: DB_NAME={DB_NAME}, DB_USER={DB_USER}, DB_HOST={DB_HOST}, DB_PORT={DB_PORT}")
 
 class DataCleaner:
     def __init__(self, filepath):
@@ -127,7 +129,7 @@ class TestsCleaner(DataCleaner):
 
 def execute_bash_script(action):
     try:
-        result = subprocess.run(['bash', 'manage_db.sh', action, DB_PASS], capture_output=True, text=True)
+        result = subprocess.run(['bash', 'manage_db.sh', action], capture_output=True, text=True)
         logger.info(result.stdout)
         if result.returncode != 0:
             logger.error(result.stderr)
@@ -149,7 +151,6 @@ def main():
         # Initialize and clean each CSV
         lifestyle_cleaner = LifestyleCleaner('lifestyle_ae.csv')
         lifestyle_cleaner.clean()
-        lifestyle_cleaner.feature_engineer()
         lifestyle_cleaned_data = lifestyle_cleaner.data
         print(lifestyle_cleaned_data.columns)
 
@@ -161,7 +162,6 @@ def main():
 
         conditions_cleaner = ConditionsCleaner('conditions_ae.csv')
         conditions_cleaner.clean()
-        conditions_cleaner.feature_engineer()
         conditions_cleaned_data = conditions_cleaner.data
         print(conditions_cleaned_data.columns)
 
@@ -178,19 +178,20 @@ def main():
         print(tests_cleaned_data.columns)
 
         # Database connection parameters
+        DB_NAME = os.getenv('DB_NAME', 'medical_records')
+        DB_USER = os.getenv('DB_USER', 'postgres')
+        DB_PASS = os.getenv('DB_PASS', '')
+        DB_HOST = os.getenv('DB_HOST', 'db')
+        DB_PORT = os.getenv('DB_PORT', '5432')
+
+        logger.debug(f"Database connection parameters: DB_NAME={DB_NAME}, DB_USER={DB_USER}, DB_HOST={DB_HOST}, DB_PORT={DB_PORT}")
         
         # Execute database setup
         execute_bash_script('setup')
 
         # Create a connection to the database
-        conn = psycopg2.connect(
-            dbname=DB_NAME,
-            user=DB_USER,
-            password=DB_PASS,
-            host=DB_HOST,
-            port=DB_PORT
-        )
-        engine = create_engine(f'postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}')
+        conn_string = f'postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}'
+        engine = create_engine(conn_string)
 
         # Load the cleaned data into the respective tables
         load_data(lifestyle_cleaned_data, 'lifestyle', engine)
@@ -200,7 +201,7 @@ def main():
         load_data(tests_cleaned_data, 'tests', engine)
 
         # Close the connection
-        conn.close()
+        engine.dispose()
 
         # Execute database teardown
         # execute_bash_script('teardown')

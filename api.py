@@ -3,7 +3,7 @@ import pandas as pd
 import logging
 from flask_jwt_extended import JWTManager, create_access_token, jwt_required
 from sqlalchemy import create_engine
-import json
+import os
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -12,15 +12,15 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 # JWT Configuration
-app.config['JWT_SECRET_KEY'] = 'your_jwt_secret_key'  # Change this to a random secret key
+app.config['JWT_SECRET_KEY'] = os.getenv('JWT_SECRET_KEY', 'your_jwt_secret_key')  # Change this to a random secret key
 jwt = JWTManager(app)
 
 # Database connection parameters
-DB_NAME = "medical_records"
-DB_USER = "postgres"
-DB_PASS = ""  # Replace with your actual password
-DB_HOST = "localhost"
-DB_PORT = "5432"
+DB_NAME = os.getenv('DB_NAME', 'medical_records')
+DB_USER = os.getenv('DB_USER', 'postgres')
+DB_PASS = os.getenv('DB_PASS', '')  # Replace with your actual password
+DB_HOST = os.getenv('DB_HOST', 'db')
+DB_PORT = os.getenv('DB_PORT', '5432')
 DATABASE_URL = f'postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}'
 
 # Create SQLAlchemy engine
@@ -104,4 +104,4 @@ def get_person_features_route(person_id):
         return jsonify({"error": "Feature fetch error"}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0')

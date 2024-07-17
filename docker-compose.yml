@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+    ports:
+      - "5433:5432" # Changed the host port to 5433
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  app:
+    build: .
+    depends_on:
+      - db
+    environment:
+      DB_NAME: ${DB_NAME}
+      DB_USER: ${DB_USER}
+      DB_PASS: ${DB_PASS}
+      DB_HOST: db
+      DB_PORT: 5432
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+    ports:
+      - "5001:5000" # Changed the host port to 5001
+    volumes:
+      - .:/app
+      - ./wait-for-it.sh:/wait-for-it.sh
+    command: >
+      sh -c "/wait-for-it.sh db:5432 -- python pipeline.py && python api.py"
+    env_file:
+      - .env
+      
+volumes:
+  pgdata:
