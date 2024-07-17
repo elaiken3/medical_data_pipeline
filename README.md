@@ -72,67 +72,115 @@ Steps in the Pipeline
 -   Provides endpoints to access the processed data and calculated features for each patient.
 -   Uses JWT for secure access.
 
-Instructions for Running the Pipeline
--------------------------------------
+Containerization with Docker
+----------------------------
 
-### Prerequisites
+This project is designed to run within Docker containers for easy deployment and reproducibility. Here's how to get started:
+
+**Prerequisites:**
+
+-   Docker and Docker Compose installed on your system.
+
+**Steps:**
+
+1.  **Obtain `wait-for-it.sh` Script:**
+
+    -   Download the script from its GitHub repository:
+
+        Bash
+
+        ```
+        wget https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh
+
+        ```
+
+
+    -   Place the `wait-for-it.sh` file in your project's root directory (same level as `docker-compose.yml`).
+    -   Make it executable:
+
+        Bash
+
+        ```
+        chmod +x wait-for-it.sh
+
+        ```
+
+2.  **Define the Environment:**
+
+    -   Create a `.env` file to store your database credentials (`DB_NAME`, `DB_USER`, `DB_PASS`) and `JWT_SECRET_KEY`.
+    -   Ensure the correct values are set for `DB_HOST` and `DB_PORT` in your `pipeline.py` script, reflecting the Docker configuration.
+3.  **Build and Run with Docker Compose:**
+
+    -   Open a terminal in the project directory.
+    -   Run `docker-compose up --build`. This will build the Docker images for your application and PostgreSQL database, create containers, and start them.
+    -   The first run might take a while as it downloads the necessary images and builds the application.
+
+**Accessing the API After Deployment:**
+
+-   Once the containers are running, your Flask API should be accessible at `http://localhost:5001`.
+-   You can interact with it using tools like `curl`, a web browser, or a Python script.
+-   Remember that the `/person/<person_id>` and `/person/<person_id>/features` endpoints require JWT authentication, so you'll need to get a token from the `/login` endpoint first.
+
+**Example Usage (with curl):**
+
+Bash
+
+```
+# Login to get a token
+curl -X POST http://localhost:5001/login -H "Content-Type: application/json" -d '{"username":"test", "password":"test"}'
+
+# Access processed data
+curl -X GET http://localhost:5001/person/1 -H "Authorization: Bearer <your_access_token>"
+
+# Access calculated features
+curl -X GET http://localhost:5001/person/1/features -H "Authorization: Bearer <your_access_token>"
+
+```
+
+* * * * *
+
+**(Optional) Instructions for Running the Pipeline Locally (without Docker)**
 
 1.  Install the required Python libraries:
 
+    Bash
+
     ```
+    python -m venv venv
+    source venv/bin/activate
     pip install pandas numpy psycopg2 sqlalchemy flask flask-jwt-extended
+
     ```
 
-3.  Set up PostgreSQL and create a user with appropriate permissions.
 
-### Steps to Run the Pipeline
+2.  Set up PostgreSQL and create a user with appropriate permissions.
 
-1.  **Modify the database connection parameters in the pipeline script (`pipeline.py`):**
+3.  Modify the database connection parameters in the `.env` file:
 
-    ```DB_NAME = "medical_records"
-    DB_USER = "postgres"
-    DB_PASS = "your_password"  # Replace with your actual password
-    DB_HOST = "localhost"
-    DB_PORT = "5432"
     ```
-2.  **Run the pipeline script:**
+    DB_NAME=medical_records
+    DB_USER=postgres
+    DB_PASS=your_password  # Replace with your actual password
+
+    ```
+
+4.  Run the pipeline script:
+
+    Bash
 
     ```
     python3 pipeline.py
+
     ```
-    
-3.  **Start the Flask API:**
+
+5.  Start the Flask API:
+
+    Bash
 
     ```
     python3 api.py
-    ```
-
-### Example Usage
-
-1.  **Login to Get a Token:**
 
     ```
-    curl -X POST http://127.0.0.1:5000/login -H "Content-Type: application/json" -d '{"username":"test", "password":"test"}'
-    ```
-
-    This should return a JSON response with the access token.
-
-3.  **Access Processed Data:**
-
-    ```
-    curl -X GET http://127.0.0.1:5000/person/1 -H "Authorization: Bearer YOUR_ACCESS_TOKEN"
-    ```
-
-    Replace `YOUR_ACCESS_TOKEN` with the token received from the login response.
-
-5.  **Access Calculated Features:**
-
-    ```
-    curl -X GET http://127.0.0.1:5000/person/1/features -H "Authorization: Bearer YOUR_ACCESS_TOKEN"
-    ```
-
-    Replace `YOUR_ACCESS_TOKEN` with the token received from the login response.
-
 
 ### Database Schema Diagram ###
 
