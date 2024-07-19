@@ -1,3 +1,11 @@
+-- Drop tables if they exist
+DROP TABLE IF EXISTS lifestyle;
+DROP TABLE IF EXISTS rx;
+DROP TABLE IF EXISTS conditions;
+DROP TABLE IF EXISTS labs;
+DROP TABLE IF EXISTS tests;
+
+-- Create the tables
 CREATE TABLE lifestyle (
     impairment_category VARCHAR(255),
     impairment VARCHAR(255),

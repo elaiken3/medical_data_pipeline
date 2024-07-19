@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 import numpy as np
-import psycopg2
 from sqlalchemy import create_engine
 import logging
 import subprocess
@@ -10,15 +9,6 @@ import sys
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
-
-# Database connection parameters
-DB_NAME = os.getenv('DB_NAME', 'medical_records')
-DB_USER = os.getenv('DB_USER', 'postgres')
-DB_PASS = os.getenv('DB_PASS', '')
-DB_HOST = os.getenv('DB_HOST', 'db')
-DB_PORT = os.getenv('DB_PORT', '5432')
-
-logger.debug(f"Database connection parameters: DB_NAME={DB_NAME}, DB_USER={DB_USER}, DB_HOST={DB_HOST}, DB_PORT={DB_PORT}")
 
 class DataCleaner:
     def __init__(self, filepath):
